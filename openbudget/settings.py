@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = 'b1x67*ck^p&kqg6qz)%1r#5hg*b08*%^q%&n()f#hig9ok_$re'
+SECRET_KEY = 'g9p%$8q^43li$62*mg=tv0ke+o@^e2da%r1uo#px5n66)a^@^v'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -119,7 +119,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
-    'openbudget.budget_site',
+    'openbudget.budget_site'
 )
 
 # A sample logging configuration. The only tangible logging

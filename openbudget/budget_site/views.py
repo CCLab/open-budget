@@ -1,12 +1,9 @@
-# Create your views here.
+# -*- coding: utf-8 -*-
+from django.http import HttpResponse
+from openbudget.budget_site.models import Page, Article
 
 def main( request ):
-    return HttpResponse( 'Strona glowna' )
-
-def page( request, page_name ):
-    #ModelName = Shorts.title 
-    t = loader.get_template( "base.html" )
- #  t = Template('Witaj, {{name}}')
-    c = Context( { 'name': page_name } )
-    return HttpResponse( t.render( c ) )
-
+    return HttpResponse( 'Strona glowna!' )
+    
+def page( request, slug_name ):
+    return HttpResponse( 'strona 2 o adresie:' + slug_name)
