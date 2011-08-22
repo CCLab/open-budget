@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <!-- for older browsers like lynx -->
+    <meta content="text/html; charset=utf-8" http-equiv="Content-type">
+    <!-- ---------------------------- -->
+
+    <title>Otwarty Budżet</title>
+
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cantarell" />
+    <link rel="stylesheet" type="text/css" href="/mymedia/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/mymedia/css/wizualizacje.css" />
+    
+ 
+
+  </head>
+  <body>
+    <div id="wraper">
+    
+        <!-- H E A D E R -->
+        <header id="header">
+            <div id="site-name">
+                <a href="http://otwartybudzet.pl" style="text-decoration: none;" class="orange cantarell">
+                    Otwarty budżet
+                </a>
+            </div>
+            <a href="http://centrumcyfrowe.pl">
+                <img id="logo" src="/mymedia/img/logo.png" alt="Centrum Cyfrowe" title="Centrum Cyfrowe" />
+            </a>
+        </header>
+        
+        <br class="clear" />        
+        
+        <!-- M A I N   M E N U -->
+        <nav id="main-menu" class="cantarell">
+            <div class="menu-item">
+                <a href="http://mf.gov.pl/index.php?const=5&dzial=1803&wysw=4&sub=sub2" target="_blank">
+                    Dane Ministerstwa Finansów
+                </a>
+            </div>
+            <div class="menu-item">
+                <a href="/otwarte-dane-budzetowe/">
+                    Otwarte dane budżetowe
+                </a>
+            </div>
+            <div class="menu-item">
+                <a href="/wizualizacje/">
+                    Nasze wizualizacje <br />
+                    &nbsp;
+                </a>
+            </div>
+            <div class="menu-item orange last">
+                <a href="/konkurs/">                  
+                    Konkurs <br />
+                    &nbsp;
+                </a>
+            </div>                                    
+        </nav>
+
+        <br class="clear" />
+
+
+      {% block content %}
+      {% endblock %}
+  
+        <!-- F O O T E R -->
+      <footer>
+
+        <!-- grantodawcy -->
+        <section>
+          Projekt "Wizualizacja budżetu państwa" jest wspierany przez grant z
+          <a href="http://www.batory.org.pl/" target="_blank">
+            Fundacji im. Stefana Batorego</a>.
+          Do pracy z danymi wykorzystaliśmy system Raw Salad, tworzony z grantu
+          <a href="http://www.ceetrust.org/" target="_blank">
+            Trust for Civil Society in Central and Eastern Europe</a>.
+        </section>
+
+        <!-- loga grantodawcow-->
+        <section>
+          <a href="http://www.ceetrust.org/" target="_blank">
+            <img alt="www.ceetrust.org" title="Trust for Civil Society in Central and Eastern Europe" src="/mymedia/img/l1.png" class="left">
+          </a>
+
+          <a href="http://www.batory.org.pl/" target="_blank">
+            <img alt="www.batory.org.pl" title="Fundacja im. Stefana Batorego" src="/mymedia/img/l2.png" class="left">
+          </a>
+        </section>
+
+        <!-- projekt: polska -->
+        <section class="last">
+          <a href="http://centrumcyfrowe.pl/" target="_blank">
+          Centrum Cyfrowe</a> jest częścią 
+          <a href="http://projektpolska.pl/" target="_blank">
+            Fundacji Projekt: Polska</a>.
+          <br />
+          <a href="http://projektpolska.pl/" target="_blank">
+            <img alt="projektpolska.pl" title="Fundacja Projekt: Polska" src="/mymedia/img/ppolska.png" style="margin-top:10px" />
+          </a>
+        </section>
+
+        <br class="clear"/>
+
+        <!-- kontakt-->
+        <section id="contact">
+          Centrum Cyfrowe Projekt:Polska, ul. Mińska 25, 03-808 Warszawa,
+          <span style="text-decoration:underline;">kontakt@centrumcyfrowe.pl</span>
+          <br />
+          O ile nie jest to stwierdzone inaczej, dane publiczne udostępnione w 
+          serwisie nie są przedmiotem praw autorskich. Wszystkie inne treści, 
+          o ile nie jest to stwierdzone inaczej, są dostępne na licencji 
+          <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+            Creative Commons Uznanie autorstwa 3.0 Unported</a>. 
+          Pewne prawa zastrzeżone na rzecz 
+          <a xmlns:cc="http://creativecommons.org/ns#" href="http://centrumcyfrowe.pl" property="cc:attributionName" rel="cc:attributionURL">
+            Centrum Cyfrowego Projekt: Polska</a>. 
+          <br />
+          <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+            <img alt="Licencja Creative Commons Uznanie autorstwa 3.0 Unported" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" />
+          </a>
+        </section>
+      </footer>
+
+    </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script src="/mymedia/js/page.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1823 @@
+"id";"parent";"level";"type";"name";"part";"v_total";"v_eu";"v_nation";"v_proc_eu";"v_proc_nation"
+"total";"";"a";"SUMA";"Ogółem";"";397504708;84004046;313500662;21.13;78.87
+"1";"";"b";"FUNKCJA 1";"ZARZĄDZANIE PAŃSTWEM";"";1561521;25140;1536381;1.61;98.39
+"1-1";"1";"c";"Zadanie 1.1";"Obsługa merytoryczna i kancelaryjno-biurowa Prezydenta Rzeczypospolitej Polskiej";"";151833;0;151833;0.0;100.0
+"1-1-1";"1-1";"d";"Podzadanie 1.1.1";"Obsługa i koordynacja urzędu Prezydenta RP";"";130148;0;130148;0.0;100.0
+"1-1-1-1";"1-1-1";"e";"Dysponent";"Kancelaria Prezydenta RP";"01";130148;0;130148;0.0;100.0
+"1-1-2";"1-1";"d";"Podzadanie 1.1.2";"Obsługa prawna urzędu Prezydenta RP";"";4960;0;4960;0.0;100.0
+"1-1-2-1";"1-1-2";"e";"Dysponent";"Kancelaria Prezydenta RP";"01";4960;0;4960;0.0;100.0
+"1-1-3";"1-1";"d";"Podzadanie 1.1.3";"Obsługa merytoryczna Biura Bezpieczeństwa Narodowego";"";16725;0;16725;0.0;100.0
+"1-1-3-1";"1-1-3";"e";"Dysponent";"Kancelaria Prezydenta RP";"01";16725;0;16725;0.0;100.0
+"1-2";"1";"c";"Zadanie 1.2";"Obsługa Parlamentu i jego organów w zakresie merytorycznym i organizacyjnym";"";445085;0;445085;0.0;100.0
+"1-2-1";"1-2";"d";"Podzadanie 1.2.1";"Wsparcie merytoryczne parlamentarzystów";"";62815;0;62815;0.0;100.0
+"1-2-1-1";"1-2-1";"e";"Dysponent";"Kancelaria Sejmu";"02";50426;0;50426;0.0;100.0
+"1-2-1-2";"1-2-1";"e";"Dysponent";"Kancelaria Senatu";"03";12389;0;12389;0.0;100.0
+"1-2-2";"1-2";"d";"Podzadanie 1.2.2";"Zapewnianie warunków wykonywania mandatu posła i senatora";"";382270;0;382270;0.0;100.0
+"1-2-2-1";"1-2-2";"e";"Dysponent";"Kancelaria Sejmu";"02";329750;0;329750;0.0;100.0
+"1-2-2-2";"1-2-2";"e";"Dysponent";"Kancelaria Senatu";"03";52520;0;52520;0.0;100.0
+"1-3";"1";"c";"Zadanie 1.3";"Obsługa merytoryczna i kancelaryjno-biurowa Prezesa Rady Ministrów i Rady Ministrów";"";128922;24186;104736;18.76;81.24
+"1-3-1";"1-3";"d";"Podzadanie 1.3.1";"Obsługa i koordynacja prac rządu";"";63232;0;63232;0.0;100.0
+"1-3-1-1";"1-3-1";"e";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";63232;0;63232;0.0;100.0
+"1-3-2";"1-3";"d";"Podzadanie 1.3.2";"Obsługa prawna Rady Ministrów";"";20108;296;19812;1.47;98.53
+"1-3-2-1";"1-3-2";"e";"Dysponent";"Rządowe Centrum Legislacji";"75";20108;296;19812;1.47;98.53
+"1-3-3";"1-3";"d";"Podzadanie 1.3.3";"Zarządzanie korpusem służby cywilnej oraz podnoszenie jakości pracy w urzędach administracji rządowej";"";40592;23832;16760;58.71;41.29
+"1-3-3-1";"1-3-3";"e";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";40592;23832;16760;58.71;41.29
+"1-3-4";"1-3";"d";"Podzadanie 1.3.4";"Redagowanie i udostępnianie Dziennika Ustaw Rzeczypospolitej Polskiej oraz Dziennika Urzędowego Rzeczypospolitej Polskiej ``Monitor Polski``";"";4990;58;4932;1.16;98.84
+"1-3-4-1";"1-3-4";"e";"Dysponent";"Rządowe Centrum Legislacji";"75";4990;58;4932;1.16;98.84
+"1-4";"1";"c";"Zadanie 1.4";"Obsługa Trybunału Konstytucyjnego w zakresie merytorycznym i organizacyjnym";"";22598;0;22598;0.0;100.0
+"1-4-1";"1-4";"d";"Podzadanie 1.4.1";"Działalność orzecznicza Trybunału Konstytucyjnego";"";7630;0;7630;0.0;100.0
+"1-4-1-1";"1-4-1";"e";"Dysponent";"Trybunał Konstytucyjny";"06";7630;0;7630;0.0;100.0
+"1-4-2";"1-4";"d";"Podzadanie 1.4.2";"Obsługa i koordynacja prac Trybunału Konstytucyjnego";"";14968;0;14968;0.0;100.0
+"1-4-2-1";"1-4-2";"e";"Dysponent";"Trybunał Konstytucyjny";"06";14968;0;14968;0.0;100.0
+"1-5";"1";"c";"Zadanie 1.5";"Organizacja i przeprowadzanie wyborów";"";228333;0;228333;0.0;100.0
+"1-5-1";"1-5";"d";"Podzadanie 1.5.1";"Wybory Prezydenta Rzeczpospolitej Polskiej";"";0;0;0;0;0
+"1-5-1-1";"1-5-1";"e";"Dysponent";"Krajowe Biuro Wyborcze";"11";0;0;0;0;0
+"1-5-2";"1-5";"d";"Podzadanie 1.5.2";"Wybory do Sejmu i Senatu";"";0;0;0;0;0
+"1-5-2-1";"1-5-2";"e";"Dysponent";"Krajowe Biuro Wyborcze";"11";0;0;0;0;0
+"1-5-4";"1-5";"d";"Podzadanie 1.5.4";"Wybory do rad gmin, rad powiatów i sejmików województw, wybory wójtów, burmistrzów i prezydentów miast oraz referenda gminne, powiatowe i wojewódzkie";"";121;0;121;0.0;100.0
+"1-5-4-1";"1-5-4";"e";"Dysponent";"Krajowe Biuro Wyborcze";"11";0;0;0;0;0
+"1-5-4-2";"1-5-4";"e";"Dysponent";"Wojewodowie";"85";121;0;121;0.0;100.0
+"1-5-5";"1-5";"d";"Podzadanie 1.5.5";"Referenda ogólnokrajowe i konstytucyjne w tym obsługa pod względem merytorycznym, finansowym, technicznym i organizacyjnym PKW i Komisarzy wyborczych";"";0;0;0;0;0
+"1-5-5-1";"1-5-5";"e";"Dysponent";"Krajowe Biuro Wyborcze";"11";0;0;0;0;0
+"1-5-6";"1-5";"d";"Podzadanie 1.5.6";"Finansowanie partii politycznych";"";228212;0;228212;0.0;100.0
+"1-5-6-1";"1-5-6";"e";"Dysponent";"Ministerstwo Finansów";"19";228212;0;228212;0.0;100.0
+"1-6";"1";"c";"Zadanie 1.6";"Nadzór nad systemem zamówień publicznych";"";12903;454;12449;3.52;96.48
+"1-6-1";"1-6";"d";"Podzadanie 1.6.1";"Nadzór nad przestrzeganiem zasad systemu zamówień w szczególności dokonywanie kontroli procesu udzielania zamówień w zakresie przewidzianym ustawą";"";6844;454;6390;6.63;93.37
+"1-6-1-1";"1-6-1";"e";"Dysponent";"Urząd Zamówień Publicznych";"49";6844;454;6390;6.63;93.37
+"1-6-2";"1-6";"d";"Podzadanie 1.6.2";"System odwołań";"";6059;0;6059;0.0;100.0
+"1-6-2-1";"1-6-2";"e";"Dysponent";"Urząd Zamówień Publicznych";"49";6059;0;6059;0.0;100.0
+"1-7";"1";"c";"Zadanie 1.7";"Ocena działalności organów administracji publicznej, Narodowego Banku Polskiego oraz jednostek organizacyjnych wydatkujących środki publiczne z punktu widzenia ustawowych kryteriów NIK";"";275124;0;275124;0.0;100.0
+"1-7-1";"1-7";"d";"Podzadanie 1.7.1";"Przygotowanie i wykonanie kontroli oraz upublicznienie ich wyników";"";232860;0;232860;0.0;100.0
+"1-7-1-1";"1-7-1";"e";"Dysponent";"Najwyższa Izba Kontroli";"07";232860;0;232860;0.0;100.0
+"1-7-2";"1-7";"d";"Podzadanie 1.7.2";"Przygotowanie analizy wykonania budżetu państwa i założeń polityki pieniężnej oraz innych opracowań sektorowych";"";3013;0;3013;0.0;100.0
+"1-7-2-1";"1-7-2";"e";"Dysponent";"Najwyższa Izba Kontroli";"07";3013;0;3013;0.0;100.0
+"1-7-3";"1-7";"d";"Podzadanie 1.7.3";"Wykonywanie nie kontrolnych funkcji naczelnego organu kontroli państwowej";"";17587;0;17587;0.0;100.0
+"1-7-3-1";"1-7-3";"e";"Dysponent";"Najwyższa Izba Kontroli";"07";17587;0;17587;0.0;100.0
+"1-7-4";"1-7";"d";"Podzadanie 1.7.4";"Zarządzanie kapitałem ludzkim";"";21664;0;21664;0.0;100.0
+"1-7-4-1";"1-7-4";"e";"Dysponent";"Najwyższa Izba Kontroli";"07";21664;0;21664;0.0;100.0
+"1-8";"1";"c";"Zadanie 1.8";"Ochrona wolności słowa, prawo do informacji oraz interes publiczny w radiofonii i telewizji";"";9993;0;9993;0.0;100.0
+"1-8-1";"1-8";"d";"Podzadanie 1.8.1";"Koncesje na rozpowszechnianie programów radiowych i telewizyjnych oraz rejestrowanie programów rozprowadzanych w sieciach kablowych";"";3290;0;3290;0.0;100.0
+"1-8-1-1";"1-8-1";"e";"Dysponent";"Krajowa Rada Radiofonii i Telewizji";"09";3290;0;3290;0.0;100.0
+"1-8-2";"1-8";"d";"Podzadanie 1.8.2";"Kontrola programów radiowych i telewizyjnych oraz organizowanie badań treści i odbioru tych programów";"";4660;0;4660;0.0;100.0
+"1-8-2-1";"1-8-2";"e";"Dysponent";"Krajowa Rada Radiofonii i Telewizji";"09";4660;0;4660;0.0;100.0
+"1-8-3";"1-8";"d";"Podzadanie 1.8.3";"Działalność KRRiT w zakresie środków abonamentowych";"";2043;0;2043;0.0;100.0
+"1-8-3-1";"1-8-3";"e";"Dysponent";"Krajowa Rada Radiofonii i Telewizji";"09";2043;0;2043;0.0;100.0
+"1-9";"1";"c";"Zadanie 1.9";"Gromadzenie i zarządzanie dokumentami organów bezpieczeństwa państwa oraz organów bezpieczeństwa III Rzeszy Niemieckiej i Związku Socjalistycznych Republik Radzieckich sporządzonymi od 1 września 1939 r. do 31 lipca 1990 r., prowadzenie śledztw w sprawie zbrodni nazistowskich, komunistycznych, zbrodni przeciwko ludzkości i innych, działalność lustracyjna";"";182556;0;182556;0.0;100.0
+"1-9-1";"1-9";"d";"Podzadanie 1.9.1";"Udostępnianie dokumentów i informacji o zbiorach zgromadzonych w archiwach IPN";"";124046;0;124046;0.0;100.0
+"1-9-1-1";"1-9-1";"e";"Dysponent";"Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu";"13";124046;0;124046;0.0;100.0
+"1-9-2";"1-9";"d";"Podzadanie 1.9.2";"Prowadzenie śledztw w sprawie zbrodni nazistowskich, komunistycznych oraz przeciwko ludzkości i innych";"";30621;0;30621;0.0;100.0
+"1-9-2-1";"1-9-2";"e";"Dysponent";"Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu";"13";30621;0;30621;0.0;100.0
+"1-9-3";"1-9";"d";"Podzadanie 1.9.3";"Przygotowywanie i publikowanie informacji dotyczących funkcjonariuszy organów bezpieczeństwa państwa, osób rozpracowywanych, funkcjonariuszy państwowych i partyjnych w latach 1944-1990 oraz osób publicznych wg art. 22 tzw. ustawy lustracyjnej z 2006 roku, prowadzenie rejestru oświadczeń lustracyjnych i jego analiza, przygotowanie postępowań lustracyjnych";"";27889;0;27889;0.0;100.0
+"1-9-3-1";"1-9-3";"e";"Dysponent";"Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu";"13";27889;0;27889;0.0;100.0
+"1-10";"1";"c";"Zadanie 1.10";"Ocena gospodarki finansowej jednostek samorządu terytorialnego z punktu widzenia kryteriów ustawowych";"";103251;500;102751;0.48;99.52
+"1-10-1";"1-10";"d";"Podzadanie 1.10.1";"Przygotowanie i wykonanie kontroli oraz upublicznienie ich wyników";"";46359;205;46154;0.44;99.56
+"1-10-1-1";"1-10-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"80";46359;205;46154;0.44;99.56
+"1-10-2";"1-10";"d";"Podzadanie 1.10.2";"Sprawowanie nadzoru nad jednostkami samorządu terytorialnego oraz działalność opiniodawcza";"";56892;295;56597;0.52;99.48
+"1-10-2-1";"1-10-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"80";56892;295;56597;0.52;99.48
+"1-11";"1";"c";"Zadanie 1.11";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";923;0;923;0.0;100.0
+"1-11-1";"1-11";"d";"Podzadanie 1.11.1";"Utrzymanie systemów informatycznych";"";923;0;923;0.0;100.0
+"1-11-1-1";"1-11-1";"e";"Dysponent";"Urząd Zamówień Publicznych";"49";923;0;923;0.0;100.0
+"2";"";"b";"FUNKCJA 2";"BEZPIECZEŃSTWO WEWNĘTRZNE I PORZĄDEK PUBLICZNY";"";14170616;58779;14111837;0.41;99.59
+"2-1";"2";"c";"Zadanie 2.1";"Ochrona obywateli i utrzymanie porządku publicznego";"";5795284;37059;5758225;0.64;99.36
+"2-1-1";"2-1";"d";"Podzadanie 2.1.1";"Zapewnienie bezpieczeństwa wewnętrznego państwa";"";529669;0;529669;0.0;100.0
+"2-1-1-1";"2-1-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";31975;0;31975;0.0;100.0
+"2-1-1-2";"2-1-1";"e";"Dysponent";"Agencja Bezpieczeństwa Wewnętrznego";"57";497682;0;497682;0.0;100.0
+"2-1-1-3";"2-1-1";"e";"Dysponent";"Wojewodowie";"85";12;0;12;0.0;100.0
+"2-1-2";"2-1";"d";"Podzadanie 2.1.2";"Zapewnienie bezpieczeństwa najważniejszym osobom, obiektom i urządzeniom w państwie";"";177382;0;177382;0.0;100.0
+"2-1-2-1";"2-1-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";177382;0;177382;0.0;100.0
+"2-1-3";"2-1";"d";"Podzadanie 2.1.3";"Zapewnienie działania służby prewencyjnej";"";4309904;31751;4278153;0.74;99.26
+"2-1-3-1";"2-1-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";4309904;31751;4278153;0.74;99.26
+"2-1-4";"2-1";"d";"Podzadanie 2.1.4";"Zapewnienie działania służby ruchu drogowego";"";723296;5308;717988;0.73;99.27
+"2-1-4-1";"2-1-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";723296;5308;717988;0.73;99.27
+"2-1-5";"2-1";"d";"Podzadanie 2.1.5";"Wydawanie zezwoleń, koncesji, wpisu do rejestru działalności regulowanej oraz kontrola własna działalności koncesjonowanej, regulowanej i legalności nabycia nieruchomości, akcji i udziałów przez cudzoziemców";"";3705;0;3705;0.0;100.0
+"2-1-5-1";"2-1-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";3705;0;3705;0.0;100.0
+"2-1-6";"2-1";"d";"Podzadanie 2.1.6";"Wykonywanie zadań z zakresu postępowania mandatowego w sprawach o wykroczenia";"";792;0;792;0.0;100.0
+"2-1-6-1";"2-1-6";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";792;0;792;0.0;100.0
+"2-1-7";"2-1";"d";"Podzadanie 2.1.7";"Program wieloletni ``Program modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007-2011``";"";50536;0;50536;0.0;100.0
+"2-1-7-1";"2-1-7";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";50536;0;50536;0.0;100.0
+"2-2";"2";"c";"Zadanie 2.2";"Redukowanie przestępczości i działania na rzecz poprawy społecznego poczucia bezpieczeństwa";"";3084993;21650;3063343;0.7;99.3
+"2-2-1";"2-2";"d";"Podzadanie 2.2.1";"Zapewnienie działania służby śledczej i kryminalnej";"";2946403;21650;2924753;0.73;99.27
+"2-2-1-1";"2-2-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";2946403;21650;2924753;0.73;99.27
+"2-2-2";"2-2";"d";"Podzadanie 2.2.2";"Zwalczanie korupcji";"";106971;0;106971;0.0;100.0
+"2-2-2-1";"2-2-2";"e";"Dysponent";"Centralne Biuro Antykorupcyjne";"56";106971;0;106971;0.0;100.0
+"2-2-3";"2-2";"d";"Podzadanie 2.2.3";"Zapobieganie przestępczości i aspołecznym zachowaniom oraz przeciwdziałanie przemocy i patologiom społecznym";"";4033;0;4033;0.0;100.0
+"2-2-3-1";"2-2-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";3072;0;3072;0.0;100.0
+"2-2-3-2";"2-2-3";"e";"Dysponent";"Wojewodowie";"85";961;0;961;0.0;100.0
+"2-2-4";"2-2";"d";"Podzadanie 2.2.4";"Wsparcie i ochrona ofiar handlu ludźmi";"";1260;0;1260;0.0;100.0
+"2-2-4-1";"2-2-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1260;0;1260;0.0;100.0
+"2-2-6";"2-2";"d";"Podzadanie 2.2.6";"Program wieloletni ``Program modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007-2011``";"";26326;0;26326;0.0;100.0
+"2-2-6-1";"2-2-6";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";26326;0;26326;0.0;100.0
+"2-3";"2";"c";"Zadanie 2.3";"Strzeżenie praworządności i czuwanie nad ściganiem przestępstw przez prokuraturę";"";1585535;0;1585535;0.0;100.0
+"2-3-1";"2-3";"d";"Podzadanie 2.3.1";"Przygotowanie postępowania przygotowawczego i procesowego";"";1468483;0;1468483;0.0;100.0
+"2-3-1-1";"2-3-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";39276;0;39276;0.0;100.0
+"2-3-1-2";"2-3-1";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";0;0;0;0;0
+"2-3-1-3";"2-3-1";"e";"Dysponent";"Prokuratura Generalna";"88";1429207;0;1429207;0.0;100.0
+"2-3-2";"2-3";"d";"Podzadanie 2.3.2";"Zwalczanie przestępczości zorganizowanej";"";39380;0;39380;0.0;100.0
+"2-3-2-1";"2-3-2";"e";"Dysponent";"Prokuratura Generalna";"88";39380;0;39380;0.0;100.0
+"2-3-3";"2-3";"d";"Podzadanie 2.3.3";"Realizacja zadań Prokuratora Generalnego w postępowaniach przed SN, TK, NSA oraz innych przewidzianych w ustawach";"";77672;0;77672;0.0;100.0
+"2-3-3-1";"2-3-3";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";0;0;0;0;0
+"2-3-3-2";"2-3-3";"e";"Dysponent";"Prokuratura Generalna";"88";77672;0;77672;0.0;100.0
+"2-4";"2";"c";"Zadanie 2.4";"Ochrona przeciwpożarowa, działalność ratowniczo-gaśnicza oraz zapobiegawcza";"";2168901;70;2168831;0.0;100.0
+"2-4-1";"2-4";"d";"Podzadanie 2.4.1";"Działalność ratowniczo-gaśnicza";"";2090993;0;2090993;0.0;100.0
+"2-4-1-1";"2-4-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";143111;0;143111;0.0;100.0
+"2-4-1-2";"2-4-1";"e";"Dysponent";"Wojewodowie";"85";1947882;0;1947882;0.0;100.0
+"2-4-2";"2-4";"d";"Podzadanie 2.4.2";"Działalność ratownictwa górskiego i wodnego";"";12454;0;12454;0.0;100.0
+"2-4-2-1";"2-4-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";12454;0;12454;0.0;100.0
+"2-4-3";"2-4";"d";"Podzadanie 2.4.3";"Rozpoznawanie zagrożeń";"";65310;70;65240;0.11;99.89
+"2-4-3-1";"2-4-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1271;70;1201;5.51;94.49
+"2-4-3-2";"2-4-3";"e";"Dysponent";"Wojewodowie";"85";64039;0;64039;0.0;100.0
+"2-4-4";"2-4";"d";"Podzadanie 2.4.4";"Program wieloletni ``Program modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007-2011``";"";144;0;144;0.0;100.0
+"2-4-4-1";"2-4-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";116;0;116;0.0;100.0
+"2-4-4-2";"2-4-4";"e";"Dysponent";"Wojewodowie";"85";28;0;28;0.0;100.0
+"2-5";"2";"c";"Zadanie 2.5";"Zarządzanie kryzysowe i obrona cywilna";"";45541;0;45541;0.0;100.0
+"2-5-1";"2-5";"d";"Podzadanie 2.5.1";"Koordynacja przedsięwzięć z zakresu zarządzania kryzysowego";"";25237;0;25237;0.0;100.0
+"2-5-1-1";"2-5-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";42;0;42;0.0;100.0
+"2-5-1-2";"2-5-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";7052;0;7052;0.0;100.0
+"2-5-1-3";"2-5-1";"e";"Dysponent";"Wojewodowie";"85";18143;0;18143;0.0;100.0
+"2-5-2";"2-5";"d";"Podzadanie 2.5.2";"Przeciwdziałanie i usuwanie skutków klęsk żywiołowych";"";1457;0;1457;0.0;100.0
+"2-5-2-1";"2-5-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1457;0;1457;0.0;100.0
+"2-5-2-2";"2-5-2";"e";"Dysponent";"Wojewodowie";"85";0;0;0;0;0
+"2-5-3";"2-5";"d";"Podzadanie 2.5.3";"Obrona cywilna";"";18847;0;18847;0.0;100.0
+"2-5-3-1";"2-5-3";"e";"Dysponent";"Ministerstwo Finansów";"19";227;0;227;0.0;100.0
+"2-5-3-2";"2-5-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";41;0;41;0.0;100.0
+"2-5-3-3";"2-5-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1986;0;1986;0.0;100.0
+"2-5-3-4";"2-5-3";"e";"Dysponent";"Wojewodowie";"85";16593;0;16593;0.0;100.0
+"2-6";"2";"c";"Zadanie 2.6";"Ochrona granicy państwowej i kontrola ruchu granicznego";"";1427373;0;1427373;0.0;100.0
+"2-6-1";"2-6";"d";"Podzadanie 2.6.1";"Ochrona granicy państwowej";"";502964;0;502964;0.0;100.0
+"2-6-1-1";"2-6-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";502964;0;502964;0.0;100.0
+"2-6-2";"2-6";"d";"Podzadanie 2.6.2";"Kontrola ruchu granicznego";"";330499;0;330499;0.0;100.0
+"2-6-2-1";"2-6-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";330499;0;330499;0.0;100.0
+"2-6-3";"2-6";"d";"Podzadanie 2.6.3";"Zapobieganie nielegalnej migracji";"";293973;0;293973;0.0;100.0
+"2-6-3-1";"2-6-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";293973;0;293973;0.0;100.0
+"2-6-4";"2-6";"d";"Podzadanie 2.6.4";"Budowa i utrzymanie przejść granicznych";"";188418;0;188418;0.0;100.0
+"2-6-4-1";"2-6-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";299;0;299;0.0;100.0
+"2-6-4-2";"2-6-4";"e";"Dysponent";"Wojewodowie";"85";188119;0;188119;0.0;100.0
+"2-6-5";"2-6";"d";"Podzadanie 2.6.5";"Rozpoznawanie, zapobieganie i wykrywanie przestępstw oraz ściganie ich sprawców, w zakresie właściwości SG";"";98548;0;98548;0.0;100.0
+"2-6-5-1";"2-6-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";98548;0;98548;0.0;100.0
+"2-6-6";"2-6";"d";"Podzadanie 2.6.6";"Program wieloletni ``Program modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007-2011``";"";12971;0;12971;0.0;100.0
+"2-6-6-1";"2-6-6";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";12971;0;12971;0.0;100.0
+"2-7";"2";"c";"Zadanie 2.7";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";62989;0;62989;0.0;100.0
+"2-7-1";"2-7";"d";"Podzadanie 2.7.1";"Utrzymanie systemów informatycznych";"";61198;0;61198;0.0;100.0
+"2-7-1-1";"2-7-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";61198;0;61198;0.0;100.0
+"2-7-2";"2-7";"d";"Podzadanie 2.7.2";"Budowa i wdrożenie rozwiązań informatycznych";"";1791;0;1791;0.0;100.0
+"2-7-2-1";"2-7-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1791;0;1791;0.0;100.0
+"3";"";"b";"FUNKCJA 3";"EDUKACJA, WYCHOWANIE I OPIEKA";"";14379196;1016384;13362812;7.07;92.93
+"3-1";"3";"c";"Zadanie 3.1";"Edukacja i wychowanie";"";1929627;395308;1534319;20.49;79.51
+"3-1-1";"3-1";"d";"Podzadanie 3.1.1";"Zarządzanie i nadzór nad systemem edukacji i wychowania";"";145435;52454;92981;36.07;63.93
+"3-1-1-1";"3-1-1";"e";"Dysponent";"Wojewodowie";"85";9134;0;9134;0.0;100.0
+"3-1-1-2";"3-1-1";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";136301;52454;83847;38.48;61.52
+"3-1-2";"3-1";"d";"Podzadanie 3.1.2";"Kształcenie ogólne, zawodowe i ustawiczne";"";1045109;66980;978129;6.41;93.59
+"3-1-2-1";"3-1-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";27374;0;27374;0.0;100.0
+"3-1-2-2";"3-1-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";41745;34386;7359;82.37;17.63
+"3-1-2-3";"3-1-2";"e";"Dysponent";"Wojewodowie";"85";7369;0;7369;0.0;100.0
+"3-1-2-4";"3-1-2";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";605793;0;605793;0.0;100.0
+"3-1-2-5";"3-1-2";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";16938;12877;4061;76.02;23.98
+"3-1-2-6";"3-1-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";88067;0;88067;0.0;100.0
+"3-1-2-7";"3-1-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";176120;16853;159267;9.57;90.43
+"3-1-2-8";"3-1-2";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";3201;2864;337;89.47;10.53
+"3-1-2-9";"3-1-2";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";40310;0;40310;0.0;100.0
+"3-1-2-10";"3-1-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";38192;0;38192;0.0;100.0
+"3-1-3";"3-1";"d";"Podzadanie 3.1.3";"Kształcenie i doskonalenie nauczycieli oraz kształtowanie ich pragmatyki zawodowej";"";174668;106433;68235;60.93;39.07
+"3-1-3-1";"3-1-3";"e";"Dysponent";"Wojewodowie";"85";15316;0;15316;0.0;100.0
+"3-1-3-2";"3-1-3";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";5785;0;5785;0.0;100.0
+"3-1-3-3";"3-1-3";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";151666;106433;45233;70.18;29.82
+"3-1-3-4";"3-1-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";1551;0;1551;0.0;100.0
+"3-1-3-5";"3-1-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";14;0;14;0.0;100.0
+"3-1-3-6";"3-1-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";336;0;336;0.0;100.0
+"3-1-4";"3-1";"d";"Podzadanie 3.1.4";"Egzaminy zewnętrzne";"";241776;40135;201641;16.6;83.4
+"3-1-4-1";"3-1-4";"e";"Dysponent";"Ministerstwo Zdrowia";"46";4530;0;4530;0.0;100.0
+"3-1-4-2";"3-1-4";"e";"Dysponent";"Wojewodowie";"85";1748;0;1748;0.0;100.0
+"3-1-4-3";"3-1-4";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";235498;40135;195363;17.04;82.96
+"3-1-5";"3-1";"d";"Podzadanie 3.1.5";"Wspieranie uczniów zdolnych oraz dzieci i młodzieży ze specjalnymi potrzebami edukacyjnymi";"";60442;42100;18342;69.65;30.35
+"3-1-5-1";"3-1-5";"e";"Dysponent";"Wojewodowie";"85";7782;0;7782;0.0;100.0
+"3-1-5-2";"3-1-5";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";52660;42100;10560;79.95;20.05
+"3-1-6";"3-1";"d";"Podzadanie 3.1.6";"Edukacja pozalekcyjna i pozaszkolna";"";117859;87206;30653;73.99;26.01
+"3-1-6-1";"3-1-6";"e";"Dysponent";"Wojewodowie";"85";15451;0;15451;0.0;100.0
+"3-1-6-2";"3-1-6";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";101788;87206;14582;85.67;14.33
+"3-1-6-3";"3-1-6";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";620;0;620;0.0;100.0
+"3-1-7";"3-1";"d";"Podzadanie 3.1.7";"Wspieranie dostępu do podręczników";"";5366;0;5366;0.0;100.0
+"3-1-7-1";"3-1-7";"e";"Dysponent";"Wojewodowie";"85";138;0;138;0.0;100.0
+"3-1-7-2";"3-1-7";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";5228;0;5228;0.0;100.0
+"3-1-8";"3-1";"d";"Podzadanie 3.1.8";"Wsparcie działalności edukacyjno-wychowawczej";"";65774;0;65774;0.0;100.0
+"3-1-8-1";"3-1-8";"e";"Dysponent";"Wojewodowie";"85";2271;0;2271;0.0;100.0
+"3-1-8-2";"3-1-8";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";25183;0;25183;0.0;100.0
+"3-1-8-3";"3-1-8";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";577;0;577;0.0;100.0
+"3-1-8-4";"3-1-8";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";37743;0;37743;0.0;100.0
+"3-1-9";"3-1";"d";"Podzadanie 3.1.9";"Prowadzenie działalności edukacyjnej, badawczej i popularyzatorskiej przez IPN";"";55198;0;55198;0.0;100.0
+"3-1-9-1";"3-1-9";"e";"Dysponent";"Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu";"13";55198;0;55198;0.0;100.0
+"3-1-10";"3-1";"d";"Podzadanie 3.1.10";"Infrastruktura edukacji";"";18000;0;18000;0.0;100.0
+"3-1-10-1";"3-1-10";"e";"Dysponent";"Wojewodowie";"85";920;0;920;0.0;100.0
+"3-1-10-2";"3-1-10";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";11740;0;11740;0.0;100.0
+"3-1-10-3";"3-1-10";"e";"Dysponent";"Ministerstwo Środowiska";"41";5340;0;5340;0.0;100.0
+"3-2";"3";"c";"Zadanie 3.2";"Szkolnictwo wyższe";"";12442732;619691;11823041;4.98;95.02
+"3-2-1";"3-2";"d";"Podzadanie 3.2.1";"Zarządzanie systemem szkolnictwa wyższego";"";28892;0;28892;0.0;100.0
+"3-2-1-1";"3-2-1";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";28892;0;28892;0.0;100.0
+"3-2-2";"3-2";"d";"Podzadanie 3.2.2";"Kształcenie w szkolnictwie wyższym akademickim";"";9848166;355685;9492481;3.61;96.39
+"3-2-2-1";"3-2-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";81296;0;81296;0.0;100.0
+"3-2-2-2";"3-2-2";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";443982;0;443982;0.0;100.0
+"3-2-2-3";"3-2-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";272694;0;272694;0.0;100.0
+"3-2-2-4";"3-2-2";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";7818650;355685;7462965;4.55;95.45
+"3-2-2-5";"3-2-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";5473;0;5473;0.0;100.0
+"3-2-2-6";"3-2-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";1226071;0;1226071;0.0;100.0
+"3-2-3";"3-2";"d";"Podzadanie 3.2.3";"Kształcenie w szkolnictwie wyższym zawodowym";"";59317;0;59317;0.0;100.0
+"3-2-3-1";"3-2-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";59317;0;59317;0.0;100.0
+"3-2-4";"3-2";"d";"Podzadanie 3.2.4";"Wsparcie procesu studiowania";"";1688942;0;1688942;0.0;100.0
+"3-2-4-1";"3-2-4";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";26855;0;26855;0.0;100.0
+"3-2-4-2";"3-2-4";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";1565599;0;1565599;0.0;100.0
+"3-2-4-3";"3-2-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1292;0;1292;0.0;100.0
+"3-2-4-4";"3-2-4";"e";"Dysponent";"Ministerstwo Zdrowia";"46";95196;0;95196;0.0;100.0
+"3-2-5";"3-2";"d";"Podzadanie 3.2.5";"Infrastruktura szkolnictwa wyższego";"";678461;264006;414455;38.91;61.09
+"3-2-5-1";"3-2-5";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";25365;0;25365;0.0;100.0
+"3-2-5-2";"3-2-5";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";12600;0;12600;0.0;100.0
+"3-2-5-3";"3-2-5";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";21740;0;21740;0.0;100.0
+"3-2-5-4";"3-2-5";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";574395;264006;310389;45.96;54.04
+"3-2-5-5";"3-2-5";"e";"Dysponent";"Ministerstwo Zdrowia";"46";44361;0;44361;0.0;100.0
+"3-2-6";"3-2";"d";"Podzadanie 3.2.6";"Program wieloletni ``Budowa kampusu 600-lecia Odnowienia Uniwersytetu Jagiellońskiego``";"";55000;0;55000;0.0;100.0
+"3-2-6-1";"3-2-6";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";55000;0;55000;0.0;100.0
+"3-2-7";"3-2";"d";"Podzadanie 3.2.7";"Program wieloletni ``Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2015``";"";83954;0;83954;0.0;100.0
+"3-2-7-1";"3-2-7";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";83954;0;83954;0.0;100.0
+"3-3";"3";"c";"Zadanie 3.3";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";6837;1385;5452;20.26;79.74
+"3-3-1";"3-3";"d";"Podzadanie 3.3.1";"Utrzymanie i rozwój systemów informatycznych";"";4924;0;4924;0.0;100.0
+"3-3-1-1";"3-3-1";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";4372;0;4372;0.0;100.0
+"3-3-1-2";"3-3-1";"e";"Dysponent";"Wojewodowie";"85";552;0;552;0.0;100.0
+"3-3-2";"3-3";"d";"Podzadanie 3.3.2";"Budowa i wdrożenie rozwiązań informatycznych";"";1913;1385;528;72.4;27.6
+"3-3-2-1";"3-3-2";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";1913;1385;528;72.4;27.6
+"4";"";"b";"FUNKCJA 4";"ZARZĄDZANIE FINANSAMI PAŃSTWA";"";162662835;36781689;125881146;22.61;77.39
+"4-1";"4";"c";"Zadanie 4.1";"Opracowywanie i wykonywanie budżetu państwa";"";54798946;36720695;18078251;67.01;32.99
+"4-1-1";"4-1";"d";"Podzadanie 4.1.1";"Opracowanie metodologii i planowanie budżetowe";"";131612;16701;114911;12.69;87.31
+"4-1-1-1";"4-1-1";"e";"Dysponent";"Ministerstwo Finansów";"19";35697;16701;18996;46.79;53.21
+"4-1-1-2";"4-1-1";"e";"Dysponent";"Ministerstwo Finansów";"81";95000;0;95000;0.0;100.0
+"4-1-1-3";"4-1-1";"e";"Dysponent";"Wojewodowie";"85";915;0;915;0.0;100.0
+"4-1-2";"4-1";"d";"Podzadanie 4.1.2";"Realizacja budżetu państwa";"";54667334;36703994;17963340;67.14;32.86
+"4-1-2-1";"4-1-2";"e";"Dysponent";"Ministerstwo Finansów";"19";23276;0;23276;0.0;100.0
+"4-1-2-2";"4-1-2";"e";"Dysponent";"Ministerstwo Finansów";"83";54644058;36703994;17940064;67.17;32.83
+"4-2";"4";"c";"Zadanie 4.2";"Opracowanie systemu finansowania jednostek samorządu terytorialnego (jst) i sfery budżetowej";"";48364265;2258;48362007;0.0;100.0
+"4-2-1";"4-2";"d";"Podzadanie 4.2.1";"Zapewnienie spójności systemu finansów publicznych";"";48359152;0;48359152;0.0;100.0
+"4-2-1-1";"4-2-1";"e";"Dysponent";"Ministerstwo Finansów";"19";1195;0;1195;0.0;100.0
+"4-2-1-2";"4-2-1";"e";"Dysponent";"Ministerstwo Finansów";"82";48357658;0;48357658;0.0;100.0
+"4-2-1-3";"4-2-1";"e";"Dysponent";"Wojewodowie";"85";299;0;299;0.0;100.0
+"4-2-2";"4-2";"d";"Podzadanie 4.2.2";"Analiza i ocena funkcjonowania systemu finansowania jst";"";5113;2258;2855;44.16;55.84
+"4-2-2-1";"4-2-2";"e";"Dysponent";"Ministerstwo Finansów";"19";3390;2258;1132;66.61;33.39
+"4-2-2-2";"4-2-2";"e";"Dysponent";"Wojewodowie";"85";1723;0;1723;0.0;100.0
+"4-3";"4";"c";"Zadanie 4.3";"Realizacja dochodów z podatków bezpośrednich, pośrednich oraz dochodów niepodatkowych";"";3427947;27555;3400392;0.8;99.2
+"4-3-1";"4-3";"d";"Podzadanie 4.3.1";"Pobór podatków w tym ustalanie i określanie zobowiązań podatkowych oraz niepodatkowych należności budżetu państwa i jednostek samorządu terytorialnego";"";2462489;0;2462489;0.0;100.0
+"4-3-1-1";"4-3-1";"e";"Dysponent";"Ministerstwo Finansów";"19";2444819;0;2444819;0.0;100.0
+"4-3-1-2";"4-3-1";"e";"Dysponent";"Wojewodowie";"85";17670;0;17670;0.0;100.0
+"4-3-2";"4-3";"d";"Podzadanie 4.3.2";"Zapewnienie sprawnej obsługi podatników";"";84695;13312;71383;15.72;84.28
+"4-3-2-1";"4-3-2";"e";"Dysponent";"Ministerstwo Finansów";"19";84695;13312;71383;15.72;84.28
+"4-3-3";"4-3";"d";"Podzadanie 4.3.3";"Pobór ceł i udogodnienia w handlu i podróżach przez granicę";"";503947;14243;489704;2.83;97.17
+"4-3-3-1";"4-3-3";"e";"Dysponent";"Ministerstwo Finansów";"19";503947;14243;489704;2.83;97.17
+"4-3-4";"4-3";"d";"Podzadanie 4.3.4";"Prowadzenie postępowań egzekucyjnych";"";376816;0;376816;0.0;100.0
+"4-3-4-1";"4-3-4";"e";"Dysponent";"Ministerstwo Finansów";"19";376816;0;376816;0.0;100.0
+"4-4";"4";"c";"Zadanie 4.4";"Zarządzanie długiem publicznym";"";38324734;0;38324734;0.0;100.0
+"4-4-1";"4-4";"d";"Podzadanie 4.4.1";"Zarządzanie i obsługa długu krajowego";"";29632592;0;29632592;0.0;100.0
+"4-4-1-1";"4-4-1";"e";"Dysponent";"Ministerstwo Finansów";"19";10892;0;10892;0.0;100.0
+"4-4-1-2";"4-4-1";"e";"Dysponent";"Ministerstwo Finansów";"79";29621700;0;29621700;0.0;100.0
+"4-4-2";"4-4";"d";"Podzadanie 4.4.2";"Zarządzanie i obsługa długu zagranicznego";"";8692142;0;8692142;0.0;100.0
+"4-4-2-1";"4-4-2";"e";"Dysponent";"Ministerstwo Finansów";"19";2756;0;2756;0.0;100.0
+"4-4-2-2";"4-4-2";"e";"Dysponent";"Ministerstwo Finansów";"78";8689386;0;8689386;0.0;100.0
+"4-5";"4";"c";"Zadanie 4.5";"Przeciwdziałanie zagrożeniom bezpieczeństwa finansowego państwa";"";314394;1314;313080;0.42;99.58
+"4-5-1";"4-5";"d";"Podzadanie 4.5.1";"Prowadzenie postępowań karnych skarbowych";"";14243;0;14243;0.0;100.0
+"4-5-1-1";"4-5-1";"e";"Dysponent";"Ministerstwo Finansów";"19";14243;0;14243;0.0;100.0
+"4-5-2";"4-5";"d";"Podzadanie 4.5.2";"Przeciwdziałanie praniu pieniędzy i finansowaniu terroryzmu";"";5917;0;5917;0.0;100.0
+"4-5-2-1";"4-5-2";"e";"Dysponent";"Ministerstwo Finansów";"19";4732;0;4732;0.0;100.0
+"4-5-2-2";"4-5-2";"e";"Dysponent";"Wojewodowie";"85";1185;0;1185;0.0;100.0
+"4-5-3";"4-5";"d";"Podzadanie 4.5.3";"Wywiad skarbowy";"";49245;0;49245;0.0;100.0
+"4-5-3-1";"4-5-3";"e";"Dysponent";"Ministerstwo Finansów";"19";49245;0;49245;0.0;100.0
+"4-5-4";"4-5";"d";"Podzadanie 4.5.4";"Ochrona rynku przed przemytem towarów";"";244989;1314;243675;0.54;99.46
+"4-5-4-1";"4-5-4";"e";"Dysponent";"Ministerstwo Finansów";"19";244989;1314;243675;0.54;99.46
+"4-6";"4";"c";"Zadanie 4.6";"Koordynowanie i organizowanie współpracy finansowej, kredytowej i płatniczej z zagranicą oraz w ramach Unii Europejskiej";"";15670444;0;15670444;0.0;100.0
+"4-6-1";"4-6";"d";"Podzadanie 4.6.1";"Nadzór w zakresie finansowych instrumentów wspierania eksportu";"";13744;0;13744;0.0;100.0
+"4-6-1-1";"4-6-1";"e";"Dysponent";"Ministerstwo Finansów";"19";13744;0;13744;0.0;100.0
+"4-6-2";"4-6";"d";"Podzadanie 4.6.2";"Środki własne UE";"";15656700;0;15656700;0.0;100.0
+"4-6-2-1";"4-6-2";"e";"Dysponent";"Ministerstwo Finansów";"19";275;0;275;0.0;100.0
+"4-6-2-2";"4-6-2";"e";"Dysponent";"Ministerstwo Finansów";"84";15656425;0;15656425;0.0;100.0
+"4-7";"4";"c";"Zadanie 4.7";"Działania kontrolne w zakresie poboru należności budżetu państwa";"";1024172;0;1024172;0.0;100.0
+"4-7-1";"4-7";"d";"Podzadanie 4.7.1";"Prowadzenie kontroli podatkowych";"";313361;0;313361;0.0;100.0
+"4-7-1-1";"4-7-1";"e";"Dysponent";"Ministerstwo Finansów";"19";313361;0;313361;0.0;100.0
+"4-7-2";"4-7";"d";"Podzadanie 4.7.2";"Prowadzenie kontroli wykonywanej przez Służbę Celną";"";516943;0;516943;0.0;100.0
+"4-7-2-1";"4-7-2";"e";"Dysponent";"Ministerstwo Finansów";"19";516943;0;516943;0.0;100.0
+"4-7-3";"4-7";"d";"Podzadanie 4.7.3";"Prowadzenie czynności sprawdzających";"";193868;0;193868;0.0;100.0
+"4-7-3-1";"4-7-3";"e";"Dysponent";"Ministerstwo Finansów";"19";193868;0;193868;0.0;100.0
+"4-8";"4";"c";"Zadanie 4.8";"Kontrola skarbowa oraz nadzór nad organami kontroli skarbowej";"";379105;0;379105;0.0;100.0
+"4-8-1";"4-8";"d";"Podzadanie 4.8.1";"Analiza, zarządzanie i wykorzystywanie danych uzyskanych w wyniku działań organów kontroli skarbowej";"";31123;0;31123;0.0;100.0
+"4-8-1-1";"4-8-1";"e";"Dysponent";"Ministerstwo Finansów";"19";31123;0;31123;0.0;100.0
+"4-8-2";"4-8";"d";"Podzadanie 4.8.2";"Inicjowanie i prowadzenie postępowań kontrolnych prowadzonych przez organ kontroli skarbowej";"";294620;0;294620;0.0;100.0
+"4-8-2-1";"4-8-2";"e";"Dysponent";"Ministerstwo Finansów";"19";294620;0;294620;0.0;100.0
+"4-8-3";"4-8";"d";"Podzadanie 4.8.3";"Audyt i kontrola środków pochodzących z UE";"";53362;0;53362;0.0;100.0
+"4-8-3-1";"4-8-3";"e";"Dysponent";"Ministerstwo Finansów";"19";53362;0;53362;0.0;100.0
+"4-9";"4";"c";"Zadanie 4.9";"Nadzór nad rynkiem kapitałowym, ubezpieczeniowym, emerytalnym i bankowym";"";207083;0;207083;0.0;100.0
+"4-9-1";"4-9";"d";"Podzadanie 4.9.1";"Nadzór nad podmiotami rynku kapitałowego";"";37504;0;37504;0.0;100.0
+"4-9-1-1";"4-9-1";"e";"Dysponent";"Ministerstwo Finansów";"19";1021;0;1021;0.0;100.0
+"4-9-1-2";"4-9-1";"e";"Dysponent";"Komisja Nadzoru Finansowego";"70";36483;0;36483;0.0;100.0
+"4-9-2";"4-9";"d";"Podzadanie 4.9.2";"Nadzór nad działalnością zakładów ubezpieczeń";"";22845;0;22845;0.0;100.0
+"4-9-2-1";"4-9-2";"e";"Dysponent";"Ministerstwo Finansów";"19";550;0;550;0.0;100.0
+"4-9-2-2";"4-9-2";"e";"Dysponent";"Komisja Nadzoru Finansowego";"70";22295;0;22295;0.0;100.0
+"4-9-3";"4-9";"d";"Podzadanie 4.9.3";"Nadzór nad działalnością rynku emerytalnego";"";14646;0;14646;0.0;100.0
+"4-9-3-1";"4-9-3";"e";"Dysponent";"Ministerstwo Finansów";"19";459;0;459;0.0;100.0
+"4-9-3-2";"4-9-3";"e";"Dysponent";"Komisja Nadzoru Finansowego";"70";14187;0;14187;0.0;100.0
+"4-9-4";"4-9";"d";"Podzadanie 4.9.4";"Nadzór bankowy";"";130802;0;130802;0.0;100.0
+"4-9-4-1";"4-9-4";"e";"Dysponent";"Ministerstwo Finansów";"19";1093;0;1093;0.0;100.0
+"4-9-4-2";"4-9-4";"e";"Dysponent";"Komisja Nadzoru Finansowego";"70";129709;0;129709;0.0;100.0
+"4-9-5";"4-9";"d";"Podzadanie 4.9.5";"Nadzór nad pośrednikami finansowymi";"";468;0;468;0.0;100.0
+"4-9-5-1";"4-9-5";"e";"Dysponent";"Ministerstwo Finansów";"19";468;0;468;0.0;100.0
+"4-9-6";"4-9";"d";"Podzadanie 4.9.6";"Ochrona interesów nieprofesjonalnych uczestników rynku finansowego";"";818;0;818;0.0;100.0
+"4-9-6-1";"4-9-6";"e";"Dysponent";"Ministerstwo Finansów";"19";818;0;818;0.0;100.0
+"4-10";"4";"c";"Zadanie 4.10";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";151745;29867;121878;19.68;80.32
+"4-10-1";"4-10";"d";"Podzadanie 4.10.1";"Utrzymanie systemów informatycznych";"";140291;20127;120164;14.35;85.65
+"4-10-1-1";"4-10-1";"e";"Dysponent";"Ministerstwo Finansów";"19";140291;20127;120164;14.35;85.65
+"4-10-2";"4-10";"d";"Podzadanie 4.10.2";"Budowa i wdrożenie rozwiązań informatycznych";"";11454;9740;1714;85.04;14.96
+"4-10-2-1";"4-10-2";"e";"Dysponent";"Ministerstwo Finansów";"19";11454;9740;1714;85.04;14.96
+"5";"";"b";"FUNKCJA 5";"OCHRONA PRAW I INTERESÓW SKARBU PAŃSTWA";"";199435;0;199435;0.0;100.0
+"5-1";"5";"c";"Zadanie 5.1";"Gospodarowanie mieniem Skarbu Państwa";"";100255;0;100255;0.0;100.0
+"5-1-1";"5-1";"d";"Podzadanie 5.1.1";"Przekształcenia własnościowe (prywatyzacja)";"";8045;0;8045;0.0;100.0
+"5-1-1-1";"5-1-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";0;0;0;0;0
+"5-1-1-2";"5-1-1";"e";"Dysponent";"Ministerstwo Skarbu Państwa";"36";7504;0;7504;0.0;100.0
+"5-1-1-3";"5-1-1";"e";"Dysponent";"Wojewodowie";"85";541;0;541;0.0;100.0
+"5-1-2";"5-1";"d";"Podzadanie 5.1.2";"Nadzór właścicielski";"";20801;0;20801;0.0;100.0
+"5-1-2-1";"5-1-2";"e";"Dysponent";"Ministerstwo Skarbu Państwa";"36";20029;0;20029;0.0;100.0
+"5-1-2-2";"5-1-2";"e";"Dysponent";"Wojewodowie";"85";772;0;772;0.0;100.0
+"5-1-3";"5-1";"d";"Podzadanie 5.1.3";"Zarządzanie mieniem Skarbu Państwa";"";52710;0;52710;0.0;100.0
+"5-1-3-1";"5-1-3";"e";"Dysponent";"Ministerstwo Finansów";"19";14;0;14;0.0;100.0
+"5-1-3-2";"5-1-3";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";0;0;0;0;0
+"5-1-3-3";"5-1-3";"e";"Dysponent";"Ministerstwo Skarbu Państwa";"36";3822;0;3822;0.0;100.0
+"5-1-3-4";"5-1-3";"e";"Dysponent";"Wojewodowie";"85";48874;0;48874;0.0;100.0
+"5-1-4";"5-1";"d";"Podzadanie 5.1.4";"Regulacja stanu prawnego nieruchomości";"";18699;0;18699;0.0;100.0
+"5-1-4-1";"5-1-4";"e";"Dysponent";"Ministerstwo Skarbu Państwa";"36";999;0;999;0.0;100.0
+"5-1-4-2";"5-1-4";"e";"Dysponent";"Wojewodowie";"85";17700;0;17700;0.0;100.0
+"5-2";"5";"c";"Zadanie 5.2";"Roszczenia majątkowe wobec Skarbu Państwa (w tym za mienie pozostawione poza granicami państwa)";"";40330;0;40330;0.0;100.0
+"5-2-1";"5-2";"d";"Podzadanie 5.2.1";"Zaspokajanie roszczeń majątkowych wobec Skarbu Państwa";"";35068;0;35068;0.0;100.0
+"5-2-1-1";"5-2-1";"e";"Dysponent";"Ministerstwo Skarbu Państwa";"36";2827;0;2827;0.0;100.0
+"5-2-1-2";"5-2-1";"e";"Dysponent";"Wojewodowie";"85";32241;0;32241;0.0;100.0
+"5-2-2";"5-2";"d";"Podzadanie 5.2.2";"Rewindykacja mienia i rekompensaty za mienie pozostawione poza granicami państwa";"";5262;0;5262;0.0;100.0
+"5-2-2-1";"5-2-2";"e";"Dysponent";"Wojewodowie";"85";5262;0;5262;0.0;100.0
+"5-3";"5";"c";"Zadanie 5.3";"Zastępstwo procesowe oraz działalność opiniodawcza i legislacyjna";"";58850;0;58850;0.0;100.0
+"5-3-1";"5-3";"d";"Podzadanie 5.3.1";"Wykonywanie zastępstwa procesowego";"";45465;0;45465;0.0;100.0
+"5-3-1-1";"5-3-1";"e";"Dysponent";"Prokuratoria Generalna Skarbu Państwa";"74";40604;0;40604;0.0;100.0
+"5-3-1-2";"5-3-1";"e";"Dysponent";"Wojewodowie";"85";4861;0;4861;0.0;100.0
+"5-3-2";"5-3";"d";"Podzadanie 5.3.2";"Działalność opiniodawcza i legislacyjna";"";13385;0;13385;0.0;100.0
+"5-3-2-1";"5-3-2";"e";"Dysponent";"Ministerstwo Finansów";"19";184;0;184;0.0;100.0
+"5-3-2-2";"5-3-2";"e";"Dysponent";"Wojewodowie";"85";13201;0;13201;0.0;100.0
+"6";"";"b";"FUNKCJA 6";"POLITYKA GOSPODARCZA KRAJU";"";4319308;1643467;2675841;38.05;61.95
+"6-1";"6";"c";"Zadanie 6.1";"Wzrost konkurencyjności gospodarki";"";1903565;1245544;658021;65.43;34.57
+"6-1-1";"6-1";"d";"Podzadanie 6.1.1";"Zmiana systemu stanowienia prawa i usprawnienie systemu oceny skutków regulacji";"";8750;7892;858;90.19;9.81
+"6-1-1-1";"6-1-1";"e";"Dysponent";"Ministerstwo Gospodarki";"20";8750;7892;858;90.19;9.81
+"6-1-2";"6-1";"d";"Podzadanie 6.1.2";"Tworzenie warunków do zwiększania innowacyjności przedsiębiorstw";"";1373724;1095013;278711;79.71;20.29
+"6-1-2-1";"6-1-2";"e";"Dysponent";"Ministerstwo Gospodarki";"20";1373724;1095013;278711;79.71;20.29
+"6-1-3";"6-1";"d";"Podzadanie 6.1.3";"Tworzenie warunków dla funkcjonowania przedsiębiorstw";"";125197;22457;102740;17.94;82.06
+"6-1-3-1";"6-1-3";"e";"Dysponent";"Ministerstwo Gospodarki";"20";125197;22457;102740;17.94;82.06
+"6-1-4";"6-1";"d";"Podzadanie 6.1.4";"Wspieranie mikro, małych i średnich przedsiębiorstw";"";50524;0;50524;0.0;100.0
+"6-1-4-1";"6-1-4";"e";"Dysponent";"Ministerstwo Gospodarki";"20";50524;0;50524;0.0;100.0
+"6-1-5";"6-1";"d";"Podzadanie 6.1.5";"System wsparcia inwestorów";"";187101;94093;93008;50.29;49.71
+"6-1-5-1";"6-1-5";"e";"Dysponent";"Ministerstwo Gospodarki";"20";187101;94093;93008;50.29;49.71
+"6-1-6";"6-1";"d";"Podzadanie 6.1.6";"Współtworzenie polityki gospodarczej i wspólnej polityki handlowej Unii Europejskiej uwzgledniajacej interesy Polski";"";31500;0;31500;0.0;100.0
+"6-1-6-1";"6-1-6";"e";"Dysponent";"Ministerstwo Gospodarki";"20";31500;0;31500;0.0;100.0
+"6-1-7";"6-1";"d";"Podzadanie 6.1.7";"Promocja gospodarcza Polski";"";97537;4839;92698;4.96;95.04
+"6-1-7-1";"6-1-7";"e";"Dysponent";"Ministerstwo Gospodarki";"20";97537;4839;92698;4.96;95.04
+"6-1-8";"6-1";"d";"Podzadanie 6.1.8";"Intensyfikacja wymiany handlowej w zakresie produktu, usług i kapitału";"";29232;21250;7982;72.69;27.31
+"6-1-8-1";"6-1-8";"e";"Dysponent";"Ministerstwo Gospodarki";"20";29232;21250;7982;72.69;27.31
+"6-2";"6";"c";"Zadanie 6.2";"Bezpieczeństwo gospodarcze państwa";"";915772;300000;615772;32.76;67.24
+"6-2-1";"6-2";"d";"Podzadanie 6.2.1";"Dywersyfikacja źródeł energii i tworzenie nowych zdolności przesyłowych i transportowych energii elektrycznej, gazu ziemnego i ropy naftowej oraz rozbudowa podziemnych magazynów gazu ziemnego";"";106291;96332;9959;90.63;9.37
+"6-2-1-1";"6-2-1";"e";"Dysponent";"Ministerstwo Gospodarki";"20";106291;96332;9959;90.63;9.37
+"6-2-2";"6-2";"d";"Podzadanie 6.2.2";"Tworzenie warunków dla funkcjonowania górnictwa węgla kamiennego";"";453247;0;453247;0.0;100.0
+"6-2-2-1";"6-2-2";"e";"Dysponent";"Ministerstwo Gospodarki";"20";453247;0;453247;0.0;100.0
+"6-2-3";"6-2";"d";"Podzadanie 6.2.3";"Wspieranie bezpieczeństwa energetycznego";"";220209;203668;16541;92.49;7.51
+"6-2-3-1";"6-2-3";"e";"Dysponent";"Ministerstwo Gospodarki";"20";218048;203668;14380;93.41;6.59
+"6-2-3-2";"6-2-3";"e";"Dysponent";"Urząd Regulacji Energetyki";"50";1909;0;1909;0.0;100.0
+"6-2-3-3";"6-2-3";"e";"Dysponent";"Wojewodowie";"85";252;0;252;0.0;100.0
+"6-2-4";"6-2";"d";"Podzadanie 6.2.4";"Wspieranie wykorzystania odnawialnych źródeł energii i biopaliw ciekłych w transporcie";"";0;0;0;0;0
+"6-2-4-1";"6-2-4";"e";"Dysponent";"Ministerstwo Gospodarki";"20";0;0;0;0;0
+"6-2-4-2";"6-2-4";"e";"Dysponent";"Ministerstwo Środowiska";"41";0;0;0;0;0
+"6-2-5";"6-2";"d";"Podzadanie 6.2.5";"Potencjał gospodarczy na rzecz bezpieczeństwa państwa";"";110699;0;110699;0.0;100.0
+"6-2-5-1";"6-2-5";"e";"Dysponent";"Ministerstwo Gospodarki";"20";110699;0;110699;0.0;100.0
+"6-2-6";"6-2";"d";"Podzadanie 6.2.6";"Budowa infrastruktury dla energetyki jądrowej";"";25326;0;25326;0.0;100.0
+"6-2-6-1";"6-2-6";"e";"Dysponent";"Ministerstwo Gospodarki";"20";25326;0;25326;0.0;100.0
+"6-3";"6";"c";"Zadanie 6.3";"Wspieranie i regulacja rynku telekomunikacyjnego i pocztowego";"";42443;713;41730;1.68;98.32
+"6-3-1";"6-3";"d";"Podzadanie 6.3.1";"Regulacja rynku usług telekomunikacyjnych i pocztowych";"";40543;713;39830;1.76;98.24
+"6-3-1-1";"6-3-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"26";4403;191;4212;4.34;95.66
+"6-3-1-2";"6-3-1";"e";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";36140;522;35618;1.44;98.56
+"6-3-2";"6-3";"d";"Podzadanie 6.3.2";"Rekompensowanie operatorom kosztów nieodpłatnego doręczania przesyłek pocztowych ustawowo zwolnionych z opłat";"";1900;0;1900;0.0;100.0
+"6-3-2-1";"6-3-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"26";1900;0;1900;0.0;100.0
+"6-4";"6";"c";"Zadanie 6.4";"Wsparcie i promocja turystyki";"";103982;52437;51545;50.43;49.57
+"6-4-1";"6-4";"d";"Podzadanie 6.4.1";"Kreowanie polityki w obszarze turystyki";"";4784;0;4784;0.0;100.0
+"6-4-1-1";"6-4-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";4784;0;4784;0.0;100.0
+"6-4-2";"6-4";"d";"Podzadanie 6.4.2";"Wsparcie produktów turystycznych";"";63972;52437;11535;81.97;18.03
+"6-4-2-1";"6-4-2";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";61691;52437;9254;85.0;15.0
+"6-4-2-2";"6-4-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";2281;0;2281;0.0;100.0
+"6-4-3";"6-4";"d";"Podzadanie 6.4.3";"Przygotowanie wykwalifikowanych kadr dla turystyki";"";1443;0;1443;0.0;100.0
+"6-4-3-1";"6-4-3";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";335;0;335;0.0;100.0
+"6-4-3-2";"6-4-3";"e";"Dysponent";"Wojewodowie";"85";1108;0;1108;0.0;100.0
+"6-4-4";"6-4";"d";"Podzadanie 6.4.4";"Tworzenie i wspieranie systemu marketingu w turystyce";"";33783;0;33783;0.0;100.0
+"6-4-4-1";"6-4-4";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";33783;0;33783;0.0;100.0
+"6-5";"6";"c";"Zadanie 6.5";"Wykonywanie czynności z dziedziny metrologii i probiernictwa";"";126631;0;126631;0.0;100.0
+"6-5-1";"6-5";"d";"Podzadanie 6.5.1";"Wykonywanie czynności z dziedziny metrologii na potrzeby podmiotów funkcjonujących w gospodarce";"";115683;0;115683;0.0;100.0
+"6-5-1-1";"6-5-1";"e";"Dysponent";"Główny Urząd Miar";"64";115683;0;115683;0.0;100.0
+"6-5-2";"6-5";"d";"Podzadanie 6.5.2";"Badanie i cechowanie wyrobów z metali szlachetnych oraz nadzór nad obrotem tymi wyrobami";"";10948;0;10948;0.0;100.0
+"6-5-2-1";"6-5-2";"e";"Dysponent";"Główny Urząd Miar";"64";10948;0;10948;0.0;100.0
+"6-6";"6";"c";"Zadanie 6.6";"Wykonywanie czynności z zakresu ochrony własności intelektualnej";"";138292;0;138292;0.0;100.0
+"6-6-1";"6-6";"d";"Podzadanie 6.6.1";"Prawa wyłączne";"";35737;0;35737;0.0;100.0
+"6-6-1-1";"6-6-1";"e";"Dysponent";"Urząd Patentowy RP";"61";35737;0;35737;0.0;100.0
+"6-6-2";"6-6";"d";"Podzadanie 6.6.2";"Upowszechnianie i promowanie ochrony własności przemysłowej oraz współpraca międzynarodowa";"";10919;0;10919;0.0;100.0
+"6-6-2-1";"6-6-2";"e";"Dysponent";"Urząd Patentowy RP";"61";10919;0;10919;0.0;100.0
+"6-6-3";"6-6";"d";"Podzadanie 6.6.3";"Egzekwowanie zakazów i ograniczeń związanych z posiadaniem, rozpowszechnianiem lub obrotem towarami";"";91636;0;91636;0.0;100.0
+"6-6-3-1";"6-6-3";"e";"Dysponent";"Ministerstwo Finansów";"19";91636;0;91636;0.0;100.0
+"6-7";"6";"c";"Zadanie 6.7";"Organizacja i promocja działalności normalizacyjnej";"";25588;0;25588;0.0;100.0
+"6-7-1";"6-7";"d";"Podzadanie 6.7.1";"Organizowanie działalności normalizacyjnej łącznie z realizacją zadań wynikających z członkostwa w Unii Europejskiej";"";12866;0;12866;0.0;100.0
+"6-7-1-1";"6-7-1";"e";"Dysponent";"Polski Komitet Normalizacyjny";"65";12866;0;12866;0.0;100.0
+"6-7-2";"6-7";"d";"Podzadanie 6.7.2";"Propagowanie informacji normalizacyjnej";"";12722;0;12722;0.0;100.0
+"6-7-2-1";"6-7-2";"e";"Dysponent";"Polski Komitet Normalizacyjny";"65";12722;0;12722;0.0;100.0
+"6-8";"6";"c";"Zadanie 6.8";"Nadzór nad rynkiem energii";"";25761;0;25761;0.0;100.0
+"6-8-1";"6-8";"d";"Podzadanie 6.8.1";"Regulacja działania przedsiębiorstw energetycznych w obszarach niekonkurencyjnych i reglamentowanych";"";20668;0;20668;0.0;100.0
+"6-8-1-1";"6-8-1";"e";"Dysponent";"Urząd Regulacji Energetyki";"50";20668;0;20668;0.0;100.0
+"6-8-2";"6-8";"d";"Podzadanie 6.8.2";"Promowanie konkurencji na rynku energii";"";2651;0;2651;0.0;100.0
+"6-8-2-1";"6-8-2";"e";"Dysponent";"Urząd Regulacji Energetyki";"50";2651;0;2651;0.0;100.0
+"6-8-3";"6-8";"d";"Podzadanie 6.8.3";"Realizacja polityki regulacyjnej z uwzględnieniem ochrony środowiska";"";1470;0;1470;0.0;100.0
+"6-8-3-1";"6-8-3";"e";"Dysponent";"Urząd Regulacji Energetyki";"50";1470;0;1470;0.0;100.0
+"6-8-4";"6-8";"d";"Podzadanie 6.8.4";"Współpraca w integracji rynku europejskiego";"";972;0;972;0.0;100.0
+"6-8-4-1";"6-8-4";"e";"Dysponent";"Urząd Regulacji Energetyki";"50";972;0;972;0.0;100.0
+"6-9";"6";"c";"Zadanie 6.9";"Nadzór i kontrola nad zakładami górniczymi oraz zakładami wykonującymi roboty geologiczne";"";40534;0;40534;0.0;100.0
+"6-9-1";"6-9";"d";"Podzadanie 6.9.1";"Nadzór i kontrola nad bezpieczeństwem, higieną pracy i ochroną zdrowia";"";19753;0;19753;0.0;100.0
+"6-9-1-1";"6-9-1";"e";"Dysponent";"Wyższy Urząd Górniczy";"60";19753;0;19753;0.0;100.0
+"6-9-2";"6-9";"d";"Podzadanie 6.9.2";"Nadzór i kontrola nad bezpieczeństwem wyrobów przeznaczonych do stosowania w zakładach górniczych";"";12180;0;12180;0.0;100.0
+"6-9-2-1";"6-9-2";"e";"Dysponent";"Wyższy Urząd Górniczy";"60";12180;0;12180;0.0;100.0
+"6-9-3";"6-9";"d";"Podzadanie 6.9.3";"Nadzór i kontrola nad zagospodarowaniem przestrzennym, ochroną środowiska i gospodarką złożem";"";6597;0;6597;0.0;100.0
+"6-9-3-1";"6-9-3";"e";"Dysponent";"Wyższy Urząd Górniczy";"60";6597;0;6597;0.0;100.0
+"6-9-4";"6-9";"d";"Podzadanie 6.9.4";"Nadzór i kontrola nad projektowaniem, budową, utrzymaniem i rozbiórką obiektów budowlanych zakładów górniczych";"";2004;0;2004;0.0;100.0
+"6-9-4-1";"6-9-4";"e";"Dysponent";"Ministerstwo Środowiska";"41";0;0;0;0;0
+"6-9-4-2";"6-9-4";"e";"Dysponent";"Wyższy Urząd Górniczy";"60";2004;0;2004;0.0;100.0
+"6-10";"6";"c";"Zadanie 6.10";"Statystyka publiczna";"";727180;30906;696274;4.25;95.75
+"6-10-1";"6-10";"d";"Podzadanie 6.10.1";"Organizowanie i prowadzenie badań statystycznych";"";311194;30580;280614;9.83;90.17
+"6-10-1-1";"6-10-1";"e";"Dysponent";"Ministerstwo Finansów";"19";294;0;294;0.0;100.0
+"6-10-1-2";"6-10-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";1834;0;1834;0.0;100.0
+"6-10-1-3";"6-10-1";"e";"Dysponent";"Główny Urząd Statystyczny";"58";309066;30580;278486;9.89;90.11
+"6-10-2";"6-10";"d";"Podzadanie 6.10.2";"Badania i analizy statystyczne";"";2966;0;2966;0.0;100.0
+"6-10-2-1";"6-10-2";"e";"Dysponent";"Główny Urząd Statystyczny";"58";2966;0;2966;0.0;100.0
+"6-10-3";"6-10";"d";"Podzadanie 6.10.3";"Przeprowadzanie spisów powszechnych";"";317600;0;317600;0.0;100.0
+"6-10-3-1";"6-10-3";"e";"Dysponent";"Główny Urząd Statystyczny";"58";317600;0;317600;0.0;100.0
+"6-10-4";"6-10";"d";"Podzadanie 6.10.4";"Udostępnianie i upowszechnianie wyników informacji statystycznych oraz innych opracowań";"";53259;0;53259;0.0;100.0
+"6-10-4-1";"6-10-4";"e";"Dysponent";"Ministerstwo Finansów";"19";128;0;128;0.0;100.0
+"6-10-4-2";"6-10-4";"e";"Dysponent";"Główny Urząd Statystyczny";"58";53131;0;53131;0.0;100.0
+"6-10-5";"6-10";"d";"Podzadanie 6.10.5";"Prowadzenie krajowych rejestrów urzędowych";"";42161;326;41835;0.77;99.23
+"6-10-5-1";"6-10-5";"e";"Dysponent";"Główny Urząd Statystyczny";"58";42106;326;41780;0.77;99.23
+"6-10-5-2";"6-10-5";"e";"Dysponent";"Wojewodowie";"85";55;0;55;0.0;100.0
+"6-11";"6";"c";"Zadanie 6.11";"Nadzór nad bezpieczeństwem jądrowym i ochroną radiologiczną";"";95716;0;95716;0.0;100.0
+"6-11-1";"6-11";"d";"Podzadanie 6.11.1";"Nadzór nad spełnieniem warunków bezpieczeństwa jądrowego i ochrony radiologicznej w działalnościach związanych z pokojowym wykorzystaniem energii atomowej";"";11602;0;11602;0.0;100.0
+"6-11-1-1";"6-11-1";"e";"Dysponent";"Państwowa Agencja Atomistyki";"68";11602;0;11602;0.0;100.0
+"6-11-2";"6-11";"d";"Podzadanie 6.11.2";"Ocena sytuacji radiacyjnej kraju";"";1857;0;1857;0.0;100.0
+"6-11-2-1";"6-11-2";"e";"Dysponent";"Państwowa Agencja Atomistyki";"68";1857;0;1857;0.0;100.0
+"6-11-3";"6-11";"d";"Podzadanie 6.11.3";"Wypełnianie zobowiązań międzynarodowych Polski";"";82257;0;82257;0.0;100.0
+"6-11-3-1";"6-11-3";"e";"Dysponent";"Państwowa Agencja Atomistyki";"68";82257;0;82257;0.0;100.0
+"6-12";"6";"c";"Zadanie 6.12";"Ochrona konkurencji i konsumentów";"";150652;0;150652;0.0;100.0
+"6-12-1";"6-12";"d";"Podzadanie 6.12.1";"Ochrona konkurencji";"";16127;0;16127;0.0;100.0
+"6-12-1-1";"6-12-1";"e";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";7100;0;7100;0.0;100.0
+"6-12-1-2";"6-12-1";"e";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";8127;0;8127;0.0;100.0
+"6-12-1-3";"6-12-1";"e";"Dysponent";"Wojewodowie";"85";900;0;900;0.0;100.0
+"6-12-2";"6-12";"d";"Podzadanie 6.12.2";"Ochrona konsumentów i nadzór rynku";"";85392;0;85392;0.0;100.0
+"6-12-2-1";"6-12-2";"e";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";21470;0;21470;0.0;100.0
+"6-12-2-2";"6-12-2";"e";"Dysponent";"Wojewodowie";"85";63922;0;63922;0.0;100.0
+"6-12-3";"6-12";"d";"Podzadanie 6.12.3";"Pomoc publiczna";"";2460;0;2460;0.0;100.0
+"6-12-3-1";"6-12-3";"e";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";2460;0;2460;0.0;100.0
+"6-12-4";"6-12";"d";"Podzadanie 6.12.4";"Realizacja zadań w zakresie jakości handlowej artykułów rolno-spożywczych";"";43749;0;43749;0.0;100.0
+"6-12-4-1";"6-12-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";17160;0;17160;0.0;100.0
+"6-12-4-2";"6-12-4";"e";"Dysponent";"Wojewodowie";"85";26589;0;26589;0.0;100.0
+"6-12-5";"6-12";"d";"Podzadanie 6.12.5";"System oceny zgodności";"";2924;0;2924;0.0;100.0
+"6-12-5-1";"6-12-5";"e";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";2924;0;2924;0.0;100.0
+"6-13";"6";"c";"Zadanie 6.13";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";23192;13867;9325;59.79;40.21
+"6-13-1";"6-13";"d";"Podzadanie 6.13.1";"Utrzymanie systemów informatycznych";"";8274;589;7685;7.12;92.88
+"6-13-1-1";"6-13-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";1315;0;1315;0.0;100.0
+"6-13-1-2";"6-13-1";"e";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";6959;589;6370;8.46;91.54
+"6-13-2";"6-13";"d";"Podzadanie 6.13.2";"Budowa i wdrożenie rozwiązań informatycznych";"";14918;13278;1640;89.01;10.99
+"6-13-2-1";"6-13-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";359;0;359;0.0;100.0
+"6-13-2-2";"6-13-2";"e";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";14559;13278;1281;91.2;8.8
+"7";"";"b";"FUNKCJA 7";"GOSPODARKA PRZESTRZENNA, BUDOWNICTWO I MIESZKALNICTWO";"";1716568;63034;1653534;3.67;96.33
+"7-1";"7";"c";"Zadanie 7.1";"Wspieranie budownictwa";"";652780;0;652780;0.0;100.0
+"7-1-1";"7-1";"d";"Podzadanie 7.1.1";"Termomodernizacja i remonty zasobów mieszkaniowych";"";208861;0;208861;0.0;100.0
+"7-1-1-1";"7-1-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";200000;0;200000;0.0;100.0
+"7-1-1-2";"7-1-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";0;0;0;0;0
+"7-1-1-3";"7-1-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";8861;0;8861;0.0;100.0
+"7-1-2";"7-1";"d";"Podzadanie 7.1.2";"Budownictwo społeczne na wynajem";"";2841;0;2841;0.0;100.0
+"7-1-2-1";"7-1-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";2841;0;2841;0.0;100.0
+"7-1-3";"7-1";"d";"Podzadanie 7.1.3";"Infrastruktura techniczna towarzysząca budownictwu mieszkaniowemu";"";1243;0;1243;0.0;100.0
+"7-1-3-1";"7-1-3";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";0;0;0;0;0
+"7-1-3-2";"7-1-3";"e";"Dysponent";"Wojewodowie";"85";1243;0;1243;0.0;100.0
+"7-1-4";"7-1";"d";"Podzadanie 7.1.4";"Budownictwo własnościowe";"";437084;0;437084;0.0;100.0
+"7-1-4-1";"7-1-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";437084;0;437084;0.0;100.0
+"7-1-5";"7-1";"d";"Podzadanie 7.1.5";"Certyfikacja budynków i lokali mieszkalnych";"";2751;0;2751;0.0;100.0
+"7-1-5-1";"7-1-5";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";2751;0;2751;0.0;100.0
+"7-2";"7";"c";"Zadanie 7.2";"Zagospodarowanie przestrzenne i gospodarka nieruchomościami";"";26426;0;26426;0.0;100.0
+"7-2-1";"7-2";"d";"Podzadanie 7.2.1";"Zagospodarowanie przestrzenne kraju";"";18885;0;18885;0.0;100.0
+"7-2-1-1";"7-2-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";3094;0;3094;0.0;100.0
+"7-2-1-2";"7-2-1";"e";"Dysponent";"Wojewodowie";"85";15791;0;15791;0.0;100.0
+"7-2-2";"7-2";"d";"Podzadanie 7.2.2";"Gospodarka nieruchomościami";"";7541;0;7541;0.0;100.0
+"7-2-2-1";"7-2-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";7541;0;7541;0.0;100.0
+"7-3";"7";"c";"Zadanie 7.3";"Geodezja i kartografia";"";174603;63034;111569;36.1;63.9
+"7-3-1";"7-3";"d";"Podzadanie 7.3.1";"Nadzór i kontrola w zakresie przestrzegania i stosowania przepisów w dziedzinie geodezji i kartografii";"";18033;0;18033;0.0;100.0
+"7-3-1-1";"7-3-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"17";3905;0;3905;0.0;100.0
+"7-3-1-2";"7-3-1";"e";"Dysponent";"Wojewodowie";"85";14128;0;14128;0.0;100.0
+"7-3-2";"7-3";"d";"Podzadanie 7.3.2";"Prowadzenie i przechowywanie baz danych przez wojewódzkiego inspektora nadzoru geodezyjnego i kartograficznego";"";1072;0;1072;0.0;100.0
+"7-3-2-1";"7-3-2";"e";"Dysponent";"Wojewodowie";"85";1072;0;1072;0.0;100.0
+"7-3-3";"7-3";"d";"Podzadanie 7.3.3";"Gromadzenie, prowadzenie, aktualizacja i udostępnienie zasobu geodezyjnego i kartograficznego";"";71506;0;71506;0.0;100.0
+"7-3-3-1";"7-3-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"17";5754;0;5754;0.0;100.0
+"7-3-3-2";"7-3-3";"e";"Dysponent";"Wojewodowie";"85";65752;0;65752;0.0;100.0
+"7-3-4";"7-3";"d";"Podzadanie 7.3.4";"Budowa infrastruktury informacji przestrzennej";"";83992;63034;20958;75.05;24.95
+"7-3-4-1";"7-3-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"17";83677;63034;20643;75.33;24.67
+"7-3-4-2";"7-3-4";"e";"Dysponent";"Wojewodowie";"85";315;0;315;0.0;100.0
+"7-4";"7";"c";"Zadanie 7.4";"Nadzór budowlany";"";212759;0;212759;0.0;100.0
+"7-4-1";"7-4";"d";"Podzadanie 7.4.1";"Kontrola procesu budowlanego";"";128135;0;128135;0.0;100.0
+"7-4-1-1";"7-4-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";3654;0;3654;0.0;100.0
+"7-4-1-2";"7-4-1";"e";"Dysponent";"Wojewodowie";"85";124481;0;124481;0.0;100.0
+"7-4-2";"7-4";"d";"Podzadanie 7.4.2";"Kontrola rynku wyrobów budowlanych";"";9337;0;9337;0.0;100.0
+"7-4-2-1";"7-4-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";1350;0;1350;0.0;100.0
+"7-4-2-2";"7-4-2";"e";"Dysponent";"Wojewodowie";"85";7987;0;7987;0.0;100.0
+"7-4-3";"7-4";"d";"Podzadanie 7.4.3";"Orzecznictwo administracyjne";"";75287;0;75287;0.0;100.0
+"7-4-3-1";"7-4-3";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";2945;0;2945;0.0;100.0
+"7-4-3-2";"7-4-3";"e";"Dysponent";"Wojewodowie";"85";72342;0;72342;0.0;100.0
+"7-5";"7";"c";"Zadanie 7.5";"Realizacja zobowiązań państwa z okresu transformacji gospodarczej w zakresie finansowania mieszkalnictwa";"";650000;0;650000;0.0;100.0
+"7-5-1";"7-5";"d";"Podzadanie 7.5.1";"Wykup odsetek od tzw. starego portfela spółdzielczych kredytów mieszkaniowych";"";130000;0;130000;0.0;100.0
+"7-5-1-1";"7-5-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";130000;0;130000;0.0;100.0
+"7-5-2";"7-5";"d";"Podzadanie 7.5.2";"Refundacja bankom wypłaconych premii gwarancyjnych";"";520000;0;520000;0.0;100.0
+"7-5-2-1";"7-5-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";520000;0;520000;0.0;100.0
+"8";"";"b";"FUNKCJA 8";"KULTURA FIZYCZNA I SPORT";"";1092963;0;1092963;0.0;100.0
+"8-1";"8";"c";"Zadanie 8.1";"Popularyzacja i wspieranie rozwoju sportu dla wszystkich";"";22604;0;22604;0.0;100.0
+"8-1-1";"8-1";"d";"Podzadanie 8.1.1";"Upowszechnianie aktywności fizycznej dzieci i młodzieży";"";673;0;673;0.0;100.0
+"8-1-1-1";"8-1-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";673;0;673;0.0;100.0
+"8-1-2";"8-1";"d";"Podzadanie 8.1.2";"Upowszechnianie aktywności fizycznej różnych grup społecznych";"";21626;0;21626;0.0;100.0
+"8-1-2-1";"8-1-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";21626;0;21626;0.0;100.0
+"8-1-3";"8-1";"d";"Podzadanie 8.1.3";"Upowszechnianie sportu osób niepełnosprawnych";"";305;0;305;0.0;100.0
+"8-1-3-1";"8-1-3";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";305;0;305;0.0;100.0
+"8-2";"8";"c";"Zadanie 8.2";"Wspieranie sportu kwalifikowanego";"";215623;0;215623;0.0;100.0
+"8-2-1";"8-2";"d";"Podzadanie 8.2.1";"Wspieranie działań związków sportowych";"";194928;0;194928;0.0;100.0
+"8-2-1-1";"8-2-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";194928;0;194928;0.0;100.0
+"8-2-2";"8-2";"d";"Podzadanie 8.2.2";"Wspieranie sportu młodzieżowego";"";520;0;520;0.0;100.0
+"8-2-2-1";"8-2-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";520;0;520;0.0;100.0
+"8-2-3";"8-2";"d";"Podzadanie 8.2.3";"Wspieranie współzawodnictwa sportowego osób niepełnosprawnych";"";11635;0;11635;0.0;100.0
+"8-2-3-1";"8-2-3";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";11635;0;11635;0.0;100.0
+"8-2-4";"8-2";"d";"Podzadanie 8.2.4";"Wspieranie nauki i medycyny sportowej";"";8540;0;8540;0.0;100.0
+"8-2-4-1";"8-2-4";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";6715;0;6715;0.0;100.0
+"8-2-4-2";"8-2-4";"e";"Dysponent";"Ministerstwo Zdrowia";"46";1825;0;1825;0.0;100.0
+"8-3";"8";"c";"Zadanie 8.3";"Wspieranie infrastruktury sportowej";"";255509;0;255509;0.0;100.0
+"8-3-1";"8-3";"d";"Podzadanie 8.3.1";"Infrastruktura w sporcie powszechnym";"";620;0;620;0.0;100.0
+"8-3-1-1";"8-3-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";620;0;620;0.0;100.0
+"8-3-2";"8-3";"d";"Podzadanie 8.3.2";"Infrastruktura w sporcie kwalifikowanym";"";3661;0;3661;0.0;100.0
+"8-3-2-1";"8-3-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";3661;0;3661;0.0;100.0
+"8-3-3";"8-3";"d";"Podzadanie 8.3.3";"Program ``Moje Boisko-Orlik 2012``";"";250445;0;250445;0.0;100.0
+"8-3-3-1";"8-3-3";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";250400;0;250400;0.0;100.0
+"8-3-3-2";"8-3-3";"e";"Dysponent";"Wojewodowie";"85";45;0;45;0.0;100.0
+"8-3-4";"8-3";"d";"Podzadanie 8.3.4";"Przygotowania Polski do współorganizacji Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012";"";783;0;783;0.0;100.0
+"8-3-4-1";"8-3-4";"e";"Dysponent";"Wojewodowie";"85";783;0;783;0.0;100.0
+"8-4";"8";"c";"Zadanie 8.4";"Współorganizacja Mistrzostw Europy";"";599077;0;599077;0.0;100.0
+"8-4-1";"8-4";"d";"Podzadanie 8.4.1";"Program wieloletni ``Przygotowanie i wykonanie przedsięwzięć EURO 2012``";"";496357;0;496357;0.0;100.0
+"8-4-1-1";"8-4-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";496357;0;496357;0.0;100.0
+"8-4-2";"8-4";"d";"Podzadanie 8.4.2";"Zabezpieczenie medyczne i bezpieczeństwo";"";102300;0;102300;0.0;100.0
+"8-4-2-1";"8-4-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";102300;0;102300;0.0;100.0
+"8-4-3";"8-4";"d";"Podzadanie 8.4.3";"Działalność koordynacyjna i kontrolna";"";420;0;420;0.0;100.0
+"8-4-3-1";"8-4-3";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";420;0;420;0.0;100.0
+"8-5";"8";"c";"Zadanie 8.5";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";150;0;150;0.0;100.0
+"8-5-1";"8-5";"d";"Podzadanie 8.5.1";"Utrzymanie systemów informatycznych";"";50;0;50;0.0;100.0
+"8-5-1-1";"8-5-1";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";50;0;50;0.0;100.0
+"8-5-2";"8-5";"d";"Podzadanie 8.5.2";"Budowa i wdrożenie rozwiązań informatycznych";"";100;0;100;0.0;100.0
+"8-5-2-1";"8-5-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";100;0;100;0.0;100.0
+"9";"";"b";"FUNKCJA 9";"KULTURA I DZIEDZICTWO NARODOWE";"";1317359;0;1317359;0.0;100.0
+"9-1";"9";"c";"Zadanie 9.1";"Podtrzymywanie i rozpowszechnianie tradycji narodowej i państwowej";"";29609;0;29609;0.0;100.0
+"9-1-1";"9-1";"d";"Podzadanie 9.1.1";"Ochrona miejsc pamięci narodowej w kraju i za granicą";"";28919;0;28919;0.0;100.0
+"9-1-1-1";"9-1-1";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";20296;0;20296;0.0;100.0
+"9-1-1-2";"9-1-1";"e";"Dysponent";"Wojewodowie";"85";8623;0;8623;0.0;100.0
+"9-1-2";"9-1";"d";"Podzadanie 9.1.2";"Restytucja dóbr kultury";"";599;0;599;0.0;100.0
+"9-1-2-1";"9-1-2";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";599;0;599;0.0;100.0
+"9-1-3";"9-1";"d";"Podzadanie 9.1.3";"Działalność naukowo-wydawnicza";"";91;0;91;0.0;100.0
+"9-1-3-1";"9-1-3";"e";"Dysponent";"Wojewodowie";"85";91;0;91;0.0;100.0
+"9-2";"9";"c";"Zadanie 9.2";"Ochrona dziedzictwa narodowego";"";725344;0;725344;0.0;100.0
+"9-2-1";"9-2";"d";"Podzadanie 9.2.1";"Utrzymywanie muzeów";"";281489;0;281489;0.0;100.0
+"9-2-1-1";"9-2-1";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";263476;0;263476;0.0;100.0
+"9-2-1-2";"9-2-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";16525;0;16525;0.0;100.0
+"9-2-1-3";"9-2-1";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";1488;0;1488;0.0;100.0
+"9-2-2";"9-2";"d";"Podzadanie 9.2.2";"Ochrona Polskiego dziedzictwa kulturowego w kraju i za granicą";"";10854;0;10854;0.0;100.0
+"9-2-2-1";"9-2-2";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";2848;0;2848;0.0;100.0
+"9-2-2-2";"9-2-2";"e";"Dysponent";"Wojewodowie";"85";8006;0;8006;0.0;100.0
+"9-2-3";"9-2";"d";"Podzadanie 9.2.3";"Zachowanie, utrzymanie i zagospodarowanie zabytków";"";138776;0;138776;0.0;100.0
+"9-2-3-1";"9-2-3";"e";"Dysponent";"Kancelaria Prezydenta RP";"01";30000;0;30000;0.0;100.0
+"9-2-3-2";"9-2-3";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";52475;0;52475;0.0;100.0
+"9-2-3-3";"9-2-3";"e";"Dysponent";"Wojewodowie";"85";56301;0;56301;0.0;100.0
+"9-2-4";"9-2";"d";"Podzadanie 9.2.4";"Dokumentacja, rejestry i ewidencja zabytków oraz dóbr kultury";"";39675;0;39675;0.0;100.0
+"9-2-4-1";"9-2-4";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";20992;0;20992;0.0;100.0
+"9-2-4-2";"9-2-4";"e";"Dysponent";"Wojewodowie";"85";18683;0;18683;0.0;100.0
+"9-2-5";"9-2";"d";"Podzadanie 9.2.5";"Utrzymywanie i powiększanie zasobów archiwalnych i filmowych";"";123540;0;123540;0.0;100.0
+"9-2-5-1";"9-2-5";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";123540;0;123540;0.0;100.0
+"9-2-6";"9-2";"d";"Podzadanie 9.2.6";"Utrzymywanie bibliotek oraz innych instytucji, działających w sektorze książki";"";131010;0;131010;0.0;100.0
+"9-2-6-1";"9-2-6";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";117861;0;117861;0.0;100.0
+"9-2-6-2";"9-2-6";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";3905;0;3905;0.0;100.0
+"9-2-6-3";"9-2-6";"e";"Dysponent";"Ministerstwo Zdrowia";"46";9244;0;9244;0.0;100.0
+"9-3";"9";"c";"Zadanie 9.3";"Działalność artystyczna i promocja kultury";"";396321;0;396321;0.0;100.0
+"9-3-1";"9-3";"d";"Podzadanie 9.3.1";"Wspieranie działalności artystycznej";"";239646;0;239646;0.0;100.0
+"9-3-1-1";"9-3-1";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";239646;0;239646;0.0;100.0
+"9-3-2";"9-3";"d";"Podzadanie 9.3.2";"Upowszechnianie i promocja kultury polskiej";"";145894;0;145894;0.0;100.0
+"9-3-2-1";"9-3-2";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";145894;0;145894;0.0;100.0
+"9-3-3";"9-3";"d";"Podzadanie 9.3.3";"Wspieranie kinematografii";"";10781;0;10781;0.0;100.0
+"9-3-3-1";"9-3-3";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";10781;0;10781;0.0;100.0
+"9-4";"9";"c";"Zadanie 9.4";"Budowa i modernizacja infrastruktury kultury";"";166085;0;166085;0.0;100.0
+"9-4-1";"9-4";"d";"Podzadanie 9.4.1";"Budowa obiektów w sferze kultury";"";77470;0;77470;0.0;100.0
+"9-4-1-1";"9-4-1";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";53820;0;53820;0.0;100.0
+"9-4-1-2";"9-4-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";23650;0;23650;0.0;100.0
+"9-4-2";"9-4";"d";"Podzadanie 9.4.2";"Modernizacja i wyposażanie obiektów służących kulturze";"";88615;0;88615;0.0;100.0
+"9-4-2-1";"9-4-2";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";80575;0;80575;0.0;100.0
+"9-4-2-2";"9-4-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";8040;0;8040;0.0;100.0
+"10";"";"b";"FUNKCJA 10";"NAUKA POLSKA";"";5471569;760643;4710926;13.9;86.1
+"10-1";"10";"c";"Zadanie 10.1";"Prowadzenie badań naukowych";"";2924805;12281;2912524;0.42;99.58
+"10-1-1";"10-1";"d";"Podzadanie 10.1.1";"Wspieranie badań naukowych";"";2906854;12281;2894573;0.42;99.58
+"10-1-1-1";"10-1-1";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";2906854;12281;2894573;0.42;99.58
+"10-1-3";"10-1";"d";"Podzadanie 10.1.3";"Działalność naukowo-badawcza w zakresie problematyki wymiaru sprawiedliwości";"";3320;0;3320;0.0;100.0
+"10-1-3-1";"10-1-3";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";3320;0;3320;0.0;100.0
+"10-1-4";"10-1";"d";"Podzadanie 10.1.4";"Opinie i ekspertyzy na potrzeby sądów powszechnych i jednostek organizacyjnych prokuratury";"";14631;0;14631;0.0;100.0
+"10-1-4-1";"10-1-4";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";14631;0;14631;0.0;100.0
+"10-2";"10";"c";"Zadanie 10.2";"Wzmocnienie badań naukowych służących praktycznym zastosowaniom";"";1546974;364362;1182612;23.55;76.45
+"10-2-1";"10-2";"d";"Podzadanie 10.2.1";"Wsparcie badań stosowanych i prac rozwojowych";"";1336933;364362;972571;27.25;72.75
+"10-2-1-1";"10-2-1";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";1336933;364362;972571;27.25;72.75
+"10-2-2";"10-2";"d";"Podzadanie 10.2.2";"Program wieloletni ``Poprawa bezpieczeństwa i warunków pracy – I i II etap``";"";10500;0;10500;0.0;100.0
+"10-2-2-1";"10-2-2";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";10500;0;10500;0.0;100.0
+"10-2-3";"10-2";"d";"Podzadanie 10.2.3";"Program wieloletni ``Polskie Sztuczne Serce``";"";6428;0;6428;0.0;100.0
+"10-2-3-1";"10-2-3";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";3474;0;3474;0.0;100.0
+"10-2-3-2";"10-2-3";"e";"Dysponent";"Ministerstwo Zdrowia";"46";2954;0;2954;0.0;100.0
+"10-2-4";"10-2";"d";"Podzadanie 10.2.4";"Badania naukowe w dziedzinie obronności";"";193113;0;193113;0.0;100.0
+"10-2-4-1";"10-2-4";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";154800;0;154800;0.0;100.0
+"10-2-4-2";"10-2-4";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";38313;0;38313;0.0;100.0
+"10-3";"10";"c";"Zadanie 10.3";"Rozbudowa infrastruktury nauki polskiej";"";602320;330240;272080;54.83;45.17
+"10-3-1";"10-3";"d";"Podzadanie 10.3.1";"Inwestycje wspierające badania naukowe";"";602320;330240;272080;54.83;45.17
+"10-3-1-1";"10-3-1";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";602320;330240;272080;54.83;45.17
+"10-4";"10";"c";"Zadanie 10.4";"Upowszechnianie, promocja oraz popularyzacja nauki";"";107265;0;107265;0.0;100.0
+"10-4-1";"10-4";"d";"Podzadanie 10.4.1";"Wspieranie dyscyplin naukowych oraz placówek naukowych";"";53387;0;53387;0.0;100.0
+"10-4-1-1";"10-4-1";"e";"Dysponent";"Polska Akademia Nauk";"67";53387;0;53387;0.0;100.0
+"10-4-2";"10-4";"d";"Podzadanie 10.4.2";"Program wieloletni ``Ekspozycja Centrum Nauki Kopernik``";"";20680;0;20680;0.0;100.0
+"10-4-2-1";"10-4-2";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";20680;0;20680;0.0;100.0
+"10-4-3";"10-4";"d";"Podzadanie 10.4.3";"Poszerzanie wiedzy o nauce polskiej oraz wzbogacanie kultury narodowej";"";21898;0;21898;0.0;100.0
+"10-4-3-1";"10-4-3";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";7800;0;7800;0.0;100.0
+"10-4-3-2";"10-4-3";"e";"Dysponent";"Polska Akademia Nauk";"67";14098;0;14098;0.0;100.0
+"10-4-4";"10-4";"d";"Podzadanie 10.4.4";"Wspieranie współpracy naukowej z zagranicą";"";11300;0;11300;0.0;100.0
+"10-4-4-1";"10-4-4";"e";"Dysponent";"Polska Akademia Nauk";"67";11300;0;11300;0.0;100.0
+"10-5";"10";"c";"Zadanie 10.5";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";290205;53760;236445;18.52;81.48
+"10-5-1";"10-5";"d";"Podzadanie 10.5.1";"Utrzymanie systemów informatycznych nauki";"";20000;0;20000;0.0;100.0
+"10-5-1-1";"10-5-1";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";20000;0;20000;0.0;100.0
+"10-5-2";"10-5";"d";"Podzadanie 10.5.2";"Rozbudowa infrastruktury informatycznej nauki";"";270205;53760;216445;19.9;80.1
+"10-5-2-1";"10-5-2";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";270205;53760;216445;19.9;80.1
+"11";"";"b";"FUNKCJA 11";"BEZPIECZEŃSTWO ZEWNĘTRZNE I NIENARUSZALNOŚĆ GRANIC";"";20885383;0;20885383;0.0;100.0
+"11-1";"11";"c";"Zadanie 11.1";"Utrzymanie zdolności obronnych";"";11622623;0;11622623;0.0;100.0
+"11-1-1";"11-1";"d";"Podzadanie 11.1.1";"Utrzymanie zdolności operacyjnych Wojsk Lądowych";"";2880725;0;2880725;0.0;100.0
+"11-1-1-1";"11-1-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";2876824;0;2876824;0.0;100.0
+"11-1-1-2";"11-1-1";"e";"Dysponent";"Wojewodowie";"85";3901;0;3901;0.0;100.0
+"11-1-2";"11-1";"d";"Podzadanie 11.1.2";"Utrzymanie zdolności operacyjnych Sił Powietrznych";"";1360557;0;1360557;0.0;100.0
+"11-1-2-1";"11-1-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";1360557;0;1360557;0.0;100.0
+"11-1-3";"11-1";"d";"Podzadanie 11.1.3";"Utrzymanie zdolności operacyjnych Marynarki Wojennej";"";606344;0;606344;0.0;100.0
+"11-1-3-1";"11-1-3";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";606344;0;606344;0.0;100.0
+"11-1-4";"11-1";"d";"Podzadanie 11.1.4";"Utrzymanie zdolności operacyjnych Wojsk Specjalnych";"";242470;0;242470;0.0;100.0
+"11-1-4-1";"11-1-4";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";242470;0;242470;0.0;100.0
+"11-1-5";"11-1";"d";"Podzadanie 11.1.5";"Utrzymanie zdolności operacyjnych Żandarmerii Wojskowej";"";228304;0;228304;0.0;100.0
+"11-1-5-1";"11-1-5";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";228304;0;228304;0.0;100.0
+"11-1-6";"11-1";"d";"Podzadanie 11.1.6";"Zabezpieczenie dowodzenia Siłami Zbrojnymi RP";"";260816;0;260816;0.0;100.0
+"11-1-6-1";"11-1-6";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";260816;0;260816;0.0;100.0
+"11-1-7";"11-1";"d";"Podzadanie 11.1.7";"Zabezpieczenie logistyczne zdolności operacyjnych SZ";"";5419689;0;5419689;0.0;100.0
+"11-1-7-1";"11-1-7";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";5419689;0;5419689;0.0;100.0
+"11-1-8";"11-1";"d";"Podzadanie 11.1.8";"Zabezpieczenie medyczne zdolności operacyjnych SZ";"";145920;0;145920;0.0;100.0
+"11-1-8-1";"11-1-8";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";145920;0;145920;0.0;100.0
+"11-1-9";"11-1";"d";"Podzadanie 11.1.9";"Wsparcie utrzymania zdolności operacyjnych";"";0;0;0;0;0
+"11-1-9-1";"11-1-9";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";0;0;0;0;0
+"11-1-10";"11-1";"d";"Podzadanie 11.1.10";"Zakwaterowanie Sił Zbrojnych";"";477798;0;477798;0.0;100.0
+"11-1-10-1";"11-1-10";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";477798;0;477798;0.0;100.0
+"11-2";"11";"c";"Zadanie 11.2";"Rozwój zdolności obronnych";"";7315993;0;7315993;0.0;100.0
+"11-2-1";"11-2";"d";"Podzadanie 11.2.1";"Programy operacyjne";"";7179557;0;7179557;0.0;100.0
+"11-2-1-1";"11-2-1";"e";"Dysponent";"Ministerstwo Finansów";"78";123414;0;123414;0.0;100.0
+"11-2-1-2";"11-2-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";7056143;0;7056143;0.0;100.0
+"11-2-2";"11-2";"d";"Podzadanie 11.2.2";"Programy NATO i UE";"";135660;0;135660;0.0;100.0
+"11-2-2-1";"11-2-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";135660;0;135660;0.0;100.0
+"11-2-3";"11-2";"d";"Podzadanie 11.2.3";"Pozyskiwanie zdolności poza programami operacyjnymi";"";776;0;776;0.0;100.0
+"11-2-3-1";"11-2-3";"e";"Dysponent";"Wojewodowie";"85";776;0;776;0.0;100.0
+"11-3";"11";"c";"Zadanie 11.3";"Wsparcie wywiadowcze i ochrona kontrwywiadowcza";"";419489;0;419489;0.0;100.0
+"11-3-1";"11-3";"d";"Podzadanie 11.3.1";"Wsparcie wywiadowcze";"";261986;0;261986;0.0;100.0
+"11-3-1-1";"11-3-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";106260;0;106260;0.0;100.0
+"11-3-1-2";"11-3-1";"e";"Dysponent";"Agencja Wywiadu";"59";155726;0;155726;0.0;100.0
+"11-3-2";"11-3";"d";"Podzadanie 11.3.2";"Ochrona kontrwywiadowcza";"";157503;0;157503;0.0;100.0
+"11-3-2-1";"11-3-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";157503;0;157503;0.0;100.0
+"11-4";"11";"c";"Zadanie 11.4";"Realizacja zobowiązań sojuszniczych i międzynarodowych oraz uczestnictwo w działaniach na rzecz pokoju i stabilizacji międzynarodowej";"";1108143;0;1108143;0.0;100.0
+"11-4-1";"11-4";"d";"Podzadanie 11.4.1";"Misje i operacje NATO, UE oraz koalicyjne";"";772428;0;772428;0.0;100.0
+"11-4-1-1";"11-4-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";772428;0;772428;0.0;100.0
+"11-4-2";"11-4";"d";"Podzadanie 11.4.2";"Działalność w strukturach NATO, UE oraz przedstawicielstw dyplomatycznych i strukturach wielonarodowych";"";335715;0;335715;0.0;100.0
+"11-4-2-1";"11-4-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";335715;0;335715;0.0;100.0
+"11-5";"11";"c";"Zadanie 11.5";"Gotowość struktur administracyjno-gospodarczych kraju do obrony państwa";"";163730;0;163730;0.0;100.0
+"11-5-1";"11-5";"d";"Podzadanie 11.5.1";"Mobilizacja gospodarki";"";96000;0;96000;0.0;100.0
+"11-5-1-1";"11-5-1";"e";"Dysponent";"Ministerstwo Gospodarki";"20";73000;0;73000;0.0;100.0
+"11-5-1-2";"11-5-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";23000;0;23000;0.0;100.0
+"11-5-2";"11-5";"d";"Podzadanie 11.5.2";"Pozamilitarne przygotowania obronne";"";67730;0;67730;0.0;100.0
+"11-5-2-1";"11-5-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";89;0;89;0.0;100.0
+"11-5-2-2";"11-5-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";22511;0;22511;0.0;100.0
+"11-5-2-3";"11-5-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";10;0;10;0.0;100.0
+"11-5-2-4";"11-5-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";263;0;263;0.0;100.0
+"11-5-2-5";"11-5-2";"e";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";4;0;4;0.0;100.0
+"11-5-2-6";"11-5-2";"e";"Dysponent";"Agencja Bezpieczeństwa Wewnętrznego";"57";33;0;33;0.0;100.0
+"11-5-2-7";"11-5-2";"e";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";1780;0;1780;0.0;100.0
+"11-5-2-8";"11-5-2";"e";"Dysponent";"Wojewodowie";"85";34464;0;34464;0.0;100.0
+"11-5-2-9";"11-5-2";"e";"Dysponent";"Ministerstwo Finansów";"19";235;0;235;0.0;100.0
+"11-5-2-10";"11-5-2";"e";"Dysponent";"Ministerstwo Gospodarki";"20";838;0;838;0.0;100.0
+"11-5-2-11";"11-5-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";821;0;821;0.0;100.0
+"11-5-2-12";"11-5-2";"e";"Dysponent";"Ministerstwo Środowiska";"22";3051;0;3051;0.0;100.0
+"11-5-2-13";"11-5-2";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";200;0;200;0.0;100.0
+"11-5-2-14";"11-5-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"26";1922;0;1922;0.0;100.0
+"11-5-2-15";"11-5-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";1200;0;1200;0.0;100.0
+"11-5-2-16";"11-5-2";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";309;0;309;0.0;100.0
+"11-6";"11";"c";"Zadanie 11.6";"Posługa duszpasterska";"";24867;0;24867;0.0;100.0
+"11-6-1";"11-6";"d";"Podzadanie 11.6.1";"Posługa duszpasterska Ordynariatu Polowego WP";"";20530;0;20530;0.0;100.0
+"11-6-1-1";"11-6-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";20530;0;20530;0.0;100.0
+"11-6-2";"11-6";"d";"Podzadanie 11.6.2";"Posługa duszpasterska Ordynariatu Prawosławnego";"";2682;0;2682;0.0;100.0
+"11-6-2-1";"11-6-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";2682;0;2682;0.0;100.0
+"11-6-3";"11-6";"d";"Podzadanie 11.6.3";"Posługa duszpasterska Ewangelickiego Duszpasterstwa Wojskowego";"";1655;0;1655;0.0;100.0
+"11-6-3-1";"11-6-3";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";1655;0;1655;0.0;100.0
+"11-7";"11";"c";"Zadanie 11.7";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";230538;0;230538;0.0;100.0
+"11-7-1";"11-7";"d";"Podzadanie 11.7.1";"Utrzymanie systemów informatycznych";"";160565;0;160565;0.0;100.0
+"11-7-1-1";"11-7-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";160565;0;160565;0.0;100.0
+"11-7-2";"11-7";"d";"Podzadanie 11.7.2";"Budowa i wdrożenie rozwiązań informatycznych";"";69973;0;69973;0.0;100.0
+"11-7-2-1";"11-7-2";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";69973;0;69973;0.0;100.0
+"12";"";"b";"FUNKCJA 12";"ŚRODOWISKO";"";3878397;3034025;844372;78.23;21.77
+"12-1";"12";"c";"Zadanie 12.1";"Kształtowanie bioróżnorodności";"";259910;109717;150193;42.21;57.79
+"12-1-1";"12-1";"d";"Podzadanie 12.1.1";"Realizacja sieci Natura 2000";"";23549;6010;17539;25.52;74.48
+"12-1-1-1";"12-1-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";23549;6010;17539;25.52;74.48
+"12-1-2";"12-1";"d";"Podzadanie 12.1.2";"Ochrona przyrody i krajobrazu, w tym parki narodowe";"";216682;93849;122833;43.31;56.69
+"12-1-2-1";"12-1-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";195867;93849;102018;47.91;52.09
+"12-1-2-2";"12-1-2";"e";"Dysponent";"Wojewodowie";"85";20815;0;20815;0.0;100.0
+"12-1-3";"12-1";"d";"Podzadanie 12.1.3";"Ochrona i zrównoważony rozwój lasów oraz powiększanie zasobów leśnych";"";5959;0;5959;0.0;100.0
+"12-1-3-1";"12-1-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";5883;0;5883;0.0;100.0
+"12-1-3-2";"12-1-3";"e";"Dysponent";"Wojewodowie";"85";76;0;76;0.0;100.0
+"12-1-4";"12-1";"d";"Podzadanie 12.1.4";"Ochrona funkcji gleb i przywrócenie gleb do stanu właściwego";"";2062;0;2062;0.0;100.0
+"12-1-4-1";"12-1-4";"e";"Dysponent";"Ministerstwo Środowiska";"41";2062;0;2062;0.0;100.0
+"12-1-5";"12-1";"d";"Podzadanie 12.1.5";"Ochrona zwierząt łownych i gospodarowanie ich zasobami";"";1800;0;1800;0.0;100.0
+"12-1-5-1";"12-1-5";"e";"Dysponent";"Ministerstwo Środowiska";"41";161;0;161;0.0;100.0
+"12-1-5-2";"12-1-5";"e";"Dysponent";"Wojewodowie";"85";1639;0;1639;0.0;100.0
+"12-1-6";"12-1";"d";"Podzadanie 12.1.6";"Przywracanie terenom zdegradowanym wartości przyrodniczych";"";9858;9858;0;100.0;0.0
+"12-1-6-1";"12-1-6";"e";"Dysponent";"Ministerstwo Środowiska";"41";9858;9858;0;100.0;0.0
+"12-2";"12";"c";"Zadanie 12.2";"Kształtowanie jakości powietrza atmosferycznego i przeciwdziałanie zmianom klimatu";"";4380;0;4380;0.0;100.0
+"12-2-1";"12-2";"d";"Podzadanie 12.2.1";"Ochrona powietrza przed zanieczyszczeniami oraz działania z zakresu handlu emisjami zanieczyszczeń innych niż gazy cieplarniane";"";483;0;483;0.0;100.0
+"12-2-1-1";"12-2-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";483;0;483;0.0;100.0
+"12-2-2";"12-2";"d";"Podzadanie 12.2.2";"Ograniczenie emisji gazów cieplarnianych oraz działania z zakresu handlu emisjami CO2  i pakietu energetyczno-klimatycznego";"";724;0;724;0.0;100.0
+"12-2-2-1";"12-2-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";724;0;724;0.0;100.0
+"12-2-3";"12-2";"d";"Podzadanie 12.2.3";"Ochrona klimatu, ochrona warstwy ozonowej oraz transgraniczne przemieszczanie zanieczyszczeń";"";881;0;881;0.0;100.0
+"12-2-3-1";"12-2-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";881;0;881;0.0;100.0
+"12-2-4";"12-2";"d";"Podzadanie 12.2.4";"Opracowanie programów ochrony powietrza";"";2292;0;2292;0.0;100.0
+"12-2-4-1";"12-2-4";"e";"Dysponent";"Ministerstwo Środowiska";"41";162;0;162;0.0;100.0
+"12-2-4-2";"12-2-4";"e";"Dysponent";"Wojewodowie";"85";2130;0;2130;0.0;100.0
+"12-3";"12";"c";"Zadanie 12.3";"Racjonalne gospodarowanie zasobami i strukturami geologicznymi";"";5843;0;5843;0.0;100.0
+"12-3-1";"12-3";"d";"Podzadanie 12.3.1";"Gromadzenie i udostępnianie danych geologicznych oraz prowadzenie rejestru obszarów górniczych";"";1212;0;1212;0.0;100.0
+"12-3-1-1";"12-3-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";322;0;322;0.0;100.0
+"12-3-1-2";"12-3-1";"e";"Dysponent";"Wojewodowie";"85";890;0;890;0.0;100.0
+"12-3-2";"12-3";"d";"Podzadanie 12.3.2";"Badania geologiczne, gospodarowanie zasobami złóż kopalin oraz ustalanie dyspozycyjnych zasobów wód podziemnych";"";3919;0;3919;0.0;100.0
+"12-3-2-1";"12-3-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";3862;0;3862;0.0;100.0
+"12-3-2-2";"12-3-2";"e";"Dysponent";"Wojewodowie";"85";57;0;57;0.0;100.0
+"12-3-3";"12-3";"d";"Podzadanie 12.3.3";"Promocja i upowszechnianie osiągnięć w dziedzinie geologii";"";712;0;712;0.0;100.0
+"12-3-3-1";"12-3-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";712;0;712;0.0;100.0
+"12-4";"12";"c";"Zadanie 12.4";"Gospodarka odpadami";"";208246;205437;2809;98.65;1.35
+"12-4-1";"12-4";"d";"Podzadanie 12.4.1";"Kształtowanie i realizacja polityki państwa w zakresie gospodarki odpadami";"";2562;0;2562;0.0;100.0
+"12-4-1-1";"12-4-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";1846;0;1846;0.0;100.0
+"12-4-1-2";"12-4-1";"e";"Dysponent";"Wojewodowie";"85";716;0;716;0.0;100.0
+"12-4-2";"12-4";"d";"Podzadanie 12.4.2";"Ograniczanie wpływu odpadów na środowisko";"";205437;205437;0;100.0;0.0
+"12-4-2-1";"12-4-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";205437;205437;0;100.0;0.0
+"12-4-3";"12-4";"d";"Podzadanie 12.4.3";"Nadzorowanie i koordynacja gospodarowania odpadami";"";247;0;247;0.0;100.0
+"12-4-3-1";"12-4-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";0;0;0;0;0
+"12-4-3-2";"12-4-3";"e";"Dysponent";"Wojewodowie";"85";247;0;247;0.0;100.0
+"12-5";"12";"c";"Zadanie 12.5";"Gospodarowanie zasobami wodnymi";"";656608;282278;374330;42.99;57.01
+"12-5-1";"12-5";"d";"Podzadanie 12.5.1";"Kształtowanie, ochrona i wykorzystanie zasobów wodnych";"";25040;9085;15955;36.28;63.72
+"12-5-1-1";"12-5-1";"e";"Dysponent";"Ministerstwo Środowiska";"22";25040;9085;15955;36.28;63.72
+"12-5-1-2";"12-5-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";0;0;0;0;0
+"12-5-2";"12-5";"d";"Podzadanie 12.5.2";"Utrzymanie powierzonego majątku związanego z gospodarką wodną";"";133943;27938;106005;20.86;79.14
+"12-5-2-1";"12-5-2";"e";"Dysponent";"Ministerstwo Środowiska";"22";133943;27938;106005;20.86;79.14
+"12-5-3";"12-5";"d";"Podzadanie 12.5.3";"Ochrona przeciwpowodziowa oraz przeciwdziałanie skutkom suszy";"";342461;245255;97206;71.62;28.38
+"12-5-3-1";"12-5-3";"e";"Dysponent";"Ministerstwo Środowiska";"22";240832;143626;97206;59.64;40.36
+"12-5-3-2";"12-5-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";101629;101629;0;100.0;0.0
+"12-5-4";"12-5";"d";"Podzadanie 12.5.4";"Budowa i utrzymanie urządzeń melioracji wodnych podstawowych i szczegółowych";"";154517;0;154517;0.0;100.0
+"12-5-4-1";"12-5-4";"e";"Dysponent";"Wojewodowie";"85";154517;0;154517;0.0;100.0
+"12-5-5";"12-5";"d";"Podzadanie 12.5.5";"Program wieloletni ``Budowa Zbiornika Wodnego Świnna Poręba``";"";64;0;64;0.0;100.0
+"12-5-5-1";"12-5-5";"e";"Dysponent";"Ministerstwo Środowiska";"22";64;0;64;0.0;100.0
+"12-5-6";"12-5";"d";"Podzadanie 12.5.6";"Program wieloletni ``Program dla Odry 2006``";"";583;0;583;0.0;100.0
+"12-5-6-1";"12-5-6";"e";"Dysponent";"Ministerstwo Środowiska";"22";0;0;0;0;0
+"12-5-6-2";"12-5-6";"e";"Dysponent";"Wojewodowie";"85";583;0;583;0.0;100.0
+"12-6";"12";"c";"Zadanie 12.6";"Rozbudowa infrastruktury ochrony środowiska";"";2547502;2428826;118676;95.34;4.66
+"12-6-1";"12-6";"d";"Podzadanie 12.6.1";"Gospodarka wodno-ściekowa";"";2288349;2288349;0;100.0;0.0
+"12-6-1-1";"12-6-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";2288349;2288349;0;100.0;0.0
+"12-6-2";"12-6";"d";"Podzadanie 12.6.2";"Przedsięwzięcia dostosowujące przedsiębiorstwa do wymogów ochrony środowiska";"";122754;122754;0;100.0;0.0
+"12-6-2-1";"12-6-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";122754;122754;0;100.0;0.0
+"12-6-3";"12-6";"d";"Podzadanie 12.6.3";"Zadania związane z realizacją projektów finansowanych z Funduszu Spójności";"";22051;17723;4328;80.37;19.63
+"12-6-3-1";"12-6-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";22051;17723;4328;80.37;19.63
+"12-6-4";"12-6";"d";"Podzadanie 12.6.4";"Realizacja zadań w ramach Mechanizmu Finansowego EOG, Norweskiego Mechanizmu Finansowego, Polsko-Szwajcarskiej Ramowej Umowy Bilateralnej, Programów Instytucjonalnych i innych programów pomocowych";"";114348;0;114348;0.0;100.0
+"12-6-4-1";"12-6-4";"e";"Dysponent";"Ministerstwo Środowiska";"41";114348;0;114348;0.0;100.0
+"12-7";"12";"c";"Zadanie 12.7";"Kontrola, monitoring stanu środowiska i przeciwdziałanie poważnym awariom";"";174650;0;174650;0.0;100.0
+"12-7-1";"12-7";"d";"Podzadanie 12.7.1";"Kontrola podmiotów korzystających ze środowiska w tym w zakresie zapobiegania poważnym awariom";"";55701;0;55701;0.0;100.0
+"12-7-1-1";"12-7-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";2093;0;2093;0.0;100.0
+"12-7-1-2";"12-7-1";"e";"Dysponent";"Wojewodowie";"85";53608;0;53608;0.0;100.0
+"12-7-2";"12-7";"d";"Podzadanie 12.7.2";"Monitoring stanu środowiska";"";81379;0;81379;0.0;100.0
+"12-7-2-1";"12-7-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";3197;0;3197;0.0;100.0
+"12-7-2-2";"12-7-2";"e";"Dysponent";"Wojewodowie";"85";78182;0;78182;0.0;100.0
+"12-7-3";"12-7";"d";"Podzadanie 12.7.3";"Kontrola przestrzegania prawa ochrony środowiska oraz prowadzenie postępowań administracyjnych";"";32366;0;32366;0.0;100.0
+"12-7-3-1";"12-7-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";32123;0;32123;0.0;100.0
+"12-7-3-2";"12-7-3";"e";"Dysponent";"Wojewodowie";"85";243;0;243;0.0;100.0
+"12-7-4";"12-7";"d";"Podzadanie 12.7.4";"Ochrona przed skutkami zagrożeń naturalnych";"";4500;0;4500;0.0;100.0
+"12-7-4-1";"12-7-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";4500;0;4500;0.0;100.0
+"12-7-4-2";"12-7-4";"e";"Dysponent";"Ministerstwo Środowiska";"41";0;0;0;0;0
+"12-7-5";"12-7";"d";"Podzadanie 12.7.5";"Pozwolenia zintegrowane oraz najlepsze dostępne techniki";"";704;0;704;0.0;100.0
+"12-7-5-1";"12-7-5";"e";"Dysponent";"Ministerstwo Środowiska";"41";704;0;704;0.0;100.0
+"12-8";"12";"c";"Zadanie 12.8";"Realizacja polityki ekologicznej państwa";"";10510;5009;5501;47.66;52.34
+"12-8-1";"12-8";"d";"Podzadanie 12.8.1";"Prowadzenie polityki ekologicznej państwa";"";1439;0;1439;0.0;100.0
+"12-8-1-1";"12-8-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";1439;0;1439;0.0;100.0
+"12-8-2";"12-8";"d";"Podzadanie 12.8.2";"Prowadzenie polityki zrównoważonego rozwoju obszarów strategicznych";"";240;0;240;0.0;100.0
+"12-8-2-1";"12-8-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";240;0;240;0.0;100.0
+"12-8-3";"12-8";"d";"Podzadanie 12.8.3";"Promocja postaw proekologicznych i edukacja środowiskowa";"";8831;5009;3822;56.72;43.28
+"12-8-3-1";"12-8-3";"e";"Dysponent";"Ministerstwo Środowiska";"41";8831;5009;3822;56.72;43.28
+"12-9";"12";"c";"Zadanie 12.9";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";10748;2758;7990;25.66;74.34
+"12-9-1";"12-9";"d";"Podzadanie 12.9.1";"Utrzymanie systemów informatycznych";"";6902;0;6902;0.0;100.0
+"12-9-1-1";"12-9-1";"e";"Dysponent";"Ministerstwo Środowiska";"22";1961;0;1961;0.0;100.0
+"12-9-1-2";"12-9-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";4941;0;4941;0.0;100.0
+"12-9-2";"12-9";"d";"Podzadanie 12.9.2";"Budowa i wdrożenie rozwiązań informatycznych";"";3846;2758;1088;71.71;28.29
+"12-9-2-1";"12-9-2";"e";"Dysponent";"Ministerstwo Środowiska";"22";421;0;421;0.0;100.0
+"12-9-2-2";"12-9-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";3425;2758;667;80.53;19.47
+"13";"";"b";"FUNKCJA 13";"ZABEZPIECZENIE SPOŁECZNE I WSPIERANIE RODZINY";"";85035429;3996;85031433;0.0;100.0
+"13-1";"13";"c";"Zadanie 13.1";"Pomoc i integracja społeczna";"";3262738;0;3262738;0.0;100.0
+"13-1-1";"13-1";"d";"Podzadanie 13.1.1";"Wspieranie osób zagrożonych wykluczeniem społecznym";"";3178362;0;3178362;0.0;100.0
+"13-1-1-1";"13-1-1";"e";"Dysponent";"Ministerstwo Finansów";"19";21101;0;21101;0.0;100.0
+"13-1-1-2";"13-1-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";13094;0;13094;0.0;100.0
+"13-1-1-3";"13-1-1";"e";"Dysponent";"Wojewodowie";"85";3144167;0;3144167;0.0;100.0
+"13-1-2";"13-1";"d";"Podzadanie 13.1.2";"Tworzenie, wdrażanie oraz realizacja przepisów o pomocy społecznej";"";1380;0;1380;0.0;100.0
+"13-1-2-1";"13-1-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";1380;0;1380;0.0;100.0
+"13-1-2-2";"13-1-2";"e";"Dysponent";"Wojewodowie";"85";0;0;0;0;0
+"13-1-3";"13-1";"d";"Podzadanie 13.1.3";"Zapewnienie jakości kształcenia i doskonalenia zawodowego służb społecznych";"";717;0;717;0.0;100.0
+"13-1-3-1";"13-1-3";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";717;0;717;0.0;100.0
+"13-1-4";"13-1";"d";"Podzadanie 13.1.4";"Działalność badawcza, doradcza i informacyjna";"";1590;0;1590;0.0;100.0
+"13-1-4-1";"13-1-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";1590;0;1590;0.0;100.0
+"13-1-5";"13-1";"d";"Podzadanie 13.1.5";"Nadzór nad jednostkami organizacyjnymi pomocy społecznej";"";689;0;689;0.0;100.0
+"13-1-5-1";"13-1-5";"e";"Dysponent";"Wojewodowie";"85";689;0;689;0.0;100.0
+"13-1-6";"13-1";"d";"Podzadanie 13.1.6";"Mieszkania socjalne, mieszkania chronione, noclegownie i domy dla bezdomnych";"";80000;0;80000;0.0;100.0
+"13-1-6-1";"13-1-6";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";80000;0;80000;0.0;100.0
+"13-2";"13";"c";"Zadanie 13.2";"Aktywizacja społeczna osób niepełnosprawnych";"";98919;0;98919;0.0;100.0
+"13-2-1";"13-2";"d";"Podzadanie 13.2.1";"Wspomaganie aktywizacji społecznej osób niepełnosprawnych";"";1390;0;1390;0.0;100.0
+"13-2-1-1";"13-2-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";1390;0;1390;0.0;100.0
+"13-2-2";"13-2";"d";"Podzadanie 13.2.2";"Prowadzenie dialogu obywatelskiego w zakresie aktywizacji społecznej osób niepełnosprawnych";"";313;0;313;0.0;100.0
+"13-2-2-1";"13-2-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";313;0;313;0.0;100.0
+"13-2-3";"13-2";"d";"Podzadanie 13.2.3";"Orzekanie o niepełnosprawności";"";96110;0;96110;0.0;100.0
+"13-2-3-1";"13-2-3";"e";"Dysponent";"Wojewodowie";"85";96110;0;96110;0.0;100.0
+"13-2-4";"13-2";"d";"Podzadanie 13.2.4";"Nadzór nad ośrodkami i organizatorami turnusów rehabilitacyjnych";"";1106;0;1106;0.0;100.0
+"13-2-4-1";"13-2-4";"e";"Dysponent";"Wojewodowie";"85";1106;0;1106;0.0;100.0
+"13-3";"13";"c";"Zadanie 13.3";"Ubezpieczenia społeczne";"";72339265;0;72339265;0.0;100.0
+"13-3-1";"13-3";"d";"Podzadanie 13.3.1";"Świadczenia społeczne";"";13259426;0;13259426;0.0;100.0
+"13-3-1-1";"13-3-1";"e";"Dysponent";"Polska Akademia Nauk";"67";1325;0;1325;0.0;100.0
+"13-3-1-2";"13-3-1";"e";"Dysponent";"Kasa Rolniczego Ubezpieczenia Społecznego";"72";13258101;0;13258101;0.0;100.0
+"13-3-2";"13-3";"d";"Podzadanie 13.3.2";"Nadzór nad zgodnością działań Zakładu Ubezpieczeń Społecznych z obowiązującymi przepisami prawa";"";969;0;969;0.0;100.0
+"13-3-2-1";"13-3-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";969;0;969;0.0;100.0
+"13-3-4";"13-3";"d";"Podzadanie 13.3.4";"Prewencja i rehabilitacja";"";1000;0;1000;0.0;100.0
+"13-3-4-1";"13-3-4";"e";"Dysponent";"Kasa Rolniczego Ubezpieczenia Społecznego";"72";1000;0;1000;0.0;100.0
+"13-3-5";"13-3";"d";"Podzadanie 13.3.5";"Świadczenia emerytalne dla funkcjonariuszy i żołnierzy";"";13428546;0;13428546;0.0;100.0
+"13-3-5-1";"13-3-5";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";5773836;0;5773836;0.0;100.0
+"13-3-5-2";"13-3-5";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";1045640;0;1045640;0.0;100.0
+"13-3-5-3";"13-3-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";6609070;0;6609070;0.0;100.0
+"13-3-6";"13-3";"d";"Podzadanie 13.3.6";"Uposażenia dla sędziów i prokuratorów  w stanie spoczynku i uposażenia rodzinne";"";421845;0;421845;0.0;100.0
+"13-3-6-1";"13-3-6";"e";"Dysponent";"Sąd Najwyższy";"04";19376;0;19376;0.0;100.0
+"13-3-6-2";"13-3-6";"e";"Dysponent";"Prokuratura Generalna";"88";177790;0;177790;0.0;100.0
+"13-3-6-3";"13-3-6";"e";"Dysponent";"Naczelny Sąd Administracyjny";"05";21510;0;21510;0.0;100.0
+"13-3-6-4";"13-3-6";"e";"Dysponent";"Trybunał Konstytucyjny";"06";4702;0;4702;0.0;100.0
+"13-3-6-5";"13-3-6";"e";"Dysponent";"Instytut Pamięci Narodowej - Komisja Ścigania Zbrodni przeciwko Narodowi Polskiemu";"13";2095;0;2095;0.0;100.0
+"13-3-6-6";"13-3-6";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"15";189977;0;189977;0.0;100.0
+"13-3-6-7";"13-3-6";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";319;0;319;0.0;100.0
+"13-3-6-8";"13-3-6";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";6076;0;6076;0.0;100.0
+"13-3-7";"13-3";"d";"Podzadanie 13.3.7";"Wypłata świadczeń zleconych do realizacji Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego";"";6103727;0;6103727;0.0;100.0
+"13-3-7-1";"13-3-7";"e";"Dysponent";"Kasa Rolniczego Ubezpieczenia Społecznego";"72";668444;0;668444;0.0;100.0
+"13-3-7-2";"13-3-7";"e";"Dysponent";"Zakład Ubezpieczeń Społecznych";"73";5435283;0;5435283;0.0;100.0
+"13-3-8";"13-3";"d";"Podzadanie 13.3.8";"Kształtowanie systemu repartycyjnego";"";1046;0;1046;0.0;100.0
+"13-3-8-1";"13-3-8";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";1046;0;1046;0.0;100.0
+"13-3-10";"13-3";"d";"Podzadanie 13.3.10";"Świadczenia pieniężne dla żołnierzy zwolnionych z zawodowej służby wojskowej";"";245547;0;245547;0.0;100.0
+"13-3-10-1";"13-3-10";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";245547;0;245547;0.0;100.0
+"13-3-11";"13-3";"d";"Podzadanie 13.3.11";"Zapewnienie wypłacalności świadczeń z Funduszu Ubezpieczeń Społecznych";"";37134406;0;37134406;0.0;100.0
+"13-3-11-1";"13-3-11";"e";"Dysponent";"Zakład Ubezpieczeń Społecznych";"73";37134406;0;37134406;0.0;100.0
+"13-3-12";"13-3";"d";"Podzadanie 13.3.12";"Przekazywanie składek na ubezpieczenia społeczne";"";1741206;0;1741206;0.0;100.0
+"13-3-12-1";"13-3-12";"e";"Dysponent";"Zakład Ubezpieczeń Społecznych";"73";1741206;0;1741206;0.0;100.0
+"13-3-13";"13-3";"d";"Podzadanie 13.3.13";"Wspieranie działań Otwartych Funduszy Emerytalnych";"";225;0;225;0.0;100.0
+"13-3-13-1";"13-3-13";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";225;0;225;0.0;100.0
+"13-3-14";"13-3";"d";"Podzadanie 13.3.14";"Wspieranie Pracowniczych Programów Emerytalnych i Indywidualnych Kont Emerytalnych";"";150;0;150;0.0;100.0
+"13-3-14-1";"13-3-14";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";150;0;150;0.0;100.0
+"13-3-15";"13-3";"d";"Podzadanie 13.3.15";"Koordynacja systemów zabezpieczenia społecznego";"";1172;0;1172;0.0;100.0
+"13-3-15-1";"13-3-15";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";1172;0;1172;0.0;100.0
+"13-4";"13";"c";"Zadanie 13.4";"Sprawy kombatantów i osób represjonowanych";"";28798;0;28798;0.0;100.0
+"13-4-1";"13-4";"d";"Podzadanie 13.4.1";"Orzekanie o usprawnieniach kombatantów i innych osób uprawnionych oraz tworzenie zbiorów akt kombatanckich";"";6511;0;6511;0.0;100.0
+"13-4-1-1";"13-4-1";"e";"Dysponent";"Urząd ds. Kombatantów i Osób Represjonowanych";"54";6511;0;6511;0.0;100.0
+"13-4-2";"13-4";"d";"Podzadanie 13.4.2";"Wsparcie socjalne dla kombatantów, ofiar represji i innych osób uprawnionych";"";13096;0;13096;0.0;100.0
+"13-4-2-1";"13-4-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";150;0;150;0.0;100.0
+"13-4-2-2";"13-4-2";"e";"Dysponent";"Urząd ds. Kombatantów i Osób Represjonowanych";"54";12946;0;12946;0.0;100.0
+"13-4-2-3";"13-4-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";0;0;0;0;0
+"13-4-3";"13-4";"d";"Podzadanie 13.4.3";"Honorowanie kombatantów i ofiar represji oraz utrwalanie pamięci o nich";"";9191;0;9191;0.0;100.0
+"13-4-3-1";"13-4-3";"e";"Dysponent";"Urząd ds. Kombatantów i Osób Represjonowanych";"54";9191;0;9191;0.0;100.0
+"13-5";"13";"c";"Zadanie 13.5";"Wspieranie rodziny";"";9288267;0;9288267;0.0;100.0
+"13-5-1";"13-5";"d";"Podzadanie 13.5.1";"Świadczenia rodzinne";"";9272620;0;9272620;0.0;100.0
+"13-5-1-1";"13-5-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";379;0;379;0.0;100.0
+"13-5-1-2";"13-5-1";"e";"Dysponent";"Wojewodowie";"85";9272241;0;9272241;0.0;100.0
+"13-5-2";"13-5";"d";"Podzadanie 13.5.2";"Świadczenia z funduszu alimentacyjnego";"";1990;0;1990;0.0;100.0
+"13-5-2-1";"13-5-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";229;0;229;0.0;100.0
+"13-5-2-2";"13-5-2";"e";"Dysponent";"Wojewodowie";"85";1761;0;1761;0.0;100.0
+"13-5-3";"13-5";"d";"Podzadanie 13.5.3";"Żłobki i inne formy opieki nad dzieckiem w wieku do 3 lat";"";231;0;231;0.0;100.0
+"13-5-3-1";"13-5-3";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";231;0;231;0.0;100.0
+"13-5-4";"13-5";"d";"Podzadanie 13.5.4";"Profilaktyka na rzecz dziecka i rodziny";"";1193;0;1193;0.0;100.0
+"13-5-4-1";"13-5-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";225;0;225;0.0;100.0
+"13-5-4-2";"13-5-4";"e";"Dysponent";"Wojewodowie";"85";968;0;968;0.0;100.0
+"13-5-5";"13-5";"d";"Podzadanie 13.5.5";"Piecza zastępcza nad dzieckiem";"";12083;0;12083;0.0;100.0
+"13-5-5-1";"13-5-5";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";8559;0;8559;0.0;100.0
+"13-5-5-2";"13-5-5";"e";"Dysponent";"Wojewodowie";"85";3524;0;3524;0.0;100.0
+"13-5-6";"13-5";"d";"Podzadanie 13.5.6";"Adopcja dziecka";"";150;0;150;0.0;100.0
+"13-5-6-1";"13-5-6";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";150;0;150;0.0;100.0
+"13-6";"13";"c";"Zadanie 13.6";"Przeciwdziałanie dyskryminacji";"";850;0;850;0.0;100.0
+"13-6-2";"13-6";"d";"Podzadanie 13.6.2";"Wyrównywanie statusu kobiet i mężczyzn w życiu społeczno-gospodarczym";"";850;0;850;0.0;100.0
+"13-6-2-1";"13-6-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";850;0;850;0.0;100.0
+"13-7";"13";"c";"Zadanie 13.7";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";16592;3996;12596;24.08;75.92
+"13-7-1";"13-7";"d";"Podzadanie 13.7.1";"Utrzymanie systemów informatycznych";"";16592;3996;12596;24.08;75.92
+"13-7-1-1";"13-7-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";16348;3996;12352;24.44;75.56
+"13-7-1-2";"13-7-1";"e";"Dysponent";"Wojewodowie";"85";244;0;244;0.0;100.0
+"13-7-2";"13-7";"d";"Podzadanie 13.7.2";"Budowa i wdrożenie rozwiązań informatycznych";"";0;0;0;0;0
+"13-7-2-1";"13-7-2";"e";"Dysponent";"Kasa Rolniczego Ubezpieczenia Społecznego";"72";0;0;0;0;0
+"14";"";"b";"FUNKCJA 14";"RYNEK PRACY";"";1408910;376843;1032067;26.75;73.25
+"14-1";"14";"c";"Zadanie 14.1";"Wspieranie zatrudnienia i przeciwdziałanie bezrobociu";"";415742;345043;70699;82.99;17.01
+"14-1-1";"14-1";"d";"Podzadanie 14.1.1";"Wspieranie programów aktywizacji";"";362929;345043;17886;95.07;4.93
+"14-1-1-1";"14-1-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";14631;0;14631;0.0;100.0
+"14-1-1-2";"14-1-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";347438;345043;2395;99.31;0.69
+"14-1-1-3";"14-1-1";"e";"Dysponent";"Wojewodowie";"85";860;0;860;0.0;100.0
+"14-1-2";"14-1";"d";"Podzadanie 14.1.2";"Wspieranie i modernizacja urzędów pracy";"";4927;0;4927;0.0;100.0
+"14-1-2-1";"14-1-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";3346;0;3346;0.0;100.0
+"14-1-2-2";"14-1-2";"e";"Dysponent";"Wojewodowie";"85";1581;0;1581;0.0;100.0
+"14-1-3";"14-1";"d";"Podzadanie 14.1.3";"Wspieranie i modernizacja instytucji rynku pracy z wyłączeniem publicznych służb zatrudnienia";"";154;0;154;0.0;100.0
+"14-1-3-1";"14-1-3";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";154;0;154;0.0;100.0
+"14-1-4";"14-1";"d";"Podzadanie 14.1.4";"Kształtowanie zasad zatrudniania cudzoziemców";"";3201;0;3201;0.0;100.0
+"14-1-4-1";"14-1-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";999;0;999;0.0;100.0
+"14-1-4-2";"14-1-4";"e";"Dysponent";"Wojewodowie";"85";2202;0;2202;0.0;100.0
+"14-1-5";"14-1";"d";"Podzadanie 14.1.5";"Zatrudnienie oraz przeciwdziałanie marginalizacji i wykluczeniu społecznemu młodzieży";"";44531;0;44531;0.0;100.0
+"14-1-5-1";"14-1-5";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";44531;0;44531;0.0;100.0
+"14-2";"14";"c";"Zadanie 14.2";"Budowa nowoczesnych stosunków pracy";"";209261;0;209261;0.0;100.0
+"14-2-1";"14-2";"d";"Podzadanie 14.2.1";"Elastyczność i bezpieczeństwo w zatrudnieniu";"";3388;0;3388;0.0;100.0
+"14-2-1-1";"14-2-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";3388;0;3388;0.0;100.0
+"14-2-2";"14-2";"d";"Podzadanie 14.2.2";"Nadzór i kontrola";"";173684;0;173684;0.0;100.0
+"14-2-2-1";"14-2-2";"e";"Dysponent";"Państwowa Inspekcja Pracy";"12";167595;0;167595;0.0;100.0
+"14-2-2-2";"14-2-2";"e";"Dysponent";"Wojewodowie";"85";6089;0;6089;0.0;100.0
+"14-2-3";"14-2";"d";"Podzadanie 14.2.3";"Bezpieczeństwo i higiena pracy";"";19911;0;19911;0.0;100.0
+"14-2-3-1";"14-2-3";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";19911;0;19911;0.0;100.0
+"14-2-4";"14-2";"d";"Podzadanie 14.2.4";"Prewencja i promocja ochrony pracy";"";12278;0;12278;0.0;100.0
+"14-2-4-1";"14-2-4";"e";"Dysponent";"Państwowa Inspekcja Pracy";"12";12278;0;12278;0.0;100.0
+"14-3";"14";"c";"Zadanie 14.3";"Aktywizacja zawodowa osób niepełnosprawnych";"";775264;31800;743464;4.1;95.9
+"14-3-1";"14-3";"d";"Podzadanie 14.3.1";"Analiza sytuacji osób niepełnosprawnych na rynku pracy";"";1816;0;1816;0.0;100.0
+"14-3-1-1";"14-3-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";226;0;226;0.0;100.0
+"14-3-1-2";"14-3-1";"e";"Dysponent";"Wojewodowie";"85";1590;0;1590;0.0;100.0
+"14-3-2";"14-3";"d";"Podzadanie 14.3.2";"Wspomaganie aktywizacji zawodowej osób niepełnosprawnych";"";772725;31800;740925;4.12;95.88
+"14-3-2-1";"14-3-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";772725;31800;740925;4.12;95.88
+"14-3-3";"14-3";"d";"Podzadanie 14.3.3";"Nadzór nad zakładami pracy chronionej i zakładami aktywności zawodowej";"";723;0;723;0.0;100.0
+"14-3-3-1";"14-3-3";"e";"Dysponent";"Wojewodowie";"85";723;0;723;0.0;100.0
+"14-4";"14";"c";"Zadanie 14.4";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";8643;0;8643;0.0;100.0
+"14-4-1";"14-4";"d";"Podzadanie 14.4.1";"Utrzymanie systemów informatycznych";"";7143;0;7143;0.0;100.0
+"14-4-1-1";"14-4-1";"e";"Dysponent";"Państwowa Inspekcja Pracy";"12";5455;0;5455;0.0;100.0
+"14-4-1-2";"14-4-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";1074;0;1074;0.0;100.0
+"14-4-1-3";"14-4-1";"e";"Dysponent";"Wojewodowie";"85";614;0;614;0.0;100.0
+"14-4-2";"14-4";"d";"Podzadanie 14.4.2";"Budowa i wdrożenie rozwiązań informatycznych";"";1500;0;1500;0.0;100.0
+"14-4-2-1";"14-4-2";"e";"Dysponent";"Państwowa Inspekcja Pracy";"12";1500;0;1500;0.0;100.0
+"15";"";"b";"FUNKCJA 15";"POLITYKA ZAGRANICZNA";"";1830501;3230;1827271;0.18;99.82
+"15-1";"15";"c";"Zadanie 15.1";"Zapewnianie Polsce sprzyjających warunków rozwoju";"";877434;0;877434;0.0;100.0
+"15-1-1";"15-1";"d";"Podzadanie 15.1.1";"Rozwijanie stosunków dwustronnych i wielostronnych";"";453126;0;453126;0.0;100.0
+"15-1-1-1";"15-1-1";"e";"Dysponent";"Ministerstwo Finansów";"19";820;0;820;0.0;100.0
+"15-1-1-2";"15-1-1";"e";"Dysponent";"Ministerstwo Środowiska";"22";462;0;462;0.0;100.0
+"15-1-1-3";"15-1-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";451844;0;451844;0.0;100.0
+"15-1-2";"15-1";"d";"Podzadanie 15.1.2";"Udział Polski we współpracy na forum organizacji międzynarodowych";"";422532;0;422532;0.0;100.0
+"15-1-2-1";"15-1-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";1600;0;1600;0.0;100.0
+"15-1-2-2";"15-1-2";"e";"Dysponent";"Ministerstwo Finansów";"19";355;0;355;0.0;100.0
+"15-1-2-3";"15-1-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";550;0;550;0.0;100.0
+"15-1-2-4";"15-1-2";"e";"Dysponent";"Ministerstwo Środowiska";"22";23863;0;23863;0.0;100.0
+"15-1-2-5";"15-1-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"26";1890;0;1890;0.0;100.0
+"15-1-2-6";"15-1-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";2398;0;2398;0.0;100.0
+"15-1-2-7";"15-1-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";6206;0;6206;0.0;100.0
+"15-1-2-8";"15-1-2";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";372396;0;372396;0.0;100.0
+"15-1-2-9";"15-1-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";13274;0;13274;0.0;100.0
+"15-1-3";"15-1";"d";"Podzadanie 15.1.3";"Wykorzystanie środków pomocowych";"";1776;0;1776;0.0;100.0
+"15-1-3-1";"15-1-3";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";1776;0;1776;0.0;100.0
+"15-2";"15";"c";"Zadanie 15.2";"Zapewnianie bezpieczeństwa państwa";"";33983;0;33983;0.0;100.0
+"15-2-1";"15-2";"d";"Podzadanie 15.2.1";"Umacnianie bezpieczeństwa politycznego i wojskowego";"";15438;0;15438;0.0;100.0
+"15-2-1-1";"15-2-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";15438;0;15438;0.0;100.0
+"15-2-2";"15-2";"d";"Podzadanie 15.2.2";"Umacnianie międzynarodowego bezpieczeństwa i pokoju";"";5700;0;5700;0.0;100.0
+"15-2-2-1";"15-2-2";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";5700;0;5700;0.0;100.0
+"15-2-3";"15-2";"d";"Podzadanie 15.2.3";"Umacnianie bezpieczeństwa ekonomicznego i ekologicznego";"";3802;0;3802;0.0;100.0
+"15-2-3-1";"15-2-3";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";3802;0;3802;0.0;100.0
+"15-2-4";"15-2";"d";"Podzadanie 15.2.4";"Pozostałe wymiary bezpieczeństwa";"";9043;0;9043;0.0;100.0
+"15-2-4-1";"15-2-4";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";9043;0;9043;0.0;100.0
+"15-3";"15";"c";"Zadanie 15.3";"Reprezentowanie i ochrona międzynarodowych interesów RP i jej obywateli za granicą";"";264567;0;264567;0.0;100.0
+"15-3-1";"15-3";"d";"Podzadanie 15.3.1";"Wspieranie interesów polskich obywateli i polskich osób prawnych";"";147598;0;147598;0.0;100.0
+"15-3-1-1";"15-3-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";147598;0;147598;0.0;100.0
+"15-3-2";"15-3";"d";"Podzadanie 15.3.2";"Zapewnianie opieki i obsługi konsularnej";"";109028;0;109028;0.0;100.0
+"15-3-2-1";"15-3-2";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";109028;0;109028;0.0;100.0
+"15-3-3";"15-3";"d";"Podzadanie 15.3.3";"Reprezentowanie i ochrona interesów RP przed międzynarodowymi organami sądowymi";"";1677;0;1677;0.0;100.0
+"15-3-3-1";"15-3-3";"e";"Dysponent";"Ministerstwo Finansów";"19";261;0;261;0.0;100.0
+"15-3-3-2";"15-3-3";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";1416;0;1416;0.0;100.0
+"15-3-4";"15-3";"d";"Podzadanie 15.3.4";"Zapewnianie obsługi prawnej działań wynikających z członkowstwa Polski w UE";"";6264;0;6264;0.0;100.0
+"15-3-4-1";"15-3-4";"e";"Dysponent";"Ministerstwo Finansów";"19";275;0;275;0.0;100.0
+"15-3-4-2";"15-3-4";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";5989;0;5989;0.0;100.0
+"15-4";"15";"c";"Zadanie 15.4";"Kształtowanie międzynarodowego wizerunku RP";"";181529;0;181529;0.0;100.0
+"15-4-1";"15-4";"d";"Podzadanie 15.4.1";"Prowadzenie promocji kraju";"";130073;0;130073;0.0;100.0
+"15-4-1-1";"15-4-1";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";32224;0;32224;0.0;100.0
+"15-4-1-2";"15-4-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";97849;0;97849;0.0;100.0
+"15-4-2";"15-4";"d";"Podzadanie 15.4.2";"Udział we współpracy rozwojowej i międzynarodowej pomocy humanitarnej";"";5377;0;5377;0.0;100.0
+"15-4-2-1";"15-4-2";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";5377;0;5377;0.0;100.0
+"15-4-3";"15-4";"d";"Podzadanie 15.4.3";"Wspieranie rozwoju demokracji, praw człowieka i rządów prawa";"";1841;0;1841;0.0;100.0
+"15-4-3-1";"15-4-3";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";1841;0;1841;0.0;100.0
+"15-4-4";"15-4";"d";"Podzadanie 15.4.4";"Zapewnianie obsługi cudzoziemców i zagranicznych osób prawnych";"";44238;0;44238;0.0;100.0
+"15-4-4-1";"15-4-4";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";44238;0;44238;0.0;100.0
+"15-5";"15";"c";"Zadanie 15.5";"Kształtowanie i koordynacja polityki zagranicznej";"";393292;3230;390062;0.82;99.18
+"15-5-1";"15-5";"d";"Podzadanie 15.5.1";"Kształtowanie i koordynacja współpracy międzynarodowej organów administracji rządowej w odniesieniu do spraw zagranicznych";"";5179;0;5179;0.0;100.0
+"15-5-1-1";"15-5-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";5179;0;5179;0.0;100.0
+"15-5-2";"15-5";"d";"Podzadanie 15.5.2";"Kształtowanie i koordynacja współpracy międzynarodowej organów administracji rządowej w odniesieniu do spraw członkowstwa Polski w UE";"";108623;0;108623;0.0;100.0
+"15-5-2-1";"15-5-2";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";105338;0;105338;0.0;100.0
+"15-5-2-2";"15-5-2";"e";"Dysponent";"Ministerstwo Finansów";"19";3285;0;3285;0.0;100.0
+"15-5-3";"15-5";"d";"Podzadanie 15.5.3";"Prowadzenie działalności edukacyjnej i informacyjnej";"";9167;0;9167;0.0;100.0
+"15-5-3-1";"15-5-3";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";9167;0;9167;0.0;100.0
+"15-5-4";"15-5";"d";"Podzadanie 15.5.4";"Przygotowanie, sprawowanie i obsługa Prezydencji RP w Radzie Unii Europejskiej";"";270323;3230;267093;1.19;98.81
+"15-5-4-1";"15-5-4";"e";"Dysponent";"Kancelaria Sejmu";"02";5712;0;5712;0.0;100.0
+"15-5-4-2";"15-5-4";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";556;0;556;0.0;100.0
+"15-5-4-3";"15-5-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"26";915;0;915;0.0;100.0
+"15-5-4-4";"15-5-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";26652;0;26652;0.0;100.0
+"15-5-4-5";"15-5-4";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";3265;0;3265;0.0;100.0
+"15-5-4-6";"15-5-4";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";3248;0;3248;0.0;100.0
+"15-5-4-7";"15-5-4";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";2627;0;2627;0.0;100.0
+"15-5-4-8";"15-5-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";883;0;883;0.0;100.0
+"15-5-4-9";"15-5-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";3875;0;3875;0.0;100.0
+"15-5-4-10";"15-5-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";235;0;235;0.0;100.0
+"15-5-4-11";"15-5-4";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";1295;0;1295;0.0;100.0
+"15-5-4-12";"15-5-4";"e";"Dysponent";"Kancelaria Senatu";"03";3675;0;3675;0.0;100.0
+"15-5-4-13";"15-5-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";419;0;419;0.0;100.0
+"15-5-4-14";"15-5-4";"e";"Dysponent";"Ministerstwo Skarbu Państwa";"36";251;0;251;0.0;100.0
+"15-5-4-15";"15-5-4";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";1798;0;1798;0.0;100.0
+"15-5-4-16";"15-5-4";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";263;0;263;0.0;100.0
+"15-5-4-17";"15-5-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";2718;0;2718;0.0;100.0
+"15-5-4-18";"15-5-4";"e";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";662;0;662;0.0;100.0
+"15-5-4-19";"15-5-4";"e";"Dysponent";"Ministerstwo Środowiska";"41";2208;0;2208;0.0;100.0
+"15-5-4-20";"15-5-4";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";49239;0;49239;0.0;100.0
+"15-5-4-21";"15-5-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";1486;0;1486;0.0;100.0
+"15-5-4-22";"15-5-4";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";116001;0;116001;0.0;100.0
+"15-5-4-23";"15-5-4";"e";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";6259;3230;3029;51.61;48.39
+"15-5-4-24";"15-5-4";"e";"Dysponent";"Ministerstwo Zdrowia";"46";2557;0;2557;0.0;100.0
+"15-5-4-25";"15-5-4";"e";"Dysponent";"Urząd Zamówień Publicznych";"49";40;0;40;0.0;100.0
+"15-5-4-26";"15-5-4";"e";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";436;0;436;0.0;100.0
+"15-5-4-27";"15-5-4";"e";"Dysponent";"Agencja Bezpieczeństwa Wewnętrznego";"57";4592;0;4592;0.0;100.0
+"15-5-4-28";"15-5-4";"e";"Dysponent";"Główny Urząd Statystyczny";"58";419;0;419;0.0;100.0
+"15-5-4-29";"15-5-4";"e";"Dysponent";"Wyższy Urząd Górniczy";"60";14;0;14;0.0;100.0
+"15-5-4-30";"15-5-4";"e";"Dysponent";"Urząd Patentowy RP";"61";428;0;428;0.0;100.0
+"15-5-4-31";"15-5-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";253;0;253;0.0;100.0
+"15-5-4-32";"15-5-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";366;0;366;0.0;100.0
+"15-5-4-33";"15-5-4";"e";"Dysponent";"Państwowa Agencja Atomistyki";"68";157;0;157;0.0;100.0
+"15-5-4-34";"15-5-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"18";442;0;442;0.0;100.0
+"15-5-4-35";"15-5-4";"e";"Dysponent";"Ministerstwo Finansów";"19";3531;0;3531;0.0;100.0
+"15-5-4-36";"15-5-4";"e";"Dysponent";"Ministerstwo Gospodarki";"20";10620;0;10620;0.0;100.0
+"15-5-4-37";"15-5-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";456;0;456;0.0;100.0
+"15-5-4-38";"15-5-4";"e";"Dysponent";"Ministerstwo Środowiska";"22";231;0;231;0.0;100.0
+"15-5-4-39";"15-5-4";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";11539;0;11539;0.0;100.0
+"15-6";"15";"c";"Zadanie 15.6";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";79696;0;79696;0.0;100.0
+"15-6-1";"15-6";"d";"Podzadanie 15.6.1";"Utrzymanie systemów informatycznych";"";38220;0;38220;0.0;100.0
+"15-6-1-1";"15-6-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";38220;0;38220;0.0;100.0
+"15-6-2";"15-6";"d";"Podzadanie 15.6.2";"Budowa i wdrożenie rozwiązań informatycznych";"";41476;0;41476;0.0;100.0
+"15-6-2-1";"15-6-2";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";41476;0;41476;0.0;100.0
+"16";"";"b";"FUNKCJA 16";"SPRAWY OBYWATELSKIE";"";1548673;293988;1254685;18.98;81.02
+"16-1";"16";"c";"Zadanie 16.1";"Obsługa administracyjna obywatela";"";774453;123112;651341;15.9;84.1
+"16-1-1";"16-1";"d";"Podzadanie 16.1.1";"Ewidencja ludności i dowody osobiste, rejestracja stanu cywilnego oraz zmiana imion i nazwisk";"";550218;0;550218;0.0;100.0
+"16-1-1-1";"16-1-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";223203;0;223203;0.0;100.0
+"16-1-1-2";"16-1-1";"e";"Dysponent";"Wojewodowie";"85";327015;0;327015;0.0;100.0
+"16-1-2";"16-1";"d";"Podzadanie 16.1.2";"Wydawanie dokumentów paszportowych";"";46197;0;46197;0.0;100.0
+"16-1-2-1";"16-1-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";877;0;877;0.0;100.0
+"16-1-2-2";"16-1-2";"e";"Dysponent";"Wojewodowie";"85";45320;0;45320;0.0;100.0
+"16-1-3";"16-1";"d";"Podzadanie 16.1.3";"Wzmacnianie potencjału administracji publicznej";"";151683;123112;28571;81.16;18.84
+"16-1-3-1";"16-1-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"17";134249;119448;14801;88.97;11.03
+"16-1-3-2";"16-1-3";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";4054;3664;390;90.38;9.62
+"16-1-3-3";"16-1-3";"e";"Dysponent";"Wojewodowie";"85";13380;0;13380;0.0;100.0
+"16-1-4";"16-1";"d";"Podzadanie 16.1.4";"Prowadzenie spraw z zakresu nadzoru sprawowanego przez ministra właściwego do spraw administracji publicznej oraz funkcjonowanie zespolonej administracji rządowej i jednostek samorządu terytorialnego";"";2015;0;2015;0.0;100.0
+"16-1-4-1";"16-1-4";"e";"Dysponent";"Wojewodowie";"85";2015;0;2015;0.0;100.0
+"16-1-5";"16-1";"d";"Podzadanie 16.1.5";"Prowadzenie spraw związanych z przyjmowaniem oraz rozpatrywaniem skarg i wniosków";"";4500;0;4500;0.0;100.0
+"16-1-5-1";"16-1-5";"e";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";2589;0;2589;0.0;100.0
+"16-1-5-2";"16-1-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";789;0;789;0.0;100.0
+"16-1-5-3";"16-1-5";"e";"Dysponent";"Wojewodowie";"85";1122;0;1122;0.0;100.0
+"16-1-6";"16-1";"d";"Podzadanie 16.1.6";"Prowadzenie spraw dotyczących obywatelstwa polskiego";"";18427;0;18427;0.0;100.0
+"16-1-6-1";"16-1-6";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1225;0;1225;0.0;100.0
+"16-1-6-2";"16-1-6";"e";"Dysponent";"Wojewodowie";"85";17202;0;17202;0.0;100.0
+"16-1-7";"16-1";"d";"Podzadanie 16.1.7";"Wydawanie zezwoleń na zbiórki publiczne oraz kontrola zbiórek publicznych";"";435;0;435;0.0;100.0
+"16-1-7-1";"16-1-7";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";184;0;184;0.0;100.0
+"16-1-7-2";"16-1-7";"e";"Dysponent";"Wojewodowie";"85";251;0;251;0.0;100.0
+"16-1-8";"16-1";"d";"Podzadanie 16.1.8";"Kontrola działalności tłumaczy przysięgłych";"";978;0;978;0.0;100.0
+"16-1-8-1";"16-1-8";"e";"Dysponent";"Wojewodowie";"85";978;0;978;0.0;100.0
+"16-2";"16";"c";"Zadanie 16.2";"Podtrzymywanie tożsamości kulturowej mniejszości narodowych i etnicznych";"";16455;0;16455;0.0;100.0
+"16-2-1";"16-2";"d";"Podzadanie 16.2.1";"Działania wobec mniejszości narodowych i etnicznych";"";14980;0;14980;0.0;100.0
+"16-2-1-1";"16-2-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";14758;0;14758;0.0;100.0
+"16-2-1-2";"16-2-1";"e";"Dysponent";"Wojewodowie";"85";222;0;222;0.0;100.0
+"16-2-2";"16-2";"d";"Podzadanie 16.2.2";"Realizacja zasady równego traktowania osób bez względu na pochodzenie etniczne";"";266;0;266;0.0;100.0
+"16-2-2-1";"16-2-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";209;0;209;0.0;100.0
+"16-2-2-2";"16-2-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";55;0;55;0.0;100.0
+"16-2-2-3";"16-2-2";"e";"Dysponent";"Wojewodowie";"85";2;0;2;0.0;100.0
+"16-2-3";"16-2";"d";"Podzadanie 16.2.3";"Działania na rzecz społeczności romskiej w Polsce";"";1209;0;1209;0.0;100.0
+"16-2-3-1";"16-2-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";727;0;727;0.0;100.0
+"16-2-3-2";"16-2-3";"e";"Dysponent";"Wojewodowie";"85";482;0;482;0.0;100.0
+"16-3";"16";"c";"Zadanie 16.3";"Utrzymanie stosunków między Państwem a kościołem i związkami wyznaniowymi";"";94512;0;94512;0.0;100.0
+"16-3-1";"16-3";"d";"Podzadanie 16.3.1";"Wydawanie zaświadczeń o osobowości prawnej jednostek kościelnych";"";365;0;365;0.0;100.0
+"16-3-1-1";"16-3-1";"e";"Dysponent";"Wojewodowie";"85";365;0;365;0.0;100.0
+"16-3-2";"16-3";"d";"Podzadanie 16.3.2";"Realizacja zadań z zakresu stosunków pomiędzy Państwem a Kościołem";"";94147;0;94147;0.0;100.0
+"16-3-2-1";"16-3-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";93619;0;93619;0.0;100.0
+"16-3-2-2";"16-3-2";"e";"Dysponent";"Wojewodowie";"85";528;0;528;0.0;100.0
+"16-4";"16";"c";"Zadanie 16.4";"Wspieranie Polonii i Polaków za granicą";"";116232;0;116232;0.0;100.0
+"16-4-1";"16-4";"d";"Podzadanie 16.4.1";"Współpraca i wspieranie Polonii i Polaków za granicą";"";116232;0;116232;0.0;100.0
+"16-4-1-1";"16-4-1";"e";"Dysponent";"Kancelaria Senatu";"03";76845;0;76845;0.0;100.0
+"16-4-1-2";"16-4-1";"e";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";558;0;558;0.0;100.0
+"16-4-1-3";"16-4-1";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";4664;0;4664;0.0;100.0
+"16-4-1-4";"16-4-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";34165;0;34165;0.0;100.0
+"16-5";"16";"c";"Zadanie 16.5";"Obsługa cudzoziemców i ruchy migracyjne";"";105035;1520;103515;1.45;98.55
+"16-5-1";"16-5";"d";"Podzadanie 16.5.1";"Obsługa cudzoziemców";"";99148;1520;97628;1.53;98.47
+"16-5-1-1";"16-5-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";75643;1520;74123;2.01;97.99
+"16-5-1-2";"16-5-1";"e";"Dysponent";"Wojewodowie";"85";23505;0;23505;0.0;100.0
+"16-5-2";"16-5";"d";"Podzadanie 16.5.2";"Sprawy polityki migracyjnej państwa";"";2821;0;2821;0.0;100.0
+"16-5-2-1";"16-5-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";2821;0;2821;0.0;100.0
+"16-5-3";"16-5";"d";"Podzadanie 16.5.3";"Sprawy repatriacji";"";1029;0;1029;0.0;100.0
+"16-5-3-1";"16-5-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";737;0;737;0.0;100.0
+"16-5-3-2";"16-5-3";"e";"Dysponent";"Wojewodowie";"85";292;0;292;0.0;100.0
+"16-5-4";"16-5";"d";"Podzadanie 16.5.4";"Ochrona praw uchodźców na terytorium RP";"";2037;0;2037;0.0;100.0
+"16-5-4-1";"16-5-4";"e";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";2037;0;2037;0.0;100.0
+"16-6";"16";"c";"Zadanie 16.6";"Ochrona Praw Obywatelskich i Praw Dziecka";"";60017;0;60017;0.0;100.0
+"16-6-1";"16-6";"d";"Podzadanie 16.6.1";"Zapewnienie ochrony wolności oraz praw człowieka i obywatela";"";32003;0;32003;0.0;100.0
+"16-6-1-1";"16-6-1";"e";"Dysponent";"Rzecznik Praw Obywatelskich";"08";32003;0;32003;0.0;100.0
+"16-6-2";"16-6";"d";"Podzadanie 16.6.2";"Zapewnienie ochrony i promocji praw dziecka";"";8840;0;8840;0.0;100.0
+"16-6-2-1";"16-6-2";"e";"Dysponent";"Rzecznik Praw Dziecka";"14";8840;0;8840;0.0;100.0
+"16-6-3";"16-6";"d";"Podzadanie 16.6.3";"Działalność naukowo-badawcza i edukacyjna oraz opinie i ekspertyzy";"";2734;0;2734;0.0;100.0
+"16-6-3-1";"16-6-3";"e";"Dysponent";"Rzecznik Praw Obywatelskich";"08";2734;0;2734;0.0;100.0
+"16-6-4";"16-6";"d";"Podzadanie 16.6.4";"Pełnienie funkcji Krajowego Mechanizmu Prewencji";"";1740;0;1740;0.0;100.0
+"16-6-4-1";"16-6-4";"e";"Dysponent";"Rzecznik Praw Obywatelskich";"08";1740;0;1740;0.0;100.0
+"16-6-5";"16-6";"d";"Podzadanie 16.6.5";"Ochrona danych osobowych";"";14700;0;14700;0.0;100.0
+"16-6-5-1";"16-6-5";"e";"Dysponent";"Generalny Inspektor Ochrony Danych Osobowych";"10";14700;0;14700;0.0;100.0
+"16-7";"16";"c";"Zadanie 16.7";"Sprawowanie funkcji organu wyższego stopnia w indywidualnych sprawach z zakresu administracji publicznej należących do właściwości jednostek samorządu terytorialnego";"";123874;247;123627;0.2;99.8
+"16-7-1";"16-7";"d";"Podzadanie 16.7.1";"Rozpatrywanie odwołań, zażaleń, żądań wznowienia postępowania, żądań stwierdzenia nieważności decyzji oraz wszczynanie z urzędu postępowań w trybach nadzwyczajnych";"";110867;247;110620;0.22;99.78
+"16-7-1-1";"16-7-1";"e";"Dysponent";"Wojewodowie";"85";18278;0;18278;0.0;100.0
+"16-7-1-2";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Elblągu";"86";1333;0;1333;0.0;100.0
+"16-7-1-3";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Gdańsku";"86";2548;0;2548;0.0;100.0
+"16-7-1-4";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Gorzowie Wielkopolskim";"86";1443;0;1443;0.0;100.0
+"16-7-1-5";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Jeleniej Górze";"86";1335;0;1335;0.0;100.0
+"16-7-1-6";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Kaliszu";"86";1438;0;1438;0.0;100.0
+"16-7-1-7";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Katowicach";"86";5880;0;5880;0.0;100.0
+"16-7-1-8";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Kielcach";"86";2734;0;2734;0.0;100.0
+"16-7-1-9";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Koninie";"86";1157;0;1157;0.0;100.0
+"16-7-1-10";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Koszalinie";"86";1412;0;1412;0.0;100.0
+"16-7-1-11";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Krakowie";"86";4556;0;4556;0.0;100.0
+"16-7-1-12";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Białej Podlaskiej";"86";1041;0;1041;0.0;100.0
+"16-7-1-13";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Krośnie";"86";1169;0;1169;0.0;100.0
+"16-7-1-14";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Legnicy";"86";1282;0;1282;0.0;100.0
+"16-7-1-15";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Lesznie";"86";1121;0;1121;0.0;100.0
+"16-7-1-16";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Lublinie";"86";2658;0;2658;0.0;100.0
+"16-7-1-17";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Łomży";"86";903;0;903;0.0;100.0
+"16-7-1-18";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Łodzi";"86";3230;0;3230;0.0;100.0
+"16-7-1-19";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Olsztynie";"86";2989;0;2989;0.0;100.0
+"16-7-1-20";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Opolu";"86";2227;0;2227;0.0;100.0
+"16-7-1-21";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Ostrołęce";"86";842;0;842;0.0;100.0
+"16-7-1-22";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Pile";"86";1087;0;1087;0.0;100.0
+"16-7-1-23";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Białymstoku";"86";1653;0;1653;0.0;100.0
+"16-7-1-24";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Piotrkowie Trybunalskim";"86";1785;0;1785;0.0;100.0
+"16-7-1-25";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Płocku";"86";1030;0;1030;0.0;100.0
+"16-7-1-26";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Poznaniu";"86";3301;0;3301;0.0;100.0
+"16-7-1-27";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Przemyślu";"86";1206;0;1206;0.0;100.0
+"16-7-1-28";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Radomiu";"86";1677;0;1677;0.0;100.0
+"16-7-1-29";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Rzeszowie";"86";2011;0;2011;0.0;100.0
+"16-7-1-30";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Siedlcach";"86";1237;0;1237;0.0;100.0
+"16-7-1-31";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Sieradzu";"86";1307;0;1307;0.0;100.0
+"16-7-1-32";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Skierniewicach";"86";841;0;841;0.0;100.0
+"16-7-1-33";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Słupsku";"86";1095;0;1095;0.0;100.0
+"16-7-1-34";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Bielsku-Białej";"86";2151;0;2151;0.0;100.0
+"16-7-1-35";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Suwałkach";"86";1116;0;1116;0.0;100.0
+"16-7-1-36";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Szczecinie";"86";2384;0;2384;0.0;100.0
+"16-7-1-37";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Tarnobrzegu";"86";1488;77;1411;5.17;94.83
+"16-7-1-38";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Tarnowie";"86";1709;0;1709;0.0;100.0
+"16-7-1-39";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Toruniu";"86";1785;0;1785;0.0;100.0
+"16-7-1-40";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Wałbrzychu";"86";1459;0;1459;0.0;100.0
+"16-7-1-41";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze we Włocławku";"86";1130;0;1130;0.0;100.0
+"16-7-1-42";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze we Wrocławiu";"86";2742;0;2742;0.0;100.0
+"16-7-1-43";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Zielonej Górze";"86";2282;0;2282;0.0;100.0
+"16-7-1-44";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Zamościu";"86";1058;0;1058;0.0;100.0
+"16-7-1-45";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Bydgoszczy";"86";2955;170;2785;5.75;94.25
+"16-7-1-46";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Nowym Sączu";"86";1690;0;1690;0.0;100.0
+"16-7-1-47";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Częstochowie";"86";1994;0;1994;0.0;100.0
+"16-7-1-48";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Warszawie";"86";4927;0;4927;0.0;100.0
+"16-7-1-49";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Chełmie";"86";942;0;942;0.0;100.0
+"16-7-1-50";"16-7-1";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Ciechanowie";"86";1249;0;1249;0.0;100.0
+"16-7-2";"16-7";"d";"Podzadanie 16.7.2";"Rozpatrywanie sporów cywilno-prawnych dotyczących aktualizacji opłat rocznych za użytkowanie wieczyste nieruchomości gruntowych";"";13007;0;13007;0.0;100.0
+"16-7-2-1";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Elblągu";"86";148;0;148;0.0;100.0
+"16-7-2-2";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Gdańsku";"86";1026;0;1026;0.0;100.0
+"16-7-2-3";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Gorzowie Wielkopolskim";"86";178;0;178;0.0;100.0
+"16-7-2-4";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Jeleniej Górze";"86";85;0;85;0.0;100.0
+"16-7-2-5";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Kaliszu";"86";93;0;93;0.0;100.0
+"16-7-2-6";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Katowicach";"86";383;0;383;0.0;100.0
+"16-7-2-7";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Kielcach";"86";373;0;373;0.0;100.0
+"16-7-2-8";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Koninie";"86";90;0;90;0.0;100.0
+"16-7-2-9";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Koszalinie";"86";127;0;127;0.0;100.0
+"16-7-2-10";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Krakowie";"86";1139;0;1139;0.0;100.0
+"16-7-2-11";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Białej Podlaskiej";"86";35;0;35;0.0;100.0
+"16-7-2-12";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Krośnie";"86";130;0;130;0.0;100.0
+"16-7-2-13";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Legnicy";"86";175;0;175;0.0;100.0
+"16-7-2-14";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Lesznie";"86";47;0;47;0.0;100.0
+"16-7-2-15";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Lublinie";"86";517;0;517;0.0;100.0
+"16-7-2-16";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Łomży";"86";94;0;94;0.0;100.0
+"16-7-2-17";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Łodzi";"86";243;0;243;0.0;100.0
+"16-7-2-18";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Olsztynie";"86";190;0;190;0.0;100.0
+"16-7-2-19";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Opolu";"86";117;0;117;0.0;100.0
+"16-7-2-20";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Ostrołęce";"86";299;0;299;0.0;100.0
+"16-7-2-21";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Pile";"86";162;0;162;0.0;100.0
+"16-7-2-22";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Białymstoku";"86";414;0;414;0.0;100.0
+"16-7-2-23";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Piotrkowie Trybunalskim";"86";94;0;94;0.0;100.0
+"16-7-2-24";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Płocku";"86";176;0;176;0.0;100.0
+"16-7-2-25";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Poznaniu";"86";271;0;271;0.0;100.0
+"16-7-2-26";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Przemyślu";"86";50;0;50;0.0;100.0
+"16-7-2-27";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Radomiu";"86";107;0;107;0.0;100.0
+"16-7-2-28";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Rzeszowie";"86";84;0;84;0.0;100.0
+"16-7-2-29";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Siedlcach";"86";218;0;218;0.0;100.0
+"16-7-2-30";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Sieradzu";"86";43;0;43;0.0;100.0
+"16-7-2-31";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Skierniewicach";"86";219;0;219;0.0;100.0
+"16-7-2-32";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Słupsku";"86";358;0;358;0.0;100.0
+"16-7-2-33";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Bielsku-Białej";"86";75;0;75;0.0;100.0
+"16-7-2-34";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Suwałkach";"86";51;0;51;0.0;100.0
+"16-7-2-35";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Szczecinie";"86";210;0;210;0.0;100.0
+"16-7-2-36";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Tarnobrzegu";"86";59;0;59;0.0;100.0
+"16-7-2-37";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Tarnowie";"86";55;0;55;0.0;100.0
+"16-7-2-38";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Toruniu";"86";183;0;183;0.0;100.0
+"16-7-2-39";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Wałbrzychu";"86";267;0;267;0.0;100.0
+"16-7-2-40";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze we Włocławku";"86";85;0;85;0.0;100.0
+"16-7-2-41";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze we Wrocławiu";"86";271;0;271;0.0;100.0
+"16-7-2-42";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Zielonej Górze";"86";120;0;120;0.0;100.0
+"16-7-2-43";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Zamościu";"86";56;0;56;0.0;100.0
+"16-7-2-44";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Nowym Sączu";"86";215;0;215;0.0;100.0
+"16-7-2-45";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Częstochowie";"86";47;0;47;0.0;100.0
+"16-7-2-46";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Warszawie";"86";3524;0;3524;0.0;100.0
+"16-7-2-47";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Chełmie";"86";50;0;50;0.0;100.0
+"16-7-2-48";"16-7-2";"e";"Dysponent";"Samorządowe Kolegium Odwoławcze w Ciechanowie";"86";54;0;54;0.0;100.0
+"16-8";"16";"c";"Zadanie 16.8";"Budowa społeczeństwa obywatelskiego";"";34535;11916;22619;34.5;65.5
+"16-8-1";"16-8";"d";"Podzadanie 16.8.1";"Tworzenie warunków dla rozwoju podmiotów prowadzących działalność pożytku publicznego, współpracy tych podmiotów z organami administracji publicznej oraz dialogu obywatelskiego";"";14460;4453;10007;30.8;69.2
+"16-8-1-1";"16-8-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";8620;0;8620;0.0;100.0
+"16-8-1-2";"16-8-1";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";5840;4453;1387;76.25;23.75
+"16-8-2";"16-8";"d";"Podzadanie 16.8.2";"Wspieranie społeczeństwa obywatelskiego oraz instytucji gospodarki społecznej";"";5117;3997;1120;78.11;21.89
+"16-8-2-1";"16-8-2";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";4427;3997;430;90.29;9.71
+"16-8-2-2";"16-8-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";690;0;690;0.0;100.0
+"16-8-3";"16-8";"d";"Podzadanie 16.8.3";"Nadzór i kontrola nad organizacjami pożytku publicznego oraz fundacjami, dla których ministrem właściwym jest Minister Pracy i Polityki Społecznej";"";316;0;316;0.0;100.0
+"16-8-3-1";"16-8-3";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";316;0;316;0.0;100.0
+"16-8-4";"16-8";"d";"Podzadanie 16.8.4";"Analiza i promocja informacji w zakresie dialogu społecznego";"";3353;0;3353;0.0;100.0
+"16-8-4-1";"16-8-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";3353;0;3353;0.0;100.0
+"16-8-5";"16-8";"d";"Podzadanie 16.8.5";"Koordynacja współpracy z partnerami społecznymi i wzmocnienie instytucji dialogu społecznego";"";10858;3466;7392;31.92;68.08
+"16-8-5-1";"16-8-5";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";10392;3466;6926;33.35;66.65
+"16-8-5-2";"16-8-5";"e";"Dysponent";"Wojewodowie";"85";466;0;466;0.0;100.0
+"16-8-6";"16-8";"d";"Podzadanie 16.8.6";"Nadzór nad fundacjami i stowarzyszeniami";"";431;0;431;0.0;100.0
+"16-8-6-1";"16-8-6";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";162;0;162;0.0;100.0
+"16-8-6-2";"16-8-6";"e";"Dysponent";"Wojewodowie";"85";269;0;269;0.0;100.0
+"16-9";"16";"c";"Zadanie 16.9";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";223560;157193;66367;70.31;29.69
+"16-9-1";"16-9";"d";"Podzadanie 16.9.1";"Monitorowanie realizacji polityki w zakresie standardów informatyzacji administracji i zapewnienie dostępu do informacji publicznej w formie elektronicznej";"";1150;0;1150;0.0;100.0
+"16-9-1-1";"16-9-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";1150;0;1150;0.0;100.0
+"16-9-2";"16-9";"d";"Podzadanie 16.9.2";"Centralne systemy ewidencji państwowych";"";9422;0;9422;0.0;100.0
+"16-9-2-1";"16-9-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";5775;0;5775;0.0;100.0
+"16-9-2-2";"16-9-2";"e";"Dysponent";"Wojewodowie";"85";3647;0;3647;0.0;100.0
+"16-9-3";"16-9";"d";"Podzadanie 16.9.3";"Wdrażanie przedsięwzięć informatycznych o publicznym zastosowaniu";"";177847;145788;32059;81.97;18.03
+"16-9-3-1";"16-9-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";558;0;558;0.0;100.0
+"16-9-3-2";"16-9-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";177289;145788;31501;82.23;17.77
+"16-9-5";"16-9";"d";"Podzadanie 16.9.5";"Upowszechnianie i wspieranie e-administracji usług administracji publicznej";"";33454;11405;22049;34.09;65.91
+"16-9-5-1";"16-9-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";17408;11405;6003;65.52;34.48
+"16-9-5-2";"16-9-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";15446;0;15446;0.0;100.0
+"16-9-5-3";"16-9-5";"e";"Dysponent";"Wojewodowie";"85";600;0;600;0.0;100.0
+"16-9-7";"16-9";"d";"Podzadanie 16.9.7";"Promocja społeczeństwa informacyjnego  i upowszechnianie umiejętności informatycznych w społeczeństwie";"";1687;0;1687;0.0;100.0
+"16-9-7-1";"16-9-7";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";1687;0;1687;0.0;100.0
+"17";"";"b";"FUNKCJA 17";"RÓWNOMIERNY ROZWÓJ KRAJU";"";15303315;12822042;2481273;83.79;16.21
+"17-1";"17";"c";"Zadanie 17.1";"Wsparcie rozwoju regionalnego kraju";"";12512337;11534284;978053;92.18;7.82
+"17-1-1";"17-1";"d";"Podzadanie 17.1.1";"Wsparcie regionów w zakresie wzrostu poziomu zatrudnienia i spójności gospodarczej";"";2951627;2678027;273600;90.73;9.27
+"17-1-1-1";"17-1-1";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";2951533;2678027;273506;90.73;9.27
+"17-1-1-2";"17-1-1";"e";"Dysponent";"Wojewodowie";"85";94;0;94;0.0;100.0
+"17-1-2";"17-1";"d";"Podzadanie 17.1.2";"Wsparcie rozwoju poszczególnych województw w ramach 16 RPO";"";8308722;7631581;677141;91.85;8.15
+"17-1-2-1";"17-1-2";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";2628;0;2628;0.0;100.0
+"17-1-2-2";"17-1-2";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";9957;9296;661;93.36;6.64
+"17-1-2-3";"17-1-2";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";8195099;7562864;632235;92.29;7.71
+"17-1-2-4";"17-1-2";"e";"Dysponent";"Wojewodowie";"85";101038;59421;41617;58.81;41.19
+"17-1-3";"17-1";"d";"Podzadanie 17.1.3";"Wsparcie województw Polski Wschodniej";"";1251988;1224676;27312;97.82;2.18
+"17-1-3-1";"17-1-3";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";1251988;1224676;27312;97.82;2.18
+"17-1-3-2";"17-1-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";0;0;0;0;0
+"17-2";"17";"c";"Zadanie 17.2";"Zamykanie programów Narodowego Planu Rozwoju 2004-2006";"";66786;0;66786;0.0;100.0
+"17-2-1";"17-2";"d";"Podzadanie 17.2.1";"Certyfikacja wydatków w ramach programów NPR";"";598;0;598;0.0;100.0
+"17-2-1-1";"17-2-1";"e";"Dysponent";"Ministerstwo Finansów";"19";598;0;598;0.0;100.0
+"17-2-2";"17-2";"d";"Podzadanie 17.2.2";"Zamykanie pomocy w ramach programu SPOT";"";850;0;850;0.0;100.0
+"17-2-2-1";"17-2-2";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";50;0;50;0.0;100.0
+"17-2-2-2";"17-2-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";800;0;800;0.0;100.0
+"17-2-3";"17-2";"d";"Podzadanie 17.2.3";"Zamykanie pomocy w ramach programu ZPORR";"";55835;0;55835;0.0;100.0
+"17-2-3-1";"17-2-3";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";202;0;202;0.0;100.0
+"17-2-3-2";"17-2-3";"e";"Dysponent";"Wojewodowie";"85";55633;0;55633;0.0;100.0
+"17-2-4";"17-2";"d";"Podzadanie 17.2.4";"Zamykanie pomocy w ramach Inicjatywy Wspólnotowej INTERREG";"";9503;0;9503;0.0;100.0
+"17-2-4-1";"17-2-4";"e";"Dysponent";"Wojewodowie";"85";9503;0;9503;0.0;100.0
+"17-3";"17";"c";"Zadanie 17.3";"Koordynacja realizacji NSRO 2007-2013 oraz zarządzanie i wdrażanie programów operacyjnych";"";2516986;1196345;1320641;47.53;52.47
+"17-3-1";"17-3";"d";"Podzadanie 17.3.1";"Koordynacja NSRO 2007-2013 i zarządzanie realizacją PO Pomoc Techniczna";"";204215;0;204215;0.0;100.0
+"17-3-1-1";"17-3-1";"e";"Dysponent";"Wojewodowie";"85";0;0;0;0;0
+"17-3-1-2";"17-3-1";"e";"Dysponent";"Ministerstwo Finansów";"19";1012;0;1012;0.0;100.0
+"17-3-1-3";"17-3-1";"e";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";12205;0;12205;0.0;100.0
+"17-3-1-4";"17-3-1";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";190998;0;190998;0.0;100.0
+"17-3-2";"17-3";"d";"Podzadanie 17.3.2";"Zarządzanie realizacją PO Innowacyjna Gospodarka";"";9928;0;9928;0.0;100.0
+"17-3-2-1";"17-3-2";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";9928;0;9928;0.0;100.0
+"17-3-3";"17-3";"d";"Podzadanie 17.3.3";"Zarządzanie realizacją PO Infrastruktura i Środowisko";"";10000;0;10000;0.0;100.0
+"17-3-3-1";"17-3-3";"e";"Dysponent";"Wojewodowie";"85";0;0;0;0;0
+"17-3-3-2";"17-3-3";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";10000;0;10000;0.0;100.0
+"17-3-4";"17-3";"d";"Podzadanie 17.3.4";"Zarządzanie realizacją PO Kapitał Ludzki";"";401838;307823;94015;76.6;23.4
+"17-3-4-1";"17-3-4";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";370350;307823;62527;83.12;16.88
+"17-3-4-2";"17-3-4";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";31488;0;31488;0.0;100.0
+"17-3-5";"17-3";"d";"Podzadanie 17.3.5";"Zarządzanie realizacją PO Rozwój Polski Wschodniej";"";6318;0;6318;0.0;100.0
+"17-3-5-1";"17-3-5";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";6318;0;6318;0.0;100.0
+"17-3-6";"17-3";"d";"Podzadanie 17.3.6";"Zarządzanie realizacją PO Europejskiej Współpracy Terytorialnej i Europejskiego Instrumentu Sąsiedztwa i Partnerstwa";"";34613;0;34613;0.0;100.0
+"17-3-6-1";"17-3-6";"e";"Dysponent";"Wojewodowie";"85";0;0;0;0;0
+"17-3-6-2";"17-3-6";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";34613;0;34613;0.0;100.0
+"17-3-7";"17-3";"d";"Podzadanie 17.3.7";"Rozliczanie środków pochodzących z UE w ramach NSRO";"";9552;0;9552;0.0;100.0
+"17-3-7-1";"17-3-7";"e";"Dysponent";"Wojewodowie";"85";3710;0;3710;0.0;100.0
+"17-3-7-2";"17-3-7";"e";"Dysponent";"Ministerstwo Finansów";"19";5842;0;5842;0.0;100.0
+"17-3-8";"17-3";"d";"Podzadanie 17.3.8";"Realizacja PO Pomoc Techniczna służąca wdrażaniu programów NSRO 2007-2013";"";153665;0;153665;0.0;100.0
+"17-3-8-1";"17-3-8";"e";"Dysponent";"Ministerstwo Środowiska";"41";6975;0;6975;0.0;100.0
+"17-3-8-2";"17-3-8";"e";"Dysponent";"Ministerstwo Zdrowia";"46";3636;0;3636;0.0;100.0
+"17-3-8-3";"17-3-8";"e";"Dysponent";"Wojewodowie";"85";129587;0;129587;0.0;100.0
+"17-3-8-4";"17-3-8";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";455;0;455;0.0;100.0
+"17-3-8-5";"17-3-8";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";115;0;115;0.0;100.0
+"17-3-8-6";"17-3-8";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";12897;0;12897;0.0;100.0
+"17-3-9";"17-3";"d";"Podzadanie 17.3.9";"Wdrażanie PO Innowacyjna Gospodarka";"";278981;214956;64025;77.05;22.95
+"17-3-9-1";"17-3-9";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";15915;0;15915;0.0;100.0
+"17-3-9-2";"17-3-9";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";259266;214956;44310;82.91;17.09
+"17-3-9-3";"17-3-9";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";3800;0;3800;0.0;100.0
+"17-3-10";"17-3";"d";"Podzadanie 17.3.10";"Wdrażanie PO Infrastruktura i Środowisko";"";774472;428874;345598;55.38;44.62
+"17-3-10-1";"17-3-10";"e";"Dysponent";"Ministerstwo Środowiska";"41";36755;0;36755;0.0;100.0
+"17-3-10-2";"17-3-10";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";4751;0;4751;0.0;100.0
+"17-3-10-3";"17-3-10";"e";"Dysponent";"Ministerstwo Zdrowia";"46";7380;0;7380;0.0;100.0
+"17-3-10-4";"17-3-10";"e";"Dysponent";"Wojewodowie";"85";75564;28874;46690;38.21;61.79
+"17-3-10-5";"17-3-10";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";476829;400000;76829;83.89;16.11
+"17-3-10-6";"17-3-10";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";173193;0;173193;0.0;100.0
+"17-3-11";"17-3";"d";"Podzadanie 17.3.11";"Wdrażanie PO Kapitał Ludzki";"";518456;244692;273764;47.2;52.8
+"17-3-11-1";"17-3-11";"e";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";5832;0;5832;0.0;100.0
+"17-3-11-2";"17-3-11";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1167;0;1167;0.0;100.0
+"17-3-11-3";"17-3-11";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";10197;9180;1017;90.03;9.97
+"17-3-11-4";"17-3-11";"e";"Dysponent";"Ministerstwo Zdrowia";"46";1500;0;1500;0.0;100.0
+"17-3-11-5";"17-3-11";"e";"Dysponent";"Wojewodowie";"85";4317;2334;1983;54.07;45.93
+"17-3-11-6";"17-3-11";"e";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";282747;233178;49569;82.47;17.53
+"17-3-11-7";"17-3-11";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";212696;0;212696;0.0;100.0
+"17-3-12";"17-3";"d";"Podzadanie 17.3.12";"Wdrażanie PO Rozwój Polski Wschodniej";"";10832;0;10832;0.0;100.0
+"17-3-12-1";"17-3-12";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";10832;0;10832;0.0;100.0
+"17-3-13";"17-3";"d";"Podzadanie 17.3.13";"Wdrażanie PO Europejskiej Współpracy Terytorialnej i Europejskiego Instrumentu Sąsiedztwa i Partnerstwa";"";104116;0;104116;0.0;100.0
+"17-3-13-1";"17-3-13";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1153;0;1153;0.0;100.0
+"17-3-13-2";"17-3-13";"e";"Dysponent";"Wojewodowie";"85";102963;0;102963;0.0;100.0
+"17-3-13-3";"17-3-13";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";0;0;0;0;0
+"17-4";"17";"c";"Zadanie 17.4";"Zarządzanie realizacją pozostałych programów finansowanych z udziałem niepodlegających zwrotowi środków pomocowych";"";207206;91413;115793;44.12;55.88
+"17-4-1";"17-4";"d";"Podzadanie 17.4.1";"Zarządzanie realizacją zadań w ramach Mechanizmu Finansowego EOG oraz Norweskiego Mechanizmu Finansowego";"";5694;0;5694;0.0;100.0
+"17-4-1-1";"17-4-1";"e";"Dysponent";"Ministerstwo Finansów";"19";751;0;751;0.0;100.0
+"17-4-1-2";"17-4-1";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";752;0;752;0.0;100.0
+"17-4-1-3";"17-4-1";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";1951;0;1951;0.0;100.0
+"17-4-1-4";"17-4-1";"e";"Dysponent";"Ministerstwo Środowiska";"41";556;0;556;0.0;100.0
+"17-4-1-5";"17-4-1";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";1684;0;1684;0.0;100.0
+"17-4-2";"17-4";"d";"Podzadanie 17.4.2";"Zarządzanie realizacją zadań w ramach Szwajcarsko-Polskiego Programu Współpracy (SPPW)";"";6321;4682;1639;74.07;25.93
+"17-4-2-1";"17-4-2";"e";"Dysponent";"Ministerstwo Finansów";"19";5288;4682;606;88.54;11.46
+"17-4-2-2";"17-4-2";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";660;0;660;0.0;100.0
+"17-4-2-3";"17-4-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";373;0;373;0.0;100.0
+"17-4-3";"17-4";"d";"Podzadanie 17.4.3";"Wdrażanie projektów w ramach Mechanizmu Finansowego EOG oraz Norweskiego Mechanizmu Finansowego";"";101648;0;101648;0.0;100.0
+"17-4-3-1";"17-4-3";"e";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";52654;0;52654;0.0;100.0
+"17-4-3-2";"17-4-3";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";14152;0;14152;0.0;100.0
+"17-4-3-3";"17-4-3";"e";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";33659;0;33659;0.0;100.0
+"17-4-3-4";"17-4-3";"e";"Dysponent";"Ministerstwo Zdrowia";"46";713;0;713;0.0;100.0
+"17-4-3-5";"17-4-3";"e";"Dysponent";"Komisja Nadzoru Finansowego";"70";470;0;470;0.0;100.0
+"17-4-4";"17-4";"d";"Podzadanie 17.4.4";"Wdrażanie Funduszu Stypendialnego i Szkoleniowego w ramach Mechanizmów Finansowych";"";0;0;0;0;0
+"17-4-4-1";"17-4-4";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";0;0;0;0;0
+"17-4-5";"17-4";"d";"Podzadanie 17.4.5";"Wdrażanie projektów w ramach SPPW";"";37314;34531;2783;92.54;7.46
+"17-4-5-1";"17-4-5";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";6640;5863;777;88.3;11.7
+"17-4-5-2";"17-4-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";30674;28668;2006;93.46;6.54
+"17-4-6";"17-4";"d";"Podzadanie 17.4.6";"Wsparcie organizacji pozarządowych w ramach Mechanizów Finansowych oraz SPPW";"";12748;9948;2800;78.04;21.96
+"17-4-6-1";"17-4-6";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";12748;9948;2800;78.04;21.96
+"17-4-7";"17-4";"d";"Podzadanie 17.4.7";"Wsparcie sektora prywatnego w ramach SPPW";"";42252;42252;0;100.0;0.0
+"17-4-7-1";"17-4-7";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";42252;42252;0;100.0;0.0
+"17-4-10";"17-4";"d";"Podzadanie 17.4.10";"Zarządzanie programem ogólnym ``Solidarność i zarządzanie przepływami migracyjnymi``";"";990;0;990;0.0;100.0
+"17-4-10-1";"17-4-10";"e";"Dysponent";"Ministerstwo Finansów";"19";575;0;575;0.0;100.0
+"17-4-10-2";"17-4-10";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";415;0;415;0.0;100.0
+"17-4-11";"17-4";"d";"Podzadanie 17.4.11";"Zarządzanie realizacją pozostałych programów finansowanych z udziałem bezzwrotnej pomocy zagranicznej";"";239;0;239;0.0;100.0
+"17-4-11-1";"17-4-11";"e";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";239;0;239;0.0;100.0
+"18";"";"b";"FUNKCJA 18";"SPRAWIEDLIWOŚĆ";"";8856432;35727;8820705;0.4;99.6
+"18-1";"18";"c";"Zadanie 18.1";"Sprawowanie wymiaru sprawiedliwości przez sądy powszechne i wojskowe";"";5554481;0;5554481;0.0;100.0
+"18-1-1";"18-1";"d";"Podzadanie 18.1.1";"Działalność orzecznicza";"";4405957;0;4405957;0.0;100.0
+"18-1-1-1";"18-1-1";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"15";4387741;0;4387741;0.0;100.0
+"18-1-1-2";"18-1-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";18216;0;18216;0.0;100.0
+"18-1-4";"18-1";"d";"Podzadanie 18.1.4";"Zapewnienie warunków organizacyjnych i technicznych funkcjonowania sądów";"";1083107;0;1083107;0.0;100.0
+"18-1-4-1";"18-1-4";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"15";1081034;0;1081034;0.0;100.0
+"18-1-4-2";"18-1-4";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";2073;0;2073;0.0;100.0
+"18-1-6";"18-1";"d";"Podzadanie 18.1.6";"Wypłata odszkodowań i zadośćuczynień orzekanych przez sądy";"";65417;0;65417;0.0;100.0
+"18-1-6-1";"18-1-6";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"15";65417;0;65417;0.0;100.0
+"18-2";"18";"c";"Zadanie 18.2";"Sprawowanie wymiaru sprawiedliwości przez sądownictwo administracyjne";"";350494;0;350494;0.0;100.0
+"18-2-1";"18-2";"d";"Podzadanie 18.2.1";"Działalność orzecznicza";"";324731;0;324731;0.0;100.0
+"18-2-1-1";"18-2-1";"e";"Dysponent";"Naczelny Sąd Administracyjny";"05";324731;0;324731;0.0;100.0
+"18-2-2";"18-2";"d";"Podzadanie 18.2.2";"Nadzór administracyjny nad działalnością sądów";"";272;0;272;0.0;100.0
+"18-2-2-1";"18-2-2";"e";"Dysponent";"Naczelny Sąd Administracyjny";"05";272;0;272;0.0;100.0
+"18-2-3";"18-2";"d";"Podzadanie 18.2.3";"Działania na rzecz podnoszenia jakości orzecznictwa";"";4061;0;4061;0.0;100.0
+"18-2-3-1";"18-2-3";"e";"Dysponent";"Naczelny Sąd Administracyjny";"05";4061;0;4061;0.0;100.0
+"18-2-4";"18-2";"d";"Podzadanie 18.2.4";"Zapewnienie warunków organizacyjnych i technicznych funkcjonowania sądów";"";21430;0;21430;0.0;100.0
+"18-2-4-1";"18-2-4";"e";"Dysponent";"Naczelny Sąd Administracyjny";"05";21430;0;21430;0.0;100.0
+"18-3";"18";"c";"Zadanie 18.3";"Sprawowanie wymiaru sprawiedliwości przez Sąd Najwyższy oraz działalność KRS";"";82710;0;82710;0.0;100.0
+"18-3-1";"18-3";"d";"Podzadanie 18.3.1";"Działalność orzecznicza Sądu Najwyższego";"";46681;0;46681;0.0;100.0
+"18-3-1-1";"18-3-1";"e";"Dysponent";"Sąd Najwyższy";"04";46681;0;46681;0.0;100.0
+"18-3-2";"18-3";"d";"Podzadanie 18.3.2";"Strzeżenie niezależności sądów i niezawisłości sędziów";"";11650;0;11650;0.0;100.0
+"18-3-2-1";"18-3-2";"e";"Dysponent";"Krajowa Rada Sądownictwa";"52";11650;0;11650;0.0;100.0
+"18-3-4";"18-3";"d";"Podzadanie 18.3.4";"Zapewnienie warunków organizacyjnych i technicznych funkcjonowania sądów";"";24379;0;24379;0.0;100.0
+"18-3-4-1";"18-3-4";"e";"Dysponent";"Sąd Najwyższy";"04";24379;0;24379;0.0;100.0
+"18-4";"18";"c";"Zadanie 18.4";"Wykonywanie kary pozbawienia wolności i tymczasowego aresztowania";"";2393879;16598;2377281;0.69;99.31
+"18-4-1";"18-4";"d";"Podzadanie 18.4.1";"Wykonywanie obowiązków statutowych jednostek organizacyjnych Służby Więziennej";"";2382438;16598;2365840;0.7;99.3
+"18-4-1-1";"18-4-1";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";2382438;16598;2365840;0.7;99.3
+"18-4-2";"18-4";"d";"Podzadanie 18.4.2";"Realizacja programu pozyskania 17 tys. miejsc w jednostkach organizacyjnych więziennictwa";"";0;0;0;0;0
+"18-4-2-1";"18-4-2";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";0;0;0;0;0
+"18-4-3";"18-4";"d";"Podzadanie 18.4.3";"System Dozoru Elektronicznego";"";11441;0;11441;0.0;100.0
+"18-4-3-1";"18-4-3";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";11441;0;11441;0.0;100.0
+"18-4-4";"18-4";"d";"Podzadanie 18.4.4";"Resocjalizacja osób pozbawionych wolności poprzez pracę";"";0;0;0;0;0
+"18-4-4-1";"18-4-4";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";0;0;0;0;0
+"18-4-5";"18-4";"d";"Podzadanie 18.4.5";"Udzielanie pomocy osobom pozbawionym wolności, zwalnianym z zakładów karnych i aresztów śledczych, rodzinom tych osób, pokrzywdzonym przestępstwem i ich rodzinom";"";0;0;0;0;0
+"18-4-5-1";"18-4-5";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";0;0;0;0;0
+"18-5";"18";"c";"Zadanie 18.5";"Przeciwdziałanie demoralizacji i przestępczości wśród nieletnich i stworzenie warunków do powrotu nieletnich do normalnego życia";"";212192;4882;207310;2.3;97.7
+"18-5-1";"18-5";"d";"Podzadanie 18.5.1";"Działalność zakładów poprawczych i schronisk dla nieletnich";"";212192;4882;207310;2.3;97.7
+"18-5-1-1";"18-5-1";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";212192;4882;207310;2.3;97.7
+"18-5-2";"18-5";"d";"Podzadanie 18.5.2";"Nadzór nad procesem resocjalizacji nieletnich";"";0;0;0;0;0
+"18-5-2-1";"18-5-2";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";0;0;0;0;0
+"18-6";"18";"c";"Zadanie 18.6";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";262676;14247;248429;5.42;94.58
+"18-6-1";"18-6";"d";"Podzadanie 18.6.1";"Utrzymanie systemów informatycznych";"";139322;14247;125075;10.23;89.77
+"18-6-1-1";"18-6-1";"e";"Dysponent";"Naczelny Sąd Administracyjny";"05";6402;0;6402;0.0;100.0
+"18-6-1-2";"18-6-1";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"15";94752;0;94752;0.0;100.0
+"18-6-1-3";"18-6-1";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";38168;14247;23921;37.33;62.67
+"18-6-2";"18-6";"d";"Podzadanie 18.6.2";"Budowa i wdrożenie rozwiązań informatycznych";"";123354;0;123354;0.0;100.0
+"18-6-2-1";"18-6-2";"e";"Dysponent";"Naczelny Sąd Administracyjny";"05";3333;0;3333;0.0;100.0
+"18-6-2-2";"18-6-2";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"15";110905;0;110905;0.0;100.0
+"18-6-2-3";"18-6-2";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";9116;0;9116;0.0;100.0
+"19";"";"b";"FUNKCJA 19";"INFRASTRUKTURA TRANSPORTOWA";"";14654234;7719549;6934685;52.68;47.32
+"19-1";"19";"c";"Zadanie 19.1";"Wspieranie transportu drogowego";"";3586608;6602;3580006;0.18;99.82
+"19-1-1";"19-1";"d";"Podzadanie 19.1.1";"Budowa i przebudowa sieci dróg krajowych";"";640287;0;640287;0.0;100.0
+"19-1-1-1";"19-1-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";636227;0;636227;0.0;100.0
+"19-1-1-2";"19-1-1";"e";"Dysponent";"Wojewodowie";"85";4060;0;4060;0.0;100.0
+"19-1-2";"19-1";"d";"Podzadanie 19.1.2";"Utrzymanie i zarządzanie siecią dróg krajowych";"";2001643;0;2001643;0.0;100.0
+"19-1-2-1";"19-1-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";2001643;0;2001643;0.0;100.0
+"19-1-3";"19-1";"d";"Podzadanie 19.1.3";"Zapewnienie bezpieczeństwa użytkownikom sieci drogowej";"";441034;6602;434432;1.5;98.5
+"19-1-3-1";"19-1-3";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";295454;6602;288852;2.23;97.77
+"19-1-3-2";"19-1-3";"e";"Dysponent";"Wojewodowie";"85";145580;0;145580;0.0;100.0
+"19-1-4";"19-1";"d";"Podzadanie 19.1.4";"Kształtowanie warunków dla rozwoju transportu drogowego";"";500222;0;500222;0.0;100.0
+"19-1-4-1";"19-1-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";5197;0;5197;0.0;100.0
+"19-1-4-2";"19-1-4";"e";"Dysponent";"Wojewodowie";"85";495025;0;495025;0.0;100.0
+"19-1-5";"19-1";"d";"Podzadanie 19.1.5";"Program wieloletni ``Narodowy program przebudowy dróg lokalnych 2008-2011``";"";3422;0;3422;0.0;100.0
+"19-1-5-1";"19-1-5";"e";"Dysponent";"Wojewodowie";"85";3422;0;3422;0.0;100.0
+"19-2";"19";"c";"Zadanie 19.2";"Wspieranie transportu kolejowego";"";5343374;2738828;2604546;51.26;48.74
+"19-2-1";"19-2";"d";"Podzadanie 19.2.1";"Budowa, rozbudowa i modernizacja infrastruktury kolejowej";"";3598334;2629395;968939;73.07;26.93
+"19-2-1-1";"19-2-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";3596509;2629395;967114;73.11;26.89
+"19-2-1-2";"19-2-1";"e";"Dysponent";"Wojewodowie";"85";1825;0;1825;0.0;100.0
+"19-2-2";"19-2";"d";"Podzadanie 19.2.2";"Utrzymanie powszechnie dostępnej infrastruktury kolejowej";"";1000000;0;1000000;0.0;100.0
+"19-2-2-1";"19-2-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";1000000;0;1000000;0.0;100.0
+"19-2-3";"19-2";"d";"Podzadanie 19.2.3";"Finansowania usług publicznych w pasażerskim transporcie kolejowym";"";620000;0;620000;0.0;100.0
+"19-2-3-1";"19-2-3";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";620000;0;620000;0.0;100.0
+"19-2-4";"19-2";"d";"Podzadanie 19.2.4";"Zakup i modernizacja taboru kolejowego";"";109433;109433;0;100.0;0.0
+"19-2-4-1";"19-2-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";109433;109433;0;100.0;0.0
+"19-2-5";"19-2";"d";"Podzadanie 19.2.5";"Kształtowanie warunków dla rozwoju transportu kolejowego";"";15607;0;15607;0.0;100.0
+"19-2-5-1";"19-2-5";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";4746;0;4746;0.0;100.0
+"19-2-5-2";"19-2-5";"e";"Dysponent";"Urząd Transportu Kolejowego";"71";10861;0;10861;0.0;100.0
+"19-3";"19";"c";"Zadanie 19.3";"Wspieranie transportu morskiego i żeglugi śródlądowej";"";831926;163199;668727;19.62;80.38
+"19-3-1";"19-3";"d";"Podzadanie 19.3.1";"Bezpieczeństwo żeglugi morskiej, ochrona brzegów i środowiska morskiego";"";249879;95802;154077;38.34;61.66
+"19-3-1-1";"19-3-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";249879;95802;154077;38.34;61.66
+"19-3-2";"19-3";"d";"Podzadanie 19.3.2";"Wspieranie infrastruktury morskiej i żeglugi śródlądowej";"";411377;67397;343980;16.38;83.62
+"19-3-2-1";"19-3-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";410812;67397;343415;16.41;83.59
+"19-3-2-2";"19-3-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";0;0;0;0;0
+"19-3-2-3";"19-3-2";"e";"Dysponent";"Wojewodowie";"85";565;0;565;0.0;100.0
+"19-3-3";"19-3";"d";"Podzadanie 19.3.3";"Ratowanie życia ludzkiego oraz zwalczanie zagrożeń na morzu";"";29480;0;29480;0.0;100.0
+"19-3-3-1";"19-3-3";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";29480;0;29480;0.0;100.0
+"19-3-4";"19-3";"d";"Podzadanie 19.3.4";"Administracja morska i żeglugi śródlądowej";"";130952;0;130952;0.0;100.0
+"19-3-4-1";"19-3-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";127397;0;127397;0.0;100.0
+"19-3-4-2";"19-3-4";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";3555;0;3555;0.0;100.0
+"19-3-5";"19-3";"d";"Podzadanie 19.3.5";"Kształtowanie warunków dla rozwoju transportu morskiego i żeglugi śródlądowej";"";10238;0;10238;0.0;100.0
+"19-3-5-1";"19-3-5";"e";"Dysponent";"Ministerstwo Infrastruktury";"21";7102;0;7102;0.0;100.0
+"19-3-5-2";"19-3-5";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";3136;0;3136;0.0;100.0
+"19-4";"19";"c";"Zadanie 19.4";"Wspieranie transportu lotniczego i infrastruktury lotniczej";"";529465;462742;66723;87.4;12.6
+"19-4-1";"19-4";"d";"Podzadanie 19.4.1";"Wspieranie infrastruktury lotniskowej i nawigacyjnej";"";466103;462742;3361;99.28;0.72
+"19-4-1-1";"19-4-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";465460;462742;2718;99.42;0.58
+"19-4-1-2";"19-4-1";"e";"Dysponent";"Wojewodowie";"85";643;0;643;0.0;100.0
+"19-4-2";"19-4";"d";"Podzadanie 19.4.2";"Regulowanie i nadzorowanie systemu lotnictwa cywilnego w Polsce";"";60426;0;60426;0.0;100.0
+"19-4-2-1";"19-4-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";60426;0;60426;0.0;100.0
+"19-4-3";"19-4";"d";"Podzadanie 19.4.3";"Kształtowanie warunków dla rozwoju transportu lotniczego";"";2936;0;2936;0.0;100.0
+"19-4-3-1";"19-4-3";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";2936;0;2936;0.0;100.0
+"19-5";"19";"c";"Zadanie 19.5";"Wspieranie zrównoważonego rozwoju transportu";"";4358286;4348178;10108;99.77;0.23
+"19-5-1";"19-5";"d";"Podzadanie 19.5.1";"Wspieranie infrastruktury portowej";"";394353;394181;172;99.96;0.04
+"19-5-1-1";"19-5-1";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";394353;394181;172;99.96;0.04
+"19-5-2";"19-5";"d";"Podzadanie 19.5.2";"Wspieranie transportu intermodalnego";"";158159;158159;0;100.0;0.0
+"19-5-2-1";"19-5-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";158159;158159;0;100.0;0.0
+"19-5-2-2";"19-5-2";"e";"Dysponent";"Ministerstwo Środowiska";"41";0;0;0;0;0
+"19-5-3";"19-5";"d";"Podzadanie 19.5.3";"Wspieranie rozwoju transportu miejskiego";"";3803497;3795838;7659;99.8;0.2
+"19-5-3-1";"19-5-3";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";3803497;3795838;7659;99.8;0.2
+"19-5-4";"19-5";"d";"Podzadanie 19.5.4";"Zapewnienie właściwych standardów bezpieczeństwa dla urządzeń technicznych w zakresie transportu drogowego, kolejowego, lotniczego oraz wodnego";"";2277;0;2277;0.0;100.0
+"19-5-4-1";"19-5-4";"e";"Dysponent";"Urząd Transportu Kolejowego";"71";2277;0;2277;0.0;100.0
+"19-6";"19";"c";"Zadanie 19.6";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";4575;0;4575;0.0;100.0
+"19-6-1";"19-6";"d";"Podzadanie 19.6.1";"Utrzymanie systemów informatycznych";"";522;0;522;0.0;100.0
+"19-6-1-1";"19-6-1";"e";"Dysponent";"Urząd Transportu Kolejowego";"71";0;0;0;0;0
+"19-6-1-2";"19-6-1";"e";"Dysponent";"Wojewodowie";"85";522;0;522;0.0;100.0
+"19-6-2";"19-6";"d";"Podzadanie 19.6.2";"Budowa i wdrożenie rozwiązań informatycznych";"";4053;0;4053;0.0;100.0
+"19-6-2-1";"19-6-2";"e";"Dysponent";"Ministerstwo Infrastruktury";"39";4000;0;4000;0.0;100.0
+"19-6-2-2";"19-6-2";"e";"Dysponent";"Urząd Transportu Kolejowego";"71";53;0;53;0.0;100.0
+"20";"";"b";"FUNKCJA 20";"ZDROWIE";"";8813577;404917;8408660;4.59;95.41
+"20-1";"20";"c";"Zadanie 20.1";"Zapewnianie dostępu do świadczeń opieki zdrowotnej";"";4715383;2025;4713358;0.04;99.96
+"20-1-1";"20-1";"d";"Podzadanie 20.1.1";"Organizacja oraz nadzór nad systemem opieki zdrowotnej";"";92900;2025;90875;2.18;97.82
+"20-1-1-1";"20-1-1";"e";"Dysponent";"Ministerstwo Zdrowia";"46";22414;2025;20389;9.03;90.97
+"20-1-1-2";"20-1-1";"e";"Dysponent";"Rzecznik Praw Pacjenta";"66";6591;0;6591;0.0;100.0
+"20-1-1-3";"20-1-1";"e";"Dysponent";"Wojewodowie";"85";63895;0;63895;0.0;100.0
+"20-1-2";"20-1";"d";"Podzadanie 20.1.2";"Realizacja programów polityki zdrowotnej ważnych dla zdrowia społeczeństwa";"";644741;0;644741;0.0;100.0
+"20-1-2-1";"20-1-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1005;0;1005;0.0;100.0
+"20-1-2-2";"20-1-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";643656;0;643656;0.0;100.0
+"20-1-2-3";"20-1-2";"e";"Dysponent";"Wojewodowie";"85";80;0;80;0.0;100.0
+"20-1-3";"20-1";"d";"Podzadanie 20.1.3";"Świadczenia zdrowotne w zakresie lecznictwa";"";45956;0;45956;0.0;100.0
+"20-1-3-1";"20-1-3";"e";"Dysponent";"Ministerstwo Zdrowia";"46";44893;0;44893;0.0;100.0
+"20-1-3-2";"20-1-3";"e";"Dysponent";"Wojewodowie";"85";1063;0;1063;0.0;100.0
+"20-1-4";"20-1";"d";"Podzadanie 20.1.4";"Świadczenia wysokospecjalistyczne finansowane z budżetu państwa";"";310469;0;310469;0.0;100.0
+"20-1-4-1";"20-1-4";"e";"Dysponent";"Ministerstwo Zdrowia";"46";310469;0;310469;0.0;100.0
+"20-1-5";"20-1";"d";"Podzadanie 20.1.5";"Zapewnianie funkcjonowania publicznej służby krwi";"";95546;0;95546;0.0;100.0
+"20-1-5-1";"20-1-5";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";6800;0;6800;0.0;100.0
+"20-1-5-2";"20-1-5";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1223;0;1223;0.0;100.0
+"20-1-5-3";"20-1-5";"e";"Dysponent";"Ministerstwo Zdrowia";"46";87523;0;87523;0.0;100.0
+"20-1-6";"20-1";"d";"Podzadanie 20.1.6";"Składki na ubezpieczenia zdrowotne opłacane z budżetu państwa za osoby uprawnione";"";3314525;0;3314525;0.0;100.0
+"20-1-6-1";"20-1-6";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";1438;0;1438;0.0;100.0
+"20-1-6-2";"20-1-6";"e";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";10131;0;10131;0.0;100.0
+"20-1-6-3";"20-1-6";"e";"Dysponent";"Kasa Rolniczego Ubezpieczenia Społecznego";"72";1884115;0;1884115;0.0;100.0
+"20-1-6-4";"20-1-6";"e";"Dysponent";"Zakład Ubezpieczeń Społecznych";"73";266192;0;266192;0.0;100.0
+"20-1-6-5";"20-1-6";"e";"Dysponent";"Wojewodowie";"85";1152649;0;1152649;0.0;100.0
+"20-1-7";"20-1";"d";"Podzadanie 20.1.7";"Udzielanie świadczeń medycznych dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego";"";211246;0;211246;0.0;100.0
+"20-1-7-1";"20-1-7";"e";"Dysponent";"Ministerstwo Sprawiedliwości";"37";1196;0;1196;0.0;100.0
+"20-1-7-2";"20-1-7";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1083;0;1083;0.0;100.0
+"20-1-7-3";"20-1-7";"e";"Dysponent";"Ministerstwo Zdrowia";"46";208967;0;208967;0.0;100.0
+"20-2";"20";"c";"Zadanie 20.2";"Ratownictwo medyczne";"";2198898;261118;1937780;11.87;88.13
+"20-2-1";"20-2";"d";"Podzadanie 20.2.1";"Zapewnianie prawidłowej działalności lotniczych zespołów ratownictwa medycznego";"";228547;40842;187705;17.87;82.13
+"20-2-1-1";"20-2-1";"e";"Dysponent";"Ministerstwo Zdrowia";"46";121717;40842;80875;33.55;66.45
+"20-2-1-2";"20-2-1";"e";"Dysponent";"Wojewodowie";"85";106830;0;106830;0.0;100.0
+"20-2-2";"20-2";"d";"Podzadanie 20.2.2";"Zapewnianie prawidłowej działalności szpitalnych oddziałów ratunkowych, centrów urazowych oraz zespołów ratownictwa medycznego, z wyłączeniem lotniczych zespołów ratownictwa medycznego";"";1970351;220276;1750075;11.18;88.82
+"20-2-2-1";"20-2-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";1111;0;1111;0.0;100.0
+"20-2-2-2";"20-2-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";228380;220276;8104;96.45;3.55
+"20-2-2-3";"20-2-2";"e";"Dysponent";"Wojewodowie";"85";1740860;0;1740860;0.0;100.0
+"20-3";"20";"c";"Zadanie 20.3";"Realizacja polityki lekowej państwa";"";85905;0;85905;0.0;100.0
+"20-3-1";"20-3";"d";"Podzadanie 20.3.1";"Zapewnianie możliwości rejestracji produktów leczniczych, wyrobów medycznych i produktów biobójczych";"";46673;0;46673;0.0;100.0
+"20-3-1-1";"20-3-1";"e";"Dysponent";"Ministerstwo Zdrowia";"46";46673;0;46673;0.0;100.0
+"20-3-2";"20-3";"d";"Podzadanie 20.3.2";"Zapewnianie nadzoru nad jakością i obrotem produktami leczniczymi, wyrobami medycznymi i produktami biobójczymi";"";36383;0;36383;0.0;100.0
+"20-3-2-1";"20-3-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";12654;0;12654;0.0;100.0
+"20-3-2-2";"20-3-2";"e";"Dysponent";"Wojewodowie";"85";23729;0;23729;0.0;100.0
+"20-3-3";"20-3";"d";"Podzadanie 20.3.3";"Zapewnianie dostępu do leków i wyrobów medycznych poprzez umożliwienie refundacji leków i wyrobów medycznych najistotniejszych dla zdrowia społeczeństwa";"";2849;0;2849;0.0;100.0
+"20-3-3-1";"20-3-3";"e";"Dysponent";"Ministerstwo Zdrowia";"46";2849;0;2849;0.0;100.0
+"20-4";"20";"c";"Zadanie 20.4";"Wspieranie rozwoju i restrukturyzacji systemu ochrony zdrowia";"";812963;114372;698591;14.07;85.93
+"20-4-1";"20-4";"d";"Podzadanie 20.4.1";"Inwestycje w infrastrukturę w ochronie zdrowia";"";811193;114372;696821;14.1;85.9
+"20-4-1-1";"20-4-1";"e";"Dysponent";"Ministerstwo Obrony Narodowej";"29";96494;0;96494;0.0;100.0
+"20-4-1-2";"20-4-1";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";46606;0;46606;0.0;100.0
+"20-4-1-3";"20-4-1";"e";"Dysponent";"Ministerstwo Zdrowia";"46";668064;114372;553692;17.12;82.88
+"20-4-1-4";"20-4-1";"e";"Dysponent";"Wojewodowie";"85";29;0;29;0.0;100.0
+"20-4-2";"20-4";"d";"Podzadanie 20.4.2";"Wspieranie restrukturyzacji systemu ochrony zdrowia";"";1770;0;1770;0.0;100.0
+"20-4-2-1";"20-4-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";1770;0;1770;0.0;100.0
+"20-4-3";"20-4";"d";"Podzadanie 20.4.3";"Program wieloletni ``Wsparcie jednostek samorządu terytorialnego w działaniach stabilizujących system ochrony zdrowia``";"";0;0;0;0;0
+"20-4-3-1";"20-4-3";"e";"Dysponent";"Ministerstwo Zdrowia";"46";0;0;0;0;0
+"20-5";"20";"c";"Zadanie 20.5";"Nadzór sanitarno-epidemiologiczny, profilaktyka i promocja zdrowia";"";966316;5424;960892;0.56;99.44
+"20-5-1";"20-5";"d";"Podzadanie 20.5.1";"Profilaktyka zdrowotna";"";49880;5424;44456;10.87;89.13
+"20-5-1-1";"20-5-1";"e";"Dysponent";"Ministerstwo Zdrowia";"46";22049;5424;16625;24.6;75.4
+"20-5-1-2";"20-5-1";"e";"Dysponent";"Wojewodowie";"85";27831;0;27831;0.0;100.0
+"20-5-2";"20-5";"d";"Podzadanie 20.5.2";"Działalność kontrolno-inspekcyjna";"";288111;0;288111;0.0;100.0
+"20-5-2-1";"20-5-2";"e";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";6437;0;6437;0.0;100.0
+"20-5-2-2";"20-5-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";19586;0;19586;0.0;100.0
+"20-5-2-3";"20-5-2";"e";"Dysponent";"Wojewodowie";"85";262088;0;262088;0.0;100.0
+"20-5-3";"20-5";"d";"Podzadanie 20.5.3";"Nadzór sanitarny";"";283083;0;283083;0.0;100.0
+"20-5-3-1";"20-5-3";"e";"Dysponent";"Ministerstwo Zdrowia";"46";4374;0;4374;0.0;100.0
+"20-5-3-2";"20-5-3";"e";"Dysponent";"Wojewodowie";"85";278709;0;278709;0.0;100.0
+"20-5-4";"20-5";"d";"Podzadanie 20.5.4";"Zapobieganie i zwalczanie chorób zakaźnych";"";59118;0;59118;0.0;100.0
+"20-5-4-1";"20-5-4";"e";"Dysponent";"Wojewodowie";"85";59118;0;59118;0.0;100.0
+"20-5-5";"20-5";"d";"Podzadanie 20.5.5";"Zakup szczepionek zgodnie z kalendarzem obowiązkowych szczepień ochronnych";"";76622;0;76622;0.0;100.0
+"20-5-5-1";"20-5-5";"e";"Dysponent";"Ministerstwo Zdrowia";"46";76622;0;76622;0.0;100.0
+"20-5-6";"20-5";"d";"Podzadanie 20.5.6";"Ochrona zdrowia przed szkodliwym wpływem czynników środowiskowych";"";149759;0;149759;0.0;100.0
+"20-5-6-1";"20-5-6";"e";"Dysponent";"Ministerstwo Zdrowia";"46";7990;0;7990;0.0;100.0
+"20-5-6-2";"20-5-6";"e";"Dysponent";"Wojewodowie";"85";141769;0;141769;0.0;100.0
+"20-5-7";"20-5";"d";"Podzadanie 20.5.7";"Tworzenie i utrzymywanie rezerw państwowych";"";13714;0;13714;0.0;100.0
+"20-5-7-1";"20-5-7";"e";"Dysponent";"Ministerstwo Zdrowia";"46";13714;0;13714;0.0;100.0
+"20-5-8";"20-5";"d";"Podzadanie 20.5.8";"Ochrona zdrowia i promocja na rzecz osób niepełnosprawnych";"";22796;0;22796;0.0;100.0
+"20-5-8-1";"20-5-8";"e";"Dysponent";"Ministerstwo Zdrowia";"46";22796;0;22796;0.0;100.0
+"20-5-9";"20-5";"d";"Podzadanie 20.5.9";"Realizacja zadań edukacyjno-informacyjnych z zakresu programów zdrowotnych państwa dotyczących uzależnień";"";23233;0;23233;0.0;100.0
+"20-5-9-1";"20-5-9";"e";"Dysponent";"Ministerstwo Zdrowia";"46";15644;0;15644;0.0;100.0
+"20-5-9-2";"20-5-9";"e";"Dysponent";"Wojewodowie";"85";7589;0;7589;0.0;100.0
+"20-6";"20";"c";"Zadanie 20.6";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";34112;21978;12134;64.43;35.57
+"20-6-1";"20-6";"d";"Podzadanie 20.6.1";"Utrzymanie systemów informatycznych";"";7639;0;7639;0.0;100.0
+"20-6-1-1";"20-6-1";"e";"Dysponent";"Ministerstwo Zdrowia";"46";7639;0;7639;0.0;100.0
+"20-6-2";"20-6";"d";"Podzadanie 20.6.2";"Budowa i wdrożenie rozwiązań informatycznych";"";26473;21978;4495;83.02;16.98
+"20-6-2-1";"20-6-2";"e";"Dysponent";"Ministerstwo Zdrowia";"46";26473;21978;4495;83.02;16.98
+"21";"";"b";"FUNKCJA 21";"POLITYKA ROLNA I RYBACKA";"";24532926;18939562;5593364;77.2;22.8
+"21-1";"21";"c";"Zadanie 21.1";"Wspieranie rozwoju produkcji roślinnej i ochrona roślin uprawnych";"";202979;0;202979;0.0;100.0
+"21-1-1";"21-1";"d";"Podzadanie 21.1.1";"Wspieranie postępu biologicznego w produkcji roślinnej";"";24981;0;24981;0.0;100.0
+"21-1-1-1";"21-1-1";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";24981;0;24981;0.0;100.0
+"21-1-2";"21-1";"d";"Podzadanie 21.1.2";"Badania, rejestracja, rekomendacja i ochrona prawna odmian roślin uprawnych";"";28119;0;28119;0.0;100.0
+"21-1-2-1";"21-1-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";28119;0;28119;0.0;100.0
+"21-1-3";"21-1";"d";"Podzadanie 21.1.3";"Nadzór nad zdrowiem roślin, obrotem i stosowaniem środków ochrony roślin oraz wytwarzaniem, oceną i obrotem materiałem siewnym";"";119239;0;119239;0.0;100.0
+"21-1-3-1";"21-1-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";10254;0;10254;0.0;100.0
+"21-1-3-2";"21-1-3";"e";"Dysponent";"Wojewodowie";"85";108985;0;108985;0.0;100.0
+"21-1-4";"21-1";"d";"Podzadanie 21.1.4";"Ochrona roślin";"";2554;0;2554;0.0;100.0
+"21-1-4-1";"21-1-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";2521;0;2521;0.0;100.0
+"21-1-4-2";"21-1-4";"e";"Dysponent";"Wojewodowie";"85";33;0;33;0.0;100.0
+"21-1-5";"21-1";"d";"Podzadanie 21.1.5";"Nadzór nad uprawą roślin genetycznie zmodyfikowanych, strefami wolnymi od GMO oraz kontrolą zamierzonego uwolnienia organizmów genetycznie zmodyfikowanych";"";0;0;0;0;0
+"21-1-5-1";"21-1-5";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";0;0;0;0;0
+"21-1-6";"21-1";"d";"Podzadanie 21.1.6";"Program wieloletni ``Ochrona roślin uprawnych z uwzględnieniem bezpieczeństwa żywności oraz ograniczenia strat w plonach i zagrożeń dla zdrowia ludzi, zwierząt domowych i środowiska``";"";6970;0;6970;0.0;100.0
+"21-1-6-1";"21-1-6";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";6970;0;6970;0.0;100.0
+"21-1-7";"21-1";"d";"Podzadanie 21.1.7";"Program wieloletni ``Ulepszanie Roślin Zrównoważonych AgroEkosystemów, Wysokiej Jakości Żywności i Produkcji Roślinnej na Cele Nieżywnościowe``";"";11067;0;11067;0.0;100.0
+"21-1-7-1";"21-1-7";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";11067;0;11067;0.0;100.0
+"21-1-8";"21-1";"d";"Podzadanie 21.1.8";"Program wieloletni ``Rozwój zrównoważonych metod produkcji ogrodniczej w celu zapewnienia wysokiej jakości biologicznej i odżywczej produktów ogrodniczych oraz zachowania bioróżnorodności środowiska i ochrony jego zasobów``";"";10049;0;10049;0.0;100.0
+"21-1-8-1";"21-1-8";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";10049;0;10049;0.0;100.0
+"21-2";"21";"c";"Zadanie 21.2";"Wspieranie rozwoju produkcji zwierzęcej i hodowli zwierząt";"";119258;0;119258;0.0;100.0
+"21-2-1";"21-2";"d";"Podzadanie 21.2.1";"Wspieranie postępu biologicznego w produkcji zwierzęcej";"";108098;0;108098;0.0;100.0
+"21-2-1-1";"21-2-1";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";108098;0;108098;0.0;100.0
+"21-2-2";"21-2";"d";"Podzadanie 21.2.2";"Wspieranie działalności kontrolnej";"";10105;0;10105;0.0;100.0
+"21-2-2-1";"21-2-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";10105;0;10105;0.0;100.0
+"21-2-3";"21-2";"d";"Podzadanie 21.2.3";"Program wieloletni ``Biologiczne, środowiskowe i technologiczne uwarunkowania rozwoju produkcji zwierzęcej``";"";1055;0;1055;0.0;100.0
+"21-2-3-1";"21-2-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";1055;0;1055;0.0;100.0
+"21-3";"21";"c";"Zadanie 21.3";"Ochrona zdrowia i dobrostanu zwierząt oraz zdrowia publicznego w zakresie weterynarii";"";415807;0;415807;0.0;100.0
+"21-3-1";"21-3";"d";"Podzadanie 21.3.1";"Ochrona zdrowia i dobrostanu zwierząt";"";228698;0;228698;0.0;100.0
+"21-3-1-1";"21-3-1";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";9997;0;9997;0.0;100.0
+"21-3-1-2";"21-3-1";"e";"Dysponent";"Wojewodowie";"85";218701;0;218701;0.0;100.0
+"21-3-2";"21-3";"d";"Podzadanie 21.3.2";"Nadzór nad zdrowotną jakością środków spożywczych pochodzenia zwierzęcego i pasz w miejscach ich pozyskiwania, wytwarzania, przetwarzania i składowania";"";159487;0;159487;0.0;100.0
+"21-3-2-1";"21-3-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";9895;0;9895;0.0;100.0
+"21-3-2-2";"21-3-2";"e";"Dysponent";"Wojewodowie";"85";149592;0;149592;0.0;100.0
+"21-3-3";"21-3";"d";"Podzadanie 21.3.3";"Realizacja zadań laboratoriów referencyjnych i innych zadań zleconych";"";14520;0;14520;0.0;100.0
+"21-3-3-1";"21-3-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";14520;0;14520;0.0;100.0
+"21-3-4";"21-3";"d";"Podzadanie 21.3.4";"Program wieloletni ``Ochrona zdrowia zwierząt i zdrowia publicznego``";"";13102;0;13102;0.0;100.0
+"21-3-4-1";"21-3-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";13102;0;13102;0.0;100.0
+"21-4";"21";"c";"Zadanie 21.4";"Kształtowanie ustroju rolnego państwa oraz rolnictwo ekologiczne i żywność regionalna, tradycyjna i systemy jakości żywności";"";59701;0;59701;0.0;100.0
+"21-4-1";"21-4";"d";"Podzadanie 21.4.1";"Kształtowanie ustroju rolnego państwa";"";37;0;37;0.0;100.0
+"21-4-1-1";"21-4-1";"e";"Dysponent";"Wojewodowie";"85";37;0;37;0.0;100.0
+"21-4-2";"21-4";"d";"Podzadanie 21.4.2";"Rolnictwo ekologiczne";"";6400;0;6400;0.0;100.0
+"21-4-2-1";"21-4-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";5920;0;5920;0.0;100.0
+"21-4-2-2";"21-4-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";480;0;480;0.0;100.0
+"21-4-3";"21-4";"d";"Podzadanie 21.4.3";"Żywność regionalna, tradycyjna i systemy jakości żywności";"";290;0;290;0.0;100.0
+"21-4-3-1";"21-4-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";20;0;20;0.0;100.0
+"21-4-3-2";"21-4-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";270;0;270;0.0;100.0
+"21-4-4";"21-4";"d";"Podzadanie 21.4.4";"Agrochemiczna obsługa rolnictwa w Polsce";"";36734;0;36734;0.0;100.0
+"21-4-4-1";"21-4-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";36734;0;36734;0.0;100.0
+"21-4-5";"21-4";"d";"Podzadanie 21.4.5";"Program wieloletni ``Kształtowanie środowiska rolniczego Polski oraz zrównoważony rozwój produkcji rolniczej``";"";6740;0;6740;0.0;100.0
+"21-4-5-1";"21-4-5";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";6740;0;6740;0.0;100.0
+"21-4-6";"21-4";"d";"Podzadanie 21.4.6";"Program wieloletni ``Ekonomiczne i społeczne uwarunkowania rozwoju gospodarki żywnościowej po wstąpieniu Polski do Unii Europejskiej``";"";9500;0;9500;0.0;100.0
+"21-4-6-1";"21-4-6";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";9500;0;9500;0.0;100.0
+"21-5";"21";"c";"Zadanie 21.5";"Wspieranie infrastruktury wsi";"";13879;0;13879;0.0;100.0
+"21-5-1";"21-5";"d";"Podzadanie 21.5.1";"Nadzór nad wykorzystaniem środków z budżetu przez jst w zakresie usuwania skutków klęsk żywiołowych";"";1829;0;1829;0.0;100.0
+"21-5-1-1";"21-5-1";"e";"Dysponent";"Wojewodowie";"85";1829;0;1829;0.0;100.0
+"21-5-2";"21-5";"d";"Podzadanie 21.5.2";"Prace geodezyjno-urządzeniowe na potrzeby rolnictwa, w tym scalanie i wymiana gruntów oraz zagospodarowanie poscaleniowe";"";12050;0;12050;0.0;100.0
+"21-5-2-1";"21-5-2";"e";"Dysponent";"Wojewodowie";"85";12050;0;12050;0.0;100.0
+"21-6";"21";"c";"Zadanie 21.6";"Wspieranie rybactwa śródlądowego i rybołówstwa morskiego";"";557483;356502;200981;63.95;36.05
+"21-6-1";"21-6";"d";"Podzadanie 21.6.1";"Wspieranie rybactwa śródlądowego";"";24508;0;24508;0.0;100.0
+"21-6-1-1";"21-6-1";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";4864;0;4864;0.0;100.0
+"21-6-1-2";"21-6-1";"e";"Dysponent";"Wojewodowie";"85";19644;0;19644;0.0;100.0
+"21-6-2";"21-6";"d";"Podzadanie 21.6.2";"Wspieranie rybołówstwa morskiego";"";12976;0;12976;0.0;100.0
+"21-6-2-1";"21-6-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";12976;0;12976;0.0;100.0
+"21-6-3";"21-6";"d";"Podzadanie 21.6.3";"PO Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007-2013";"";514849;356502;158347;69.24;30.76
+"21-6-3-1";"21-6-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";483037;356502;126535;73.8;26.2
+"21-6-3-2";"21-6-3";"e";"Dysponent";"Wojewodowie";"85";31812;0;31812;0.0;100.0
+"21-6-4";"21-6";"d";"Podzadanie 21.6.4";"Program wieloletni ``Wieloletni Program Zbierania Danych Rybackich 2007-2013``";"";5150;0;5150;0.0;100.0
+"21-6-4-1";"21-6-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";5150;0;5150;0.0;100.0
+"21-7";"21";"c";"Zadanie 21.7";"Realizacja Wspólnej Polityki Rolnej oraz pomocy krajowej";"";23163454;18583060;4580394;80.23;19.77
+"21-7-1";"21-7";"d";"Podzadanie 21.7.1";"Doradztwo rolnicze";"";158022;0;158022;0.0;100.0
+"21-7-1-1";"21-7-1";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";3568;0;3568;0.0;100.0
+"21-7-1-2";"21-7-1";"e";"Dysponent";"Wojewodowie";"85";154454;0;154454;0.0;100.0
+"21-7-2";"21-7";"d";"Podzadanie 21.7.2";"Pomoc krajowa";"";1041305;0;1041305;0.0;100.0
+"21-7-2-1";"21-7-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";100000;0;100000;0.0;100.0
+"21-7-2-2";"21-7-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";744626;0;744626;0.0;100.0
+"21-7-2-3";"21-7-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";193918;0;193918;0.0;100.0
+"21-7-2-4";"21-7-2";"e";"Dysponent";"Wojewodowie";"85";2761;0;2761;0.0;100.0
+"21-7-3";"21-7";"d";"Podzadanie 21.7.3";"WPR finansowane z EFRG";"";860843;580648;280195;67.45;32.55
+"21-7-3-1";"21-7-3";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";860843;580648;280195;67.45;32.55
+"21-7-4";"21-7";"d";"Podzadanie 21.7.4";"Wspieranie realizacji WPR Unii Europejskiej";"";852894;550000;302894;64.49;35.51
+"21-7-4-1";"21-7-4";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";852894;550000;302894;64.49;35.51
+"21-7-5";"21-7";"d";"Podzadanie 21.7.5";"Program Rozwoju Obszarów Wiejskich 2007-2013";"";11901382;10804275;1097107;90.78;9.22
+"21-7-5-1";"21-7-5";"e";"Dysponent";"Ministerstwo Finansów";"19";308;0;308;0.0;100.0
+"21-7-5-2";"21-7-5";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";11577610;10481630;1095980;90.53;9.47
+"21-7-5-3";"21-7-5";"e";"Dysponent";"Wojewodowie";"85";323464;322645;819;99.75;0.25
+"21-7-8";"21-7";"d";"Podzadanie 21.7.8";"Realizacja płatności bezpośrednich";"";8318798;6648137;1670661;79.92;20.08
+"21-7-8-1";"21-7-8";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";8318798;6648137;1670661;79.92;20.08
+"21-7-9";"21-7";"d";"Podzadanie 21.7.9";"Zbieranie i wykorzystywanie danych rachunkowych z gospodarstw rolnych na potrzeby FADN (Farm Accountancy Data Network)";"";30210;0;30210;0.0;100.0
+"21-7-9-1";"21-7-9";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";30210;0;30210;0.0;100.0
+"21-8";"21";"c";"Zadanie 21.8";"Informatyzacja działalności i budowa społeczeństwa informacyjnego";"";365;0;365;0.0;100.0
+"21-8-1";"21-8";"d";"Podzadanie 21.8.1";"Utrzymanie systemów informatycznych";"";40;0;40;0.0;100.0
+"21-8-1-1";"21-8-1";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";40;0;40;0.0;100.0
+"21-8-2";"21-8";"d";"Podzadanie 21.8.2";"Budowa i wdrożenie rozwiązań informatycznych";"";325;0;325;0.0;100.0
+"21-8-2-1";"21-8-2";"e";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";325;0;325;0.0;100.0
+"22";"";"b";"FUNKCJA 22";"PLANOWANIE STRATEGICZNE ORAZ OBSŁUGA ADMINISTRACYJNA I TECHNICZNA";"";3865561;21031;3844530;0.54;99.46
+"22-1";"22";"c";"Zadanie 22.1";"Koordynacja merytoryczna działalności, planowania strategicznego i operacyjnego";"";700665;45;700620;0.01;99.99
+"22-1-1";"22-1";"d";"Dysponent";"Kancelaria Senatu";"03";6119;0;6119;0.0;100.0
+"22-1-2";"22-1";"d";"Dysponent";"Ministerstwo Środowiska";"22";2738;0;2738;0.0;100.0
+"22-1-3";"22-1";"d";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";19026;0;19026;0.0;100.0
+"22-1-4";"22-1";"d";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";11192;0;11192;0.0;100.0
+"22-1-5";"22-1";"d";"Dysponent";"Ministerstwo Infrastruktury";"26";944;0;944;0.0;100.0
+"22-1-6";"22-1";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";614;0;614;0.0;100.0
+"22-1-7";"22-1";"d";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";4734;45;4689;0.95;99.05
+"22-1-8";"22-1";"d";"Dysponent";"Ministerstwo Obrony Narodowej";"29";149345;0;149345;0.0;100.0
+"22-1-9";"22-1";"d";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";13464;0;13464;0.0;100.0
+"22-1-10";"22-1";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";14965;0;14965;0.0;100.0
+"22-1-11";"22-1";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";46273;0;46273;0.0;100.0
+"22-1-12";"22-1";"d";"Dysponent";"Krajowa Rada Radiofonii i Telewizji";"09";5219;0;5219;0.0;100.0
+"22-1-13";"22-1";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";9553;0;9553;0.0;100.0
+"22-1-14";"22-1";"d";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";6386;0;6386;0.0;100.0
+"22-1-15";"22-1";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";7334;0;7334;0.0;100.0
+"22-1-16";"22-1";"d";"Dysponent";"Ministerstwo Skarbu Państwa";"36";5525;0;5525;0.0;100.0
+"22-1-17";"22-1";"d";"Dysponent";"Ministerstwo Sprawiedliwości";"37";16493;0;16493;0.0;100.0
+"22-1-18";"22-1";"d";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";15;0;15;0.0;100.0
+"22-1-19";"22-1";"d";"Dysponent";"Ministerstwo Infrastruktury";"39";10706;0;10706;0.0;100.0
+"22-1-20";"22-1";"d";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";925;0;925;0.0;100.0
+"22-1-21";"22-1";"d";"Dysponent";"Ministerstwo Środowiska";"41";2905;0;2905;0.0;100.0
+"22-1-22";"22-1";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";22989;0;22989;0.0;100.0
+"22-1-23";"22-1";"d";"Dysponent";"Krajowe Biuro Wyborcze";"11";4293;0;4293;0.0;100.0
+"22-1-24";"22-1";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";527;0;527;0.0;100.0
+"22-1-25";"22-1";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";7358;0;7358;0.0;100.0
+"22-1-26";"22-1";"d";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";51452;0;51452;0.0;100.0
+"22-1-27";"22-1";"d";"Dysponent";"Ministerstwo Zdrowia";"46";32143;0;32143;0.0;100.0
+"22-1-28";"22-1";"d";"Dysponent";"Urząd Zamówień Publicznych";"49";1565;0;1565;0.0;100.0
+"22-1-29";"22-1";"d";"Dysponent";"Urząd Regulacji Energetyki";"50";2750;0;2750;0.0;100.0
+"22-1-30";"22-1";"d";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";6456;0;6456;0.0;100.0
+"22-1-31";"22-1";"d";"Dysponent";"Wyższy Urząd Górniczy";"60";7805;0;7805;0.0;100.0
+"22-1-32";"22-1";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";8168;0;8168;0.0;100.0
+"22-1-33";"22-1";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";1322;0;1322;0.0;100.0
+"22-1-34";"22-1";"d";"Dysponent";"Państwowa Inspekcja Pracy";"12";31741;0;31741;0.0;100.0
+"22-1-35";"22-1";"d";"Dysponent";"Polski Komitet Normalizacyjny";"65";443;0;443;0.0;100.0
+"22-1-36";"22-1";"d";"Dysponent";"Państwowa Agencja Atomistyki";"68";1116;0;1116;0.0;100.0
+"22-1-37";"22-1";"d";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";12720;0;12720;0.0;100.0
+"22-1-38";"22-1";"d";"Dysponent";"Wojewodowie";"85";118165;0;118165;0.0;100.0
+"22-1-39";"22-1";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"17";668;0;668;0.0;100.0
+"22-1-40";"22-1";"d";"Dysponent";"Ministerstwo Infrastruktury";"18";6848;0;6848;0.0;100.0
+"22-1-41";"22-1";"d";"Dysponent";"Ministerstwo Finansów";"19";27181;0;27181;0.0;100.0
+"22-1-42";"22-1";"d";"Dysponent";"Ministerstwo Gospodarki";"20";18637;0;18637;0.0;100.0
+"22-1-43";"22-1";"d";"Dysponent";"Ministerstwo Infrastruktury";"21";1843;0;1843;0.0;100.0
+"22-2";"22";"c";"Zadanie 22.2";"Obsługa administracyjna";"";2428264;20347;2407917;0.84;99.16
+"22-2-1";"22-2";"d";"Dysponent";"Kancelaria Senatu";"03";5653;0;5653;0.0;100.0
+"22-2-2";"22-2";"d";"Dysponent";"Ministerstwo Infrastruktury";"21";2810;0;2810;0.0;100.0
+"22-2-3";"22-2";"d";"Dysponent";"Ministerstwo Środowiska";"22";58011;0;58011;0.0;100.0
+"22-2-4";"22-2";"d";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";17813;0;17813;0.0;100.0
+"22-2-5";"22-2";"d";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";3704;0;3704;0.0;100.0
+"22-2-6";"22-2";"d";"Dysponent";"Ministerstwo Infrastruktury";"26";4478;0;4478;0.0;100.0
+"22-2-7";"22-2";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";884;0;884;0.0;100.0
+"22-2-8";"22-2";"d";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";48459;1654;46805;3.41;96.59
+"22-2-9";"22-2";"d";"Dysponent";"Ministerstwo Obrony Narodowej";"29";36073;0;36073;0.0;100.0
+"22-2-10";"22-2";"d";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";5397;0;5397;0.0;100.0
+"22-2-11";"22-2";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";8961;0;8961;0.0;100.0
+"22-2-12";"22-2";"d";"Dysponent";"Krajowa Rada Radiofonii i Telewizji";"09";2746;0;2746;0.0;100.0
+"22-2-13";"22-2";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";14475;0;14475;0.0;100.0
+"22-2-14";"22-2";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";1345834;0;1345834;0.0;100.0
+"22-2-15";"22-2";"d";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";22636;0;22636;0.0;100.0
+"22-2-16";"22-2";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";2182;0;2182;0.0;100.0
+"22-2-17";"22-2";"d";"Dysponent";"Ministerstwo Skarbu Państwa";"36";23123;0;23123;0.0;100.0
+"22-2-18";"22-2";"d";"Dysponent";"Ministerstwo Sprawiedliwości";"37";102873;17583;85290;17.09;82.91
+"22-2-19";"22-2";"d";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";15786;1110;14676;7.03;92.97
+"22-2-20";"22-2";"d";"Dysponent";"Ministerstwo Infrastruktury";"39";13371;0;13371;0.0;100.0
+"22-2-21";"22-2";"d";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";638;0;638;0.0;100.0
+"22-2-22";"22-2";"d";"Dysponent";"Ministerstwo Środowiska";"41";63985;0;63985;0.0;100.0
+"22-2-23";"22-2";"d";"Dysponent";"Krajowe Biuro Wyborcze";"11";35487;0;35487;0.0;100.0
+"22-2-24";"22-2";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";24106;0;24106;0.0;100.0
+"22-2-25";"22-2";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";1254;0;1254;0.0;100.0
+"22-2-26";"22-2";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";4870;0;4870;0.0;100.0
+"22-2-27";"22-2";"d";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";52635;0;52635;0.0;100.0
+"22-2-28";"22-2";"d";"Dysponent";"Ministerstwo Zdrowia";"46";7807;0;7807;0.0;100.0
+"22-2-29";"22-2";"d";"Dysponent";"Urząd Zamówień Publicznych";"49";2646;0;2646;0.0;100.0
+"22-2-30";"22-2";"d";"Dysponent";"Urząd Regulacji Energetyki";"50";3680;0;3680;0.0;100.0
+"22-2-31";"22-2";"d";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";8100;0;8100;0.0;100.0
+"22-2-32";"22-2";"d";"Dysponent";"Wyższy Urząd Górniczy";"60";3051;0;3051;0.0;100.0
+"22-2-33";"22-2";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";1527;0;1527;0.0;100.0
+"22-2-34";"22-2";"d";"Dysponent";"Państwowa Inspekcja Pracy";"12";44644;0;44644;0.0;100.0
+"22-2-35";"22-2";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";177;0;177;0.0;100.0
+"22-2-36";"22-2";"d";"Dysponent";"Polski Komitet Normalizacyjny";"65";3233;0;3233;0.0;100.0
+"22-2-37";"22-2";"d";"Dysponent";"Państwowa Agencja Atomistyki";"68";2174;0;2174;0.0;100.0
+"22-2-38";"22-2";"d";"Dysponent";"Urząd Transportu Kolejowego";"71";1938;0;1938;0.0;100.0
+"22-2-39";"22-2";"d";"Dysponent";"Kasa Rolniczego Ubezpieczenia Społecznego";"72";0;0;0;0;0
+"22-2-40";"22-2";"d";"Dysponent";"Urząd Komunikacji Elektronicznej";"76";19734;0;19734;0.0;100.0
+"22-2-41";"22-2";"d";"Dysponent";"Wojewodowie";"85";194392;0;194392;0.0;100.0
+"22-2-42";"22-2";"d";"Dysponent";"Kancelaria Prezesa Rady Ministrów";"16";24427;0;24427;0.0;100.0
+"22-2-43";"22-2";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"17";2704;0;2704;0.0;100.0
+"22-2-44";"22-2";"d";"Dysponent";"Ministerstwo Infrastruktury";"18";9264;0;9264;0.0;100.0
+"22-2-45";"22-2";"d";"Dysponent";"Ministerstwo Finansów";"19";123489;0;123489;0.0;100.0
+"22-2-46";"22-2";"d";"Dysponent";"Ministerstwo Gospodarki";"20";57033;0;57033;0.0;100.0
+"22-3";"22";"c";"Zadanie 22.3";"Obsługa techniczna";"";736632;639;735993;0.09;99.91
+"22-3-1";"22-3";"d";"Dysponent";"Kancelaria Sejmu";"02";44892;0;44892;0.0;100.0
+"22-3-2";"22-3";"d";"Dysponent";"Ministerstwo Infrastruktury";"21";2008;0;2008;0.0;100.0
+"22-3-3";"22-3";"d";"Dysponent";"Ministerstwo Środowiska";"22";19519;0;19519;0.0;100.0
+"22-3-4";"22-3";"d";"Dysponent";"Ministerstwo Kultury i Dziedzictwa Narodowego";"24";12682;0;12682;0.0;100.0
+"22-3-5";"22-3";"d";"Dysponent";"Ministerstwo Sportu i Turystyki";"25";6573;0;6573;0.0;100.0
+"22-3-6";"22-3";"d";"Dysponent";"Ministerstwo Infrastruktury";"26";2661;0;2661;0.0;100.0
+"22-3-7";"22-3";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"27";520;0;520;0.0;100.0
+"22-3-8";"22-3";"d";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"28";8870;639;8231;7.2;92.8
+"22-3-9";"22-3";"d";"Dysponent";"Ministerstwo Obrony Narodowej";"29";20700;0;20700;0.0;100.0
+"22-3-10";"22-3";"d";"Dysponent";"Ministerstwo Edukacji Narodowej";"30";11538;0;11538;0.0;100.0
+"22-3-11";"22-3";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"31";15927;0;15927;0.0;100.0
+"22-3-12";"22-3";"d";"Dysponent";"Kancelaria Senatu";"03";19011;0;19011;0.0;100.0
+"22-3-13";"22-3";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"32";63080;0;63080;0.0;100.0
+"22-3-14";"22-3";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"33";4446;0;4446;0.0;100.0
+"22-3-15";"22-3";"d";"Dysponent";"Ministerstwo Rozwoju Regionalnego";"34";5402;0;5402;0.0;100.0
+"22-3-16";"22-3";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"35";152;0;152;0.0;100.0
+"22-3-17";"22-3";"d";"Dysponent";"Ministerstwo Skarbu Państwa";"36";18817;0;18817;0.0;100.0
+"22-3-18";"22-3";"d";"Dysponent";"Ministerstwo Sprawiedliwości";"37";39302;0;39302;0.0;100.0
+"22-3-19";"22-3";"d";"Dysponent";"Ministerstwo Nauki i Szkolnictwa Wyższego";"38";3665;0;3665;0.0;100.0
+"22-3-20";"22-3";"d";"Dysponent";"Ministerstwo Infrastruktury";"39";14318;0;14318;0.0;100.0
+"22-3-21";"22-3";"d";"Dysponent";"Ministerstwo Sportu i Turystyki";"40";1387;0;1387;0.0;100.0
+"22-3-22";"22-3";"d";"Dysponent";"Ministerstwo Środowiska";"41";11684;0;11684;0.0;100.0
+"22-3-23";"22-3";"d";"Dysponent";"Krajowa Rada Radiofonii i Telewizji";"09";2632;0;2632;0.0;100.0
+"22-3-24";"22-3";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"42";11727;0;11727;0.0;100.0
+"22-3-25";"22-3";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"43";307;0;307;0.0;100.0
+"22-3-26";"22-3";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"44";5725;0;5725;0.0;100.0
+"22-3-27";"22-3";"d";"Dysponent";"Ministerstwo Spraw Zagranicznych";"45";71225;0;71225;0.0;100.0
+"22-3-28";"22-3";"d";"Dysponent";"Ministerstwo Zdrowia";"46";8939;0;8939;0.0;100.0
+"22-3-29";"22-3";"d";"Dysponent";"Urząd Zamówień Publicznych";"49";3003;0;3003;0.0;100.0
+"22-3-30";"22-3";"d";"Dysponent";"Urząd Ochrony Konkurencji i Konsumentów";"53";6450;0;6450;0.0;100.0
+"22-3-31";"22-3";"d";"Dysponent";"Wyższy Urząd Górniczy";"60";1350;0;1350;0.0;100.0
+"22-3-32";"22-3";"d";"Dysponent";"Ministerstwo Rolnictwa i Rozwoju Wsi";"62";17629;0;17629;0.0;100.0
+"22-3-33";"22-3";"d";"Dysponent";"Ministerstwo Pracy i Polityki Społecznej";"63";759;0;759;0.0;100.0
+"22-3-34";"22-3";"d";"Dysponent";"Krajowe Biuro Wyborcze";"11";6849;0;6849;0.0;100.0
+"22-3-35";"22-3";"d";"Dysponent";"Polski Komitet Normalizacyjny";"65";4260;0;4260;0.0;100.0
+"22-3-36";"22-3";"d";"Dysponent";"Państwowa Agencja Atomistyki";"68";1534;0;1534;0.0;100.0
+"22-3-37";"22-3";"d";"Dysponent";"Urząd Transportu Kolejowego";"71";879;0;879;0.0;100.0
+"22-3-38";"22-3";"d";"Dysponent";"Wojewodowie";"85";141083;0;141083;0.0;100.0
+"22-3-39";"22-3";"d";"Dysponent";"Państwowa Inspekcja Pracy";"12";38866;0;38866;0.0;100.0
+"22-3-40";"22-3";"d";"Dysponent";"Ministerstwo Spraw Wewnętrznych i Administracji";"17";581;0;581;0.0;100.0
+"22-3-41";"22-3";"d";"Dysponent";"Ministerstwo Infrastruktury";"18";9898;0;9898;0.0;100.0
+"22-3-42";"22-3";"d";"Dysponent";"Ministerstwo Finansów";"19";39464;0;39464;0.0;100.0
+"22-3-43";"22-3";"d";"Dysponent";"Ministerstwo Gospodarki";"20";36318;0;36318;0.0;100.0

@@ -1,0 +1,14 @@
+{% extends "base.html"  %}
+{% block content %}
+<div id="main-content" >
+<div class="text-block-article">
+<p class="text-block-title cantarell" >
+{{ article.title }}
+</p>
+<div id="full-plate-wraper">
+{{ article.body|safe }}
+</div>
+</div>
+</div>
+</div>
+{% endblock %}
