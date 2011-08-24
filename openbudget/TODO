@@ -1,9 +1,7 @@
-zmienić w modelu page nazwę short na shorts
-zmienić sposób indeksowania
-zaznaczenie kliknięcia w Menu
-przenieść css do poszczegolnych plikow
-miejsce dodawania skryptow js
-dodanie edytora tekstowego
-potem jeszcze dopieścić admin panelay bledow
-lepsze stron
-
+- dodać zaznaczanie menu wybranego elementu
+- dodać wizualizacje interaktywne
+- na pasku strony tytul z podstrona
+- zmienić w modelu page nazwę short na shorts
+- ewentualnie zmienić sposób indeksowania shortow w page na bardziej wygodny.
+- ewentualnie podzielić css na wiele plikow
+- dodanie edytora tekstowego

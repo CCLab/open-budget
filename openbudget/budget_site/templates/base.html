@@ -9,60 +9,81 @@
     <title>Otwarty Budżet</title>
 
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cantarell" />
-    <link rel="stylesheet" type="text/css" href="/mymedia/css/style.css" />
-    <link rel="stylesheet" type="text/css" href="/mymedia/css/wizualizacje.css" />
-    
- 
-
+    <link rel="stylesheet" href="/mymedia/css/style.css" />
   </head>
   <body>
     <div id="wraper">
-    
-        <!-- H E A D E R -->
-        <header id="header">
-            <div id="site-name">
-                <a href="http://otwartybudzet.pl" style="text-decoration: none;" class="orange cantarell">
-                    Otwarty budżet
-                </a>
-            </div>
-            <a href="http://centrumcyfrowe.pl">
-                <img id="logo" src="/mymedia/img/logo.png" alt="Centrum Cyfrowe" title="Centrum Cyfrowe" />
+
+      <!-- H E A D E R -->
+      <header>
+        <a href="http://otwartybudzet.pl">
+          <h1 class="left">
+            Otwarty budżet
+          </h1>
+        </a>
+
+        <a href="http://centrumcyfrowe.pl">
+          <img class="right" src="/mymedia/img/logo.png" alt="centrumcyfrowe.pl" title="Centrum Cyfrowe" />
+        </a>
+      </header>
+
+      <br class="clear" />
+
+
+      <!-- M A I N   M E N U -->
+      <nav class="main-menu">
+        <ul>
+          <!-- D A N E   M F -->
+          <li class="mm-element">
+            <a href="http://mf.gov.pl/index.php?const=5&dzial=1803&wysw=4&sub=sub2" target="_blank">
+              <h3>
+                Dane Ministerstwa Finansów
+              </h3>
             </a>
-        </header>
-        
-        <br class="clear" />        
-        
-        <!-- M A I N   M E N U -->
-        <nav id="main-menu" class="cantarell">
-            <div class="menu-item">
-                <a href="http://mf.gov.pl/index.php?const=5&dzial=1803&wysw=4&sub=sub2" target="_blank">
-                    Dane Ministerstwa Finansów
-                </a>
-            </div>
-            <div class="menu-item">
-                <a href="/otwarte-dane-budzetowe/">
-                    Otwarte dane budżetowe
-                </a>
-            </div>
-            <div class="menu-item">
-                <a href="/wizualizacje/">
-                    Nasze wizualizacje <br />
-                    &nbsp;
-                </a>
-            </div>
-            <div class="menu-item orange last">
-                <a href="/konkurs/">                  
-                    Konkurs <br />
-                    &nbsp;
-                </a>
-            </div>                                    
-        </nav>
+          </li>
 
-        <br class="clear" />
+          <!-- O T W A R T E   D A N E -->
+          <li class="mm-element">
+            <a href="/otwarte-dane-budzetowe/">
+              <h3>
+                Otwarte dane budżetowe
+              </h3>
+            </a>
+          </li>
 
+          <!-- NASZE WIZUALIZACJE -->
+          <li class="mm-element">
+            <a href="/wizualizacje/">
+              <h3>
+                Nasze wizualizacje
+              </h3>
+            </a>
+          </li>
+
+          <!-- KONKURS -->
+          <li class="last mm-element">
+            <a href="/konkurs/">
+              <h3>
+                Konkurs
+              </h3>
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <br class="clear" />
+
+      <div id="main-content" >
 
       {% block content %}
       {% endblock %}
+      <br class="clear" />
+        <div id="white-boxes">
+          <div class="left">
+          </div>
+          <div class="right">
+          </div>                
+        </div>
+      </div>
   
         <!-- F O O T E R -->
       <footer>

@@ -1,35 +1,26 @@
 {% extends "base.html"  %}
 {% block content %}
-        <div id="main-content">
-            {% for short in shorts_list %}
 
-            {% if not forloop.last %} 
-            <section class="text-block">
-            {% else %}
-            <section class="text-block last">            
-            {% endif %}
-            
-            
-                <h1 class="text-block-title cantarell">
-                    {{ short.title }}
-                </h1>
+  {% for short in shorts_list %}
+ 
+    {% if not forloop.last %} 
+      <section class="text-block">
+    {% else %}
+      <section class="text-block last">            
+    {% endif %}
+ 
+    <h1 class="text-block-title cantarell">
+    {{ short.title }}
+    </h1>
                 
-                    {{ short.body|safe }}    
+    {{ short.body|safe }}    
                 
-
-				
-            </section>
-            {% endfor %}
+    </section>
+   {% endfor %}
                                  
-            <br class="clear" />
             
-            <div id="white-boxes">
-                <div class="left">
-                </div>
-                <div class="right">
-                </div>                
-            </div>
-        </div>
+            
+
         
 
         

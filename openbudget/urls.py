@@ -15,4 +15,7 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
     url(r'^', include('openbudget.budget_site.urls')),
+    url(r'^tiny_mce/(?P<path>.*)$', 'django.views.static.serve',
+                 { 'document_root': '/mymedia/js/tiny_mce/' }),
+    url(r'', include('django.contrib.flatpages.urls')),
 )
