@@ -69,8 +69,7 @@ nav.main-menu {
     }
 
     nav h3 {
-        min-height: 50px;
-
+        min-height: 47px;
         color: #fff;
         font-family: Cantarell, sans-serif;
         text-transform: uppercase;
@@ -81,13 +80,29 @@ nav.main-menu {
         color: #cf4e00;
     }
 
-    nav .last h3 {
-        font-weight: bold;
-    }
-
     nav p {
         padding: 0px 10px;
     }
+
+.selected {
+    background-color: #F0F0F0;
+    color: #888;
+}
+
+.mm-description {
+    float: left;
+    width: 206px;       
+    margin-right: 12px;
+    padding: 5px 10px;                
+    background-color: #d0d0d0;
+    min-height: 165px;
+    border-bottom: 10px #606060 solid;
+}
+
+#main-content > nav > ul {
+    list-style: none;        
+}
+
     
 #main-content {
     overflow: auto;
@@ -232,7 +247,7 @@ a:hover, #about-project a:hover {
     color: #fff;
 }
 
-.text-block  a.right {
+a.right {
     font-weight: bold;
 }
 

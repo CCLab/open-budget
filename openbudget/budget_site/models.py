@@ -1,12 +1,20 @@
 from django.db import models
 
 class Shorts( models.Model ):
+    INDEX_CHOICES = (
+        (1, '1'),
+        (2, '2'),
+        (3, '3'),
+        (4, '4'),
+    )
+
     title = models.CharField( max_length = 150 )
     body = models.TextField()
-    index = models.IntegerField()   
+    index = models.IntegerField( choices=INDEX_CHOICES )   
 
     def __unicode__( self ):
-        return self.title
+        return u'%s     | %s' % ( self.title, self.index )
+
 
 class Page( models.Model ):
     title = models.CharField( max_length = 150 )

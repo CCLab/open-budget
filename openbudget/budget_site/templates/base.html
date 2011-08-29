@@ -6,7 +6,15 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-type">
     <!-- ---------------------------- -->
 
-    <title>Otwarty Budżet</title>
+    <title>Otwarty Budżet
+        {% if article.title %}
+            | {{ article.title }}
+        {% else %}
+            {% if page_title %}
+                | {{ page_title }}
+            {% endif %}
+        {% endif %}
+    </title>
 
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cantarell" />
     <link rel="stylesheet" href="/mymedia/css/style.css" />
@@ -33,41 +41,74 @@
       <!-- M A I N   M E N U -->
       <nav class="main-menu">
         <ul>
-          <!-- D A N E   M F -->
-          <li class="mm-element">
-            <a href="http://mf.gov.pl/index.php?const=5&dzial=1803&wysw=4&sub=sub2" target="_blank">
-              <h3>
-                Dane Ministerstwa Finansów
-              </h3>
-            </a>
-          </li>
-
           <!-- O T W A R T E   D A N E -->
-          <li class="mm-element">
+          <li class="mm-element
+            {% ifequal slug 'otwarte-dane-budzetowe' %}
+                selected
+            {% endifequal %}
+          ">
             <a href="/otwarte-dane-budzetowe/">
-              <h3>
+              <h3
+                 {% ifequal slug 'otwarte-dane-budzetowe' %}
+                    class = "selected"
+                 {% endifequal %}
+              >
                 Otwarte dane budżetowe
               </h3>
             </a>
           </li>
 
           <!-- NASZE WIZUALIZACJE -->
-          <li class="mm-element">
+          <li class="mm-element
+            {% ifequal slug 'wizualizacje' %}
+                selected
+            {% endifequal %}
+          ">
             <a href="/wizualizacje/">
-              <h3>
+              <h3 
+                 {% ifequal slug 'wizualizacje' %}
+                    class = "selected"
+                 {% endifequal %}               
+              >
                 Nasze wizualizacje
               </h3>
             </a>
           </li>
 
           <!-- KONKURS -->
-          <li class="last mm-element">
+          <li class="mm-element 
+            {% ifequal slug 'konkurs' %}
+                selected
+            {% endifequal %}
+          ">
             <a href="/konkurs/">
-              <h3>
+              <h3
+                 {% ifequal slug 'konkurs' %}
+                    class = "selected"
+                 {% endifequal %}               
+              >
                 Konkurs
               </h3>
             </a>
           </li>
+
+          <!-- EDUKACJA -->
+          <li class="last mm-element
+            {% ifequal slug 'edukacja' %}
+                selected
+            {% endifequal %}
+          ">
+            <a href="/edukacja/">
+              <h3
+                 {% ifequal slug 'edukacja' %}
+                    class = "selected"
+                 {% endifequal %}               
+              >
+                Edukacja
+              </h3>
+            </a>
+          </li>
+
         </ul>
       </nav>
       <br class="clear" />
