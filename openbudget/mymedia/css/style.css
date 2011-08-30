@@ -119,8 +119,8 @@ nav.main-menu {
     margin-top: 30px;
     margin-bottom: 50px;
     margin-right: 12px;
-    padding-left: 19px;
-    padding-right: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-top: 0px;
     padding-bottom: 20px;
     background-image: url('../img/grey-corner.png');
@@ -161,14 +161,20 @@ nav.main-menu {
         padding: 5px;
 }
 
+
 article {
-    overflow: auto;
     background-color: #f0f0f0;
     padding: 20px 10px;
 }    
 
+.mvisualisation{
+    padding-bottom: 0px;
+    border-bottom-width: 0px;
+    margin-bottom: 0px;
+    height: 386px;
+}
 .about section {
-    margin-left: 238px;
+    margin-left: 240px;
     margin-top: 0px;
 }
 
@@ -307,33 +313,100 @@ p {
 
 
 #bread-crumb {
-    margin: 10px 0px;
-    font-size: 16px;
-    color: #d00d0d;
-    font-family: "Cantarell", sans-serif;
+padding: 5px;
+margin: 0px;
+margin-bottom: 3px;
+font-size: 13px;
+color: #fff;
+font-family: "Cantarell", sans-serif;
 }
+
 #bread-crumb > div {
-    display: inline;
+display: inline;
 }
+
 #bread-crumb > div:hover {
-    color: #888;
-    cursor: pointer;
+color: #ff6000;
+cursor: pointer;
 }
 
 .more {
-    color: #888;
+color: #888;
 }
 
 .inactive {
-    color: #333;
-    
+color: #333;
 }
 
 .inactive:hover {
-    color: #333 !important;
-    cursor: default !important;
+color: #333 !important;
+cursor: default !important;
+}
+
+table {
+width: 940px;
+color: #333;
+border-collapse: collapse;
+border: #888 solid 1px;
+}
+.idef {
+width: 15px;
+text-align: right;
+}
+
+.type {
+width: 115px;
+}
+
+.name {
+width: 395px;
+}
+
+.value {
+text-align: right;
+}
+
+thead td.value {
+text-align: center;
+}
+
+td {
+padding: 5px 5px;
+border-right: 1px #888 solid;
+vertical-align: top;
+}
+
+thead td {
+background-color: #888;
+color: #fff;
+}
+
+.even {
+background-color: #fff;
+}
+
+.odd {
+background-color: #eee;
 }
 
 ol {
     padding-left: 40px;
 }
+
+
+.numerek {
+font-weight: bold;
+}
+.visualisation {
+margin-left: -20px;
+padding-top: 5px ;
+width: 940px ;
+padding-bottom: 0px ;
+padding-left: 0px ;
+padding-right: 0px ;
+margin-right: 0px ;
+} 
+
+
+
+
