@@ -3,7 +3,7 @@ from openbudget.budget_site.models import Shorts, Page, Article
 
 class PageAdmin( admin.ModelAdmin ):
     prepopulated_fields = { "slug" : ( "title", ) }
-
+    filter_horizontal = ( 'short', )
     class Media:
         js = ('/mymedia/js/tiny_mce/tiny_mce.js',
               '/mymedia/js/textareas.js',)
@@ -16,10 +16,10 @@ class ArticleAdmin ( admin.ModelAdmin ):
               '/mymedia/js/textareas.js',)
 
 class ShortsAdmin( admin.ModelAdmin ):
-    
+
     class Media:
         js = ('/mymedia/js/tiny_mce/tiny_mce.js',
-              '/mymedia/js/textareas.js',) 
+              '/mymedia/js/textareas.js',)
 
 
 admin.site.register( Shorts, ShortsAdmin )
