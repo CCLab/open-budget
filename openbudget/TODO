@@ -1,6 +1,10 @@
-- strona główna
-- srtrona błędu
-- ewentualnie zmienić sposób indeksowania shortow w page na bardziej wygodny.
+- angielska wersja językowa
+- strona błędu
+- ewentualnie zmienić sposób indeksowania shortow w page na bardziej wygodny. 
+    (np o kolejności decyduje nie indeks, a kolejność w adminie)
 - ewentualnie podzielić css na wiele plikow
+- zmiany w tekstach, linkach części edukacyjnej
+- ewentualnie Menu główne pokazujące aktualną pozycje (jedno sie podswietla)
+
 
 

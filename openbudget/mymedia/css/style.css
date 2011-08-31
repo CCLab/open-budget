@@ -270,7 +270,7 @@ a.right {
     width: 800px;
 }
 
-#full-plate-wraper b {
+#full-plate-wraper > b {
     font-family: "Cantarell",sans-serif;
     text-transform: uppercase;
 }
