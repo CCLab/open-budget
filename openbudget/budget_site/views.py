@@ -12,7 +12,7 @@ def main( request ):
     return HttpResponse( t.render( c ) )
 
 def en_main( request ):
-    t = loader.get_template( "main_en.html" )
+    t = loader.get_template( "main.html" )
     c = Context( { 'name': "name z Django" } )    
 
     return HttpResponse( t.render( c ))    
