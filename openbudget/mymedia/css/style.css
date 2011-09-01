@@ -42,6 +42,19 @@ header {
     padding-left: 10px;
 }
 
+#en-link {
+    font-size: 0.9em;
+    margin-left: 20px;
+    position: absolute;
+    padding-top: 5px;
+
+}
+
+#site-name {
+    float: left;
+    margin-left: 5px;
+}
+
 nav.main-menu {
     margin-top: 80px;
     background-color: #f0f0f0;

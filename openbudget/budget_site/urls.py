@@ -5,6 +5,7 @@ from openbudget import settings
 urlpatterns = patterns( '',
     (r'^media/(?P<path>.*)$', 'django.views.static.serve',
                              {'document_root': settings.MEDIA_ROOT}),
+    (r'^en/', en_main ),
     (r'(?P<slug_name>[\w-]+)/$', page ),
     (r'^$', main ),
 
