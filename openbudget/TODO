@@ -1,5 +1,6 @@
 - skonczyc angielska wersje językowa
 - strona błędu
+- problem z szerokoscia
 - ewentualnie zmienić sposób indeksowania shortow w page na bardziej wygodny. 
     (np o kolejności decyduje nie indeks, a kolejność w adminie)
 - ewentualnie podzielić css na wiele plikow
