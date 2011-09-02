@@ -31,7 +31,7 @@
             </h1>
           </a>
           <span>
-          <a href="/en/" id="en-link"  class="orange cantarell" >English version</a>
+          <a href="http://otwartybudzet.pl" id="en-link"  class="orange cantarell" >Wersja polska</a>
           </span>
         </div>
         <a href="http://en.centrumcyfrowe.pl/">
@@ -51,7 +51,7 @@
                 selected
             {% endifequal %}
           ">
-            <a href="/about-the-project/">
+            <a href="/en/about-the-project/">
               <h3
                  {% ifequal slug 'about-the-project' %}
                     class = "selected"
@@ -62,57 +62,39 @@
             </a>
           </li>
 
-          <!-- NASZE WIZUALIZACJE -->
+          <!-- V I S U A L I Z A T I O N -->
           <li class="mm-element
-            {% ifequal slug 'wizualizacje' %}
+            {% ifequal slug 'visualisation' %}
                 selected
             {% endifequal %}
           ">
-            <a href="/wizualizacje/">
+            <a href="/en/visualisation/">
               <h3 
-                 {% ifequal slug 'wizualizacje' %}
+                 {% ifequal slug 'visualisation' %}
                     class = "selected"
                  {% endifequal %}               
               >
-                Nasze wizualizacje
+                Visualisation
               </h3>
             </a>
           </li>
 
-          <!-- KONKURS -->
+          <!-- C O M P E T I T I O N  -->
           <li class="mm-element 
-            {% ifequal slug 'konkurs' %}
+            {% ifequal slug 'competition' %}
                 selected
             {% endifequal %}
           ">
-            <a href="/konkurs/">
+            <a href="/en/competition/">
               <h3
-                 {% ifequal slug 'konkurs' %}
+                 {% ifequal slug 'competition' %}
                     class = "selected"
                  {% endifequal %}               
               >
-                Konkurs
+                Competition
               </h3>
             </a>
           </li>
-
-          <!-- EDUKACJA -->
-          <li class="last mm-element
-            {% ifequal slug 'edukacja' %}
-                selected
-            {% endifequal %}
-          ">
-            <a href="/edukacja/">
-              <h3
-                 {% ifequal slug 'edukacja' %}
-                    class = "selected"
-                 {% endifequal %}               
-              >
-                Czym jest budżet
-              </h3>
-            </a>
-          </li>
-
         </ul>
       </nav>
       <br class="clear" />
@@ -135,10 +117,13 @@
 
         <!-- grantodawcy -->
         <section>
-          Projekt "Wizualizacja budżetu państwa" jest wspierany przez grant z
+         Trust for Civil Society in Central and Eastern Europe.
+
+          This visualization of Polish state budget data is supported by a grant from 
           <a href="http://www.batory.org.pl/" target="_blank">
-            Fundacji im. Stefana Batorego</a>.
-          Do pracy z danymi wykorzystaliśmy system Raw Salad, tworzony z grantu
+             Stefan Batory Foundation</a>.
+          We are using as our backend Raw Salad, a system for working
+          with public data created by us with a grant from the 
           <a href="http://www.ceetrust.org/" target="_blank">
             Trust for Civil Society in Central and Eastern Europe</a>.
         </section>
@@ -157,9 +142,9 @@
         <!-- projekt: polska -->
         <section class="last">
           <a href="http://centrumcyfrowe.pl/" target="_blank">
-          Centrum Cyfrowe</a> jest częścią 
+          Centrum Cyfrowe</a> is part of 
           <a href="http://projektpolska.pl/" target="_blank">
-            Fundacji Projekt: Polska</a>.
+            Projekt: Polska Fundation</a>.
           <br />
           <a href="http://projektpolska.pl/" target="_blank">
             <img alt="projektpolska.pl" title="Fundacja Projekt: Polska" src="/mymedia/img/ppolska.png" style="margin-top:10px" />
@@ -173,19 +158,24 @@
           Centrum Cyfrowe Projekt:Polska, ul. Mińska 25, 03-808 Warszawa,
           <span style="text-decoration:underline;">kontakt@centrumcyfrowe.pl</span>
           <br />
-          O ile nie jest to stwierdzone inaczej, dane publiczne udostępnione w 
-          serwisie nie są przedmiotem praw autorskich. Wszystkie inne treści, 
-          o ile nie jest to stwierdzone inaczej, są dostępne na licencji 
+            Unless it is mentioned otherwise, all public data published on this 
+            page is not subject to copyright protection. Alle other content, 
+            unless it is mentioned otherwise, is licensed under 
           <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
             Creative Commons Uznanie autorstwa 3.0 Unported</a>. 
-          Pewne prawa zastrzeżone na rzecz 
+          Some rights reserved, 
           <a xmlns:cc="http://creativecommons.org/ns#" href="http://centrumcyfrowe.pl" property="cc:attributionName" rel="cc:attributionURL">
-            Centrum Cyfrowego Projekt: Polska</a>. 
+            Centrum Cyfrowe Projekt: Polska</a>. 
           <br />
           <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
             <img alt="Licencja Creative Commons Uznanie autorstwa 3.0 Unported" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" />
           </a>
         </section>
+
+        <div id="fb" style="position: fixed; bottom: 0px; right: 0px; padding: 5px; padding-bottom: 0px; background-color: #eceef5; -moz-border-radius: 3px; border-radius: 3px;">
+        <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fotwartybudzet.pl%2F&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font=verdana&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+        </div>
+
       </footer>
 
     </div>

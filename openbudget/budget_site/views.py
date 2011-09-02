@@ -11,9 +11,11 @@ def main( request ):
 
     return HttpResponse( t.render( c ) )
 
-def en_main( request ):
-    t = loader.get_template( "main.html" )
-    c = Context( { 'slug': "en" } )    
+def en_page( request, slug_name ):
+    article = Article.objects.get( slug = slug_name )
+    t = loader.get_template( "en_article.html" )       
+    c = Context( {  'article': article,
+                    'slug': slug_name } )    
 
     return HttpResponse( t.render( c ))    
     
