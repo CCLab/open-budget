@@ -115,6 +115,10 @@ nav.main-menu {
     border-bottom: 10px #606060 solid;
 }
 
+.mm-content {
+    position: relative;
+}
+
 #main-content > nav > ul {
     list-style: none;        
 }
