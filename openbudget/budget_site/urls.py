@@ -3,10 +3,18 @@ from openbudget.budget_site.views import *
 from openbudget import settings
 
 urlpatterns = patterns( '',
+    # static files
     (r'^media/(?P<path>.*)$', 'django.views.static.serve',
                              {'document_root': settings.MEDIA_ROOT}),
+
+    # ajax url for getting data from raw salad
+    (r'^get_data/$', get_data ),
+
+    # english version
     (r'^en/(?P<slug_name>[\w-]+)/$', en_page ),
+    # pages
     (r'(?P<slug_name>[\w-]+)/$', page ),
+    # main page
     (r'^$', main ),
 
 )
