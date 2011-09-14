@@ -14,7 +14,6 @@
             data: { level: 'a' },
             datatype: 'json',
             success: function ( received ) {
-                console.log( received );
                 rows = rows.concat( JSON.parse( received ));
                 db_callback();
             }
@@ -23,7 +22,7 @@
 
     function db_callback() {
         create_table();
-        make_bubbles( paper, get_data( rows ), 'v_nation', [ width, 30, height ] );
+        make_bubbles( paper, rows, 'v_nation', [ width, 30, height ] );
     }
 
     // G E T   D A T A
@@ -40,7 +39,7 @@
         var geometry = [ width, 30, height ];
         var db_callback = function () {
             paper.clear();
-            make_bubbles( paper, get_data( rows, parent ), 'v_nation', geometry );
+            make_bubbles( paper, rows, 'v_nation', geometry );
         }
 
         $.ajax({
@@ -48,8 +47,7 @@
             data: { level: level, idef: parent },
             datatype: 'json',
             success: function ( received ) {
-                console.log( received );
-                rows = rows.concat( JSON.parse( received ));
+                rows = JSON.parse( received );
                 db_callback();
             }
         });
@@ -326,27 +324,33 @@
 
         // B R E A D   C R U M B
         var parent_id = raw_data[0]['parent'];
-        var parent_parent_id = null;
         var parent_name;
         var parent_type;
         if( parent_id !== null ) {
-            var parents = Tools.filter( function (element) {
-                return element['idef'] === raw_data[0]['parent'];
-            }, rows );
-            parent_name = parents[0]['name'];
-            parent_parent_id = parents[0]['parent'];
-            parent_type = Tools.toTitleCase( parents[0]['type'] );
+
+            $.ajax({
+                url: 'get_parent',
+                data: { idef: parent_id },
+                datatype: 'json',
+                success: function ( received ) {
+                    received = JSON.parse( received );
+                    parent_type = Tools.toTitleCase( received['type'] );
+                    update_bread_crumb({
+                        name: received['name'],
+                        idef: received['idef'],
+                        type: received['type']
+                    });
+                }
+            })
         }
         else {
-            parent_name = "Budżet zadaniowy 2011";
+            update_bread_crumb({
+                name: "Budżet zadaniowy 2011",
+                idef: parent_id,
+                type: parent_type
+            });
         }
 
-        update_bread_crumb({
-            name: parent_name,
-            idef: parent_id,
-            type: parent_type
-        });
-        draw_bread_crumb( bread_crumb );
         update_table( raw_data );
         return circles;
     }
@@ -369,6 +373,9 @@
         if( found === false ) {
             bread_crumb.push( new_crumb );
         }
+
+        // finally draw the bread-crumb
+        draw_bread_crumb( bread_crumb );
     }
 
 

@@ -64,3 +64,17 @@ def get_data( request ):
     data = [ d for d in data['data'] if d['idef'] != '9999' ]
 
     return HttpResponse( json.dumps( data ))
+
+
+def get_parent( request ):
+    from urllib import urlopen
+    idef = request.GET.get( 'idef', None )
+    host = 'http://cecyf.megivps.pl/api/json/dataset/0/view/1/issue/2011/'
+    fields = '/?fields=idef,name,type'
+
+    if idef == None:
+        return HttpResponse( "No parent idef provided!" )
+
+    data = json.loads( urlopen( host + idef + fields ).read() )
+
+    return HttpResponse( json.dumps( data['data'][0] ))

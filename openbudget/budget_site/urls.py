@@ -7,8 +7,9 @@ urlpatterns = patterns( '',
     (r'^media/(?P<path>.*)$', 'django.views.static.serve',
                              {'document_root': settings.MEDIA_ROOT}),
 
-    # ajax url for getting data from raw salad
+    # ajax url for getting data and parents info from raw salad
     (r'^get_data/$', get_data ),
+    (r'^get_parent/$', get_parent ),
 
     # english version
     (r'^en/(?P<slug_name>[\w-]+)/$', en_page ),
