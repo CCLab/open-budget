@@ -54,7 +54,7 @@ def get_data( request ):
     host = 'http://cecyf.megivps.pl/api/json/dataset/0/view/1/issue/2011/'
     fields = '/?fields=idef,v_nation,name,type'
 
-    if idef != None or idef == '':
+    if level != 'a':
         prev = chr( ord( level ) - 1 )
         url = host + prev + '/' + idef + '/' + level + fields
     else:

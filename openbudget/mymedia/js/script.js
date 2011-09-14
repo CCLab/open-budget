@@ -1,7 +1,7 @@
 (function () {
     var i;
     var height = 350;
-    var width = 940;
+    var width = 939;
     var circles = [];
     var paper = Raphael( 'notepad', width, height );
     var bread_crumb = [];
@@ -422,8 +422,17 @@
 
         // event listener redrawing the visualization
         $('#bread-crumb > div').click( function() {
-            level = Tools.prev_letter( level );
-            redraw( $(this).attr('id') );
+            idef = $(this).attr('id');
+
+            if( idef === '' ) {
+                level = 'a';
+                redraw( idef );
+            }
+            else {
+                // 97 is 'a' in ASCII
+                level = String.fromCharCode( 97 + idef.split('-').length );
+                redraw( idef );
+            }
         });
     }
 
