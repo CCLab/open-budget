@@ -115,10 +115,6 @@ nav.main-menu {
     border-bottom: 10px #606060 solid;
 }
 
-.mm-content {
-    position: relative;
-}
-
 #main-content > nav > ul {
     list-style: none;        
 }
@@ -138,8 +134,8 @@ nav.main-menu {
     margin-top: 20px;
     margin-bottom: 50px;
     margin-right: 12px;
-    padding-left: 19px;
-    padding-right: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-top: 0px;
     padding-bottom: 20px;
     background-image: url('../img/grey-corner.png');
@@ -158,6 +154,8 @@ nav.main-menu {
 
 .article {
     width: 900px; 
+    padding-left: 19px;
+    padding-right: 19px;
 }
 
     .odd {
@@ -172,9 +170,6 @@ nav.main-menu {
         text-align: right;
     }
 
-    table {
-        width: 840px;
-    }
 
     td {
         padding: 5px;
@@ -328,9 +323,6 @@ p {
 .right {
     float: right;
 }
-.bottom {
-    bottom: 5px;
-}
 
 .last {
     margin-left: 0px;
@@ -374,7 +366,7 @@ cursor: default !important;
 }
 
 table {
-width: 940px;
+width: 938px;
 color: #333;
 border-collapse: collapse;
 border: #888 solid 1px;
@@ -428,7 +420,7 @@ ol {
 font-weight: bold;
 }
 .visualisation {
-margin-left: -20px;
+margin-left: -19px;
 padding-top: 5px ;
 width: 940px ;
 padding-bottom: 0px ;

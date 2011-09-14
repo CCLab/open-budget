@@ -1,7 +1,7 @@
 (function () {
     var i;
     var height = 350;
-    var width = 940;
+    var width = 939;
     var circles = [];
     var paper = Raphael( 'notepad', width, height );
     var bread_crumb = [];
