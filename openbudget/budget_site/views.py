@@ -49,10 +49,13 @@ def page( request, slug_name ):
 
 def get_data( request ):
     from urllib import urlopen
+
     level = request.GET.get( 'level', 'a' )
     idef = request.GET.get( 'idef', None )
     host = 'http://cecyf.megivps.pl/api/json/dataset/0/view/1/issue/2011/'
     fields = '/?fields=idef,v_nation,name,type'
+    parent_fields = '/?fields=idef,name,type'
+
 
     if level != 'a':
         prev = chr( ord( level ) - 1 )
@@ -60,21 +63,15 @@ def get_data( request ):
     else:
         url = host + level + fields
 
-    data = json.loads( urlopen( url ).read() )
-    data = [ d for d in data['data'] if d['idef'] != '9999' ]
 
-    return HttpResponse( json.dumps( data ))
+    rows = json.loads( urlopen( url ).read() )
+    rows = [ r for r in rows['data'] if '999' not in r['idef'] ]
 
+    parent_id = rows[0]['parent']
+    parent = None
+    if parent_id != None:
+        parent = json.loads( urlopen( host + parent_id + parent_fields ).read() )
+        parent = parent['data'][0]
 
-def get_parent( request ):
-    from urllib import urlopen
-    idef = request.GET.get( 'idef', None )
-    host = 'http://cecyf.megivps.pl/api/json/dataset/0/view/1/issue/2011/'
-    fields = '/?fields=idef,name,type'
-
-    if idef == None:
-        return HttpResponse( "No parent idef provided!" )
-
-    data = json.loads( urlopen( host + idef + fields ).read() )
-
-    return HttpResponse( json.dumps( data['data'][0] ))
+    meta = json.loads( urlopen( host + 'meta' ).read() )['metadata']
+    return HttpResponse( json.dumps( { 'rows': rows, 'parent': parent, 'name': meta['perspective']} ))

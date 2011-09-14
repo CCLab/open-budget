@@ -8,47 +8,68 @@
     var rows = [];
     var level = 'a';
 
+    // get init data for the level 'a'
     (function () {
+        // loca callback for the ajax request
+        var db_callback = function ( name ) {
+            create_table();
+            make_bubbles( paper, rows, 'v_nation', [ width, 30, height ] );
+            update_bread_crumb({
+                name: name.replace(' - Podzadanie', ''),
+                idef: '',
+                type: ''
+            });
+        };
+
         $.ajax({
             url: 'get_data',
             data: { level: 'a' },
             datatype: 'json',
             success: function ( received ) {
-                rows = rows.concat( JSON.parse( received ));
-                db_callback();
+                data = JSON.parse( received );
+                rows = data['rows'];
+                name = data['name'];
+
+                db_callback( name );
             }
         });
     })();
 
-    function db_callback() {
-        create_table();
-        make_bubbles( paper, rows, 'v_nation', [ width, 30, height ] );
-    }
-
-    // G E T   D A T A
-    function get_data( source, parent ) {
-        var parent = parent || null;
-
-        return source.filter( function ( element ) {
-            return element['parent'] === parent;
-        });
-    }
 
     // R E D R A W
     function redraw( parent ) {
         var geometry = [ width, 30, height ];
-        var db_callback = function () {
+        var db_callback = function ( p_data ) {
             paper.clear();
             make_bubbles( paper, rows, 'v_nation', geometry );
-        }
+            if( p_data !== null ) {
+                update_bread_crumb({
+                    name: p_data['name'],
+                    idef: p_data['idef'],
+                    type: p_data['type']
+                });
+            }
+            else {
+                update_bread_crumb({
+                    name: name.replace(' - Podzadanie', ''),
+                    idef: '',
+                    type: ''
+                });
+            }
+        };
 
         $.ajax({
             url: 'get_data',
             data: { level: level, idef: parent },
             datatype: 'json',
             success: function ( received ) {
-                rows = JSON.parse( received );
-                db_callback();
+                console.log( received );
+                var data = JSON.parse( received );
+                rows = data['rows'];
+                p_data = data['parent'];
+                name = data['name'];
+
+                db_callback( p_data, name );
             }
         });
     }
@@ -322,35 +343,6 @@
         }
 
 
-        // B R E A D   C R U M B
-        var parent_id = raw_data[0]['parent'];
-        var parent_name;
-        var parent_type;
-        if( parent_id !== null ) {
-
-            $.ajax({
-                url: 'get_parent',
-                data: { idef: parent_id },
-                datatype: 'json',
-                success: function ( received ) {
-                    received = JSON.parse( received );
-                    parent_type = Tools.toTitleCase( received['type'] );
-                    update_bread_crumb({
-                        name: received['name'],
-                        idef: received['idef'],
-                        type: received['type']
-                    });
-                }
-            })
-        }
-        else {
-            update_bread_crumb({
-                name: "Budżet zadaniowy 2011",
-                idef: parent_id,
-                type: parent_type
-            });
-        }
-
         update_table( raw_data );
         return circles;
     }
@@ -360,7 +352,7 @@
         var i;
         var found = false;
 
-        // remove unuseful crumbs
+        // remove useless crumbs
         for( i = 0; i < bread_crumb.length; ++i ) {
             if( bread_crumb[i]['idef'] === new_crumb['idef'] ) {
                 bread_crumb = bread_crumb.slice( 0, i+1 );
@@ -443,9 +435,9 @@
         html.push( '<td class="idef">Lp.</td>' );
         html.push( '<td class="type">Typ</td>' );
         html.push( '<td class="name">Nazwa</td>' );
-        html.push( '<td class="eu value">Środki europejskie</td>' );
-        html.push( '<td class="pl value">Środki własne RP</td>' );
-        html.push( '<td class="total value">Suma</td>' );
+//        html.push( '<td class="eu value">Środki europejskie</td>' );
+        html.push( '<td style="width: 100px" class="pl value">Środki własne RP</td>' );
+//        html.push( '<td class="total value">Suma</td>' );
         html.push( '</tr></thead><tbody></tbody></table>' );
 
         $('#table').append( $( html.join('') ));
@@ -465,14 +457,14 @@
 
             html.push( '<td class="name">', data[i]['name'], '</td>' );
 
-            html.push( '<td class="eu value">' );
-            html.push( Tools.money(data[i]['v_eu']) ,'</td>' );
+//            html.push( '<td class="eu value">' );
+//            html.push( Tools.money(data[i]['v_eu']) ,'</td>' );
 
             html.push( '<td class="pl value">' );
             html.push( Tools.money(data[i]['v_nation']) ,'</td>' );
 
-            html.push( '<td class="total value">' );
-            html.push( Tools.money(data[i]['v_total']) ,'</td>' );
+//            html.push( '<td class="total value">' );
+//            html.push( Tools.money(data[i]['v_nation']) ,'</td>' );
             html.push( '</tr>' );
         }
 
