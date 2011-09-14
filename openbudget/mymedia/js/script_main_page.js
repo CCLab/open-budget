@@ -5,6 +5,8 @@
     var circles = [];
     var paper;
     var bread_crumb = [];
+    var rows = [];
+
 
     $('#notepad').html('');
     paper = Raphael( 'notepad', width, height );
@@ -41,7 +43,7 @@
         var min_radius = 2.0;
         var max_line, min_line;
         var modifier;
-        var vis_objects = [];        
+        var vis_objects = [];
         var x, y;
         var ball_color = "#5ab5ff";
         var handle_color = "#aaa";
@@ -50,7 +52,7 @@
         // white background
         canvas
             .rect( 0, 0, width, height )
-            .attr({ 
+            .attr({
                 fill: "#fff",
                 stroke: "none"
             });
@@ -61,14 +63,14 @@
             max_radius = max_radius < radii[i] ? radii[i] : max_radius;
             min_radius = min_radius > radii[i] ? radii[i] : min_radius;
         }
-        
-        
+
+
         function calculate_ratio( ratio, min_radius, previous ) {
             // find a proper ratio for the balls size
             var mini = min_radius;
             var min_radius = Infinity;
             var current;
-            
+
             var ratio = ( width - offset ) / ( Tools.get_sum(radii) * 2 );
             if( max_radius * ratio > 100 ) {
                 ratio = 100 / max_radius;
@@ -80,7 +82,7 @@
             if( current < 3 && Math.abs( previous - current ) > 0.01 ) {
                 for( i = 0; i < radii.length; ++i ) {
                     radii[i] = Tools.remap( radii[i], mini, max_radius, 3/ratio, max_radius );
-                    min_radius = min_radius > radii[i] ? radii[i] : min_radius;                    
+                    min_radius = min_radius > radii[i] ? radii[i] : min_radius;
                 }
                 return calculate_ratio( ratio, min_radius, current );
             }
@@ -131,13 +133,13 @@
                             stroke: "none"
                         })
                 );
-            
+
             if( vis_objects[i]['value'] === 0 ) {
                 vis_objects[i]['graph'][0]
-                    .attr({ 
-                        fill: "#fff", 
-                        stroke: ball_color 
-                    });             
+                    .attr({
+                        fill: "#fff",
+                        stroke: ball_color
+                    });
             }
 
             if( radius > 10 ) {
@@ -151,10 +153,10 @@
                             })
                     );
             }
-            
+
             vis_objects[i]['graph'].translate( 0, 35 );
-            
-            
+
+
             // event listenery
             (function ( vis_object, i ) {
                 var name = vis_object['name'];
@@ -165,13 +167,13 @@
 
                 var i;
                 var counter = 0;
-                
+
                 for( i = 0; i < words.length; ++i ) {
                     if( counter > 80 ) {
                         counter = 0;
                         tmp_name += '\n';
                     }
-                    
+
                     tmp_name += words[i] + " ";
                     counter += words[i].length;
                 }
@@ -182,30 +184,30 @@
                         var bbox;
                         var x_position = 0;
                         var y_position = 0;
-                                        
+
                         vis_object['label'] = canvas.set();
                         vis_object['label'].push(
                             canvas
                                 .text( width / 2, -100, tmp_name )
                                 .attr({
                                     "text-anchor": "start",
-                                    "font-size": "11px"                            
+                                    "font-size": "11px"
                                 }),
                             canvas
                                 .text( width / 2, -100, Tools.money( vis_object['value'] ) )
                                 .attr({
                                     "text-anchor": "start",
                                     "font-size": "11px",
-                                    "font-weight": "bold"                  
+                                    "font-weight": "bold"
                                 }),
                             canvas
                                 .path( "M 0 -100 l 0 0" )
-                        );                                
-                        
+                        );
+
                         bbox = vis_object['label'][0].getBBox();
                         x_position = ( width / 2 ) - ( bbox.width / 2 );
                         y_position = 10 + ( bbox.height / 2 );
-                        
+
                         vis_object['label']
                             .attr({
                                 x: parseInt( x_position, 10 ),
@@ -215,7 +217,7 @@
                             .attr({
                                 x: parseInt( x_position, 10 ),
                                 y: parseInt( y_position, 10 ) * 2 + 4
-                            });                        
+                            });
 
                         vis_object['label'][2]
                             .attr({
@@ -223,7 +225,7 @@
                                        ["l", bbox.width, 0 ]],
                                 stroke: "#ccc",
                                 "stroke-width": "1px"
-                            });                        
+                            });
 
                         if( vis_object['r'] <= 10 ) {
                             vis_object['tooltip'] = canvas.set();
@@ -239,20 +241,20 @@
                                         ["a", 3, 3, 0, 0, 1, -3, 3],
                                         ["l", -4, 0],
                                         // tip
-                                        ["l", -3, 4],                                        
-                                        ["l", -3, -4],                                        
-                                        ["l", -4, 0],                                        
+                                        ["l", -3, 4],
+                                        ["l", -3, -4],
+                                        ["l", -4, 0],
                                         // bottom-left
                                         ["a", 3, 3, 90, 0, 1, -3, -3],
                                         ["l", 0, -8],
                                         // top-left
-                                        ["a", 3, 3, 180, 0, 1, 3, -3]                                                                  
+                                        ["a", 3, 3, 180, 0, 1, 3, -3]
                                     ])
                                     .attr({
                                         stroke: "#ccc",
                                         fill: "#7c7c7c"
                                     }),
-                                    
+
                                 canvas
                                     .text( x, vis_object['y'], vis_object['id'] )
                                     .attr({
@@ -262,26 +264,26 @@
                             )
                             .toFront()
                             .translate( 0, 10 );
-                        }                            
-                        
+                        }
+
                         if( vis_object['leaf'] !== true && vis_object['value'] !== 0 ) {
                             vis_object['graph'].attr({
                                 cursor: "pointer"
                             });
                             vis_object['graph'][0].attr({
                                 fill: "#9e0b57"
-                            });                        
+                            });
                         }
                     })
                     .mouseout( function (event) {
-                        vis_object['label'].remove();                    
+                        vis_object['label'].remove();
                         if( vis_object['tooltip'] ) {
                             vis_object['tooltip'].remove();
                         }
                         if( vis_object['value'] !== 0 ) {
                             vis_object['graph'][0].attr({
                                 fill: ball_color
-                            });                        
+                            });
                         }
                     })
                     .click( function (event) {
@@ -341,7 +343,7 @@
         if( found === false ) {
             bread_crumb.push( new_crumb );
         }
-    } 
+    }
 
 
     function draw_bread_crumb( bread_crumb ) {
@@ -361,9 +363,9 @@
                 html.push( '<div id="', bread_crumb[i]['idef'] );
                 html.push( '" class="inactive">' );
                 if( bread_crumb[i]['idef'] ) {
-                    html.push( '<span class="numerek">' );                
-                    html.push( bread_crumb[i]['type'].replace(/-/g, '.'), ' ' );                    
-                    html.push( '</span> - ' );                    
+                    html.push( '<span class="numerek">' );
+                    html.push( bread_crumb[i]['type'].replace(/-/g, '.'), ' ' );
+                    html.push( '</span> - ' );
                 }
                 html.push( bread_crumb[i]['name'] );
                 html.push( '</div><br />' );
@@ -373,7 +375,7 @@
                 html.push( '<div id="', bread_crumb[i]['idef'], '">' );
                 if( bread_crumb[i]['idef'] ) {
                     html.push( '<span class="numerek">' );
-                    html.push( bread_crumb[i]['type'].replace(/-/g, '.'), ' ' );                    
+                    html.push( bread_crumb[i]['type'].replace(/-/g, '.'), ' ' );
                     html.push( '</span> - ' );
                 }
                 html.push( bread_crumb[i]['name'] );
@@ -383,7 +385,7 @@
 
         // clear and container and append a newly cereated bread crumb
         $('#bread-crumb').html('');
-        $('#bread-crumb').append( $( html.join('') ));        
+        $('#bread-crumb').append( $( html.join('') ));
 
         // event listener redrawing the visualization
         $('#bread-crumb > div').click( function() {
@@ -391,7 +393,7 @@
         });
     }
 
-    
+
     function create_table() {
         // create a header with empty table body
         var html = [ '<table><thead><tr>' ];
@@ -402,7 +404,7 @@
         html.push( '<td class="pl value">Środki własne RP</td>' );
         html.push( '<td class="total value">Suma</td>' );
         html.push( '</tr></thead><tbody></tbody></table>' );
-    
+
         $('#table').append( $( html.join('') ));
     }
 
@@ -414,24 +416,24 @@
         for( i = 0; i < data.length; ++i ) {
             html.push( '<tr class="', (i % 2 === 0 ? 'even' : 'odd'), '">' );
             html.push( '<td class="idef">', (i+1) ,'.</td>' );
-            
+
             html.push( '<td class="type">' );
             html.push( Tools.toTitleCase(data[i]['type']) ,'</td>' );
-            
+
             html.push( '<td class="name">', data[i]['name'], '</td>' );
-            
+
             html.push( '<td class="eu value">' );
             html.push( Tools.money(data[i]['v_eu']) ,'</td>' );
-            
+
             html.push( '<td class="pl value">' );
             html.push( Tools.money(data[i]['v_nation']) ,'</td>' );
-            
+
             html.push( '<td class="total value">' );
             html.push( Tools.money(data[i]['v_total']) ,'</td>' );
             html.push( '</tr>' );
         }
-        
-        // clear and container and append a new table body        
+
+        // clear and container and append a new table body
         $('tbody').html('');
         $('tbody').append( $( html.join('') ));
     }

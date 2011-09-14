@@ -7,14 +7,14 @@ var Tools = (function () {
         var result = [];
         var element;
         var i;
-            
+
         for( i = 0; i < list.length; i += 1 ) {
             element = list[ i ];
             if( fn( element ) ) {
                 result.push( element );
             }
-        } 
-        
+        }
+
         return result;
     };
 
@@ -32,9 +32,54 @@ var Tools = (function () {
     };
 
 
+    that.next_letter = function ( letter ) {
+        var number = letter.charCodeAt( 0 );
+
+        return String.fromCharCode( number + 1 );
+    };
+
+
+    that.prev_letter = function ( letter ) {
+        var number = letter.charCodeAt( 0 );
+
+        return String.fromCharCode( number - 1 );
+    };
+
+
+    that.create_preloader = function( text ) {
+        var preloader;
+        var html = [];
+        var x = $(window).width() / 2 - 100;
+
+        html.push('<div id="preloader">');
+        html.push( text );
+        html.push('</div>');
+
+        preloader = $( html.join('') );
+        preloader.css({
+            'width': '200px',
+            'border-radius': '0px 0px 5px 5px',
+            'padding-top': '3px',
+            'padding-bottom': '5px',
+            'border': 'solid 2px #555',
+            'background-color': '#F8F09D',
+            'text-align': 'center',
+            'position': 'fixed',
+            'top': '-2px',
+            'left': x
+        });
+
+        $('body').append( preloader );
+    };
+
+    that.clear_preloader = function() {
+        $('#preloader').remove();
+    };
+
+
     // get sum of array elements
     that.get_sum = function ( data ) {
-  
+
         return data.length === 1 ?
                data[0] :
                data[0] + that.get_sum( data.slice( 1 ));
@@ -47,11 +92,11 @@ var Tools = (function () {
         var imax = imax || 1;
         var omin = omin || 0;
         var omax = omax || 1;
-        
+
         return omin + ( omax - omin ) * (( x - imin ) / ( imax - imin ));
     };
 
-    
+
     // get sum of given key in the array of objects
     that.get_total = function ( data, key ) {
         if( data.length === 1 ) {
@@ -84,6 +129,6 @@ var Tools = (function () {
         cut( value );
         return value === '0' ? '0' : result.reverse().join(' ') + " 000";
     };
-    
+
     return that;
 })();
