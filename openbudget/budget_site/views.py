@@ -52,7 +52,7 @@ def get_data( request ):
 
     level = request.GET.get( 'level', 'a' )
     idef = request.GET.get( 'idef', None )
-    host = 'http://cecyf.megivps.pl/api/json/dataset/0/view/1/issue/2011/'
+    host = 'http://cecyf.megivps.pl/api/json/dataset/0/view/1/issue/2012/'
     fields = '/?fields=idef,v_nation,name,type'
     parent_fields = '/?fields=idef,name,type'
 

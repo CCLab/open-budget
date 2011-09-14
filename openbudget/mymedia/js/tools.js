@@ -46,6 +46,37 @@ var Tools = (function () {
     };
 
 
+    that.create_preloader = function( text ) {
+        var preloader;
+        var html = [];
+        var x = $(window).width() / 2 - 100;
+
+        html.push('<div id="preloader">');
+        html.push( text );
+        html.push('</div>');
+
+        preloader = $( html.join('') );
+        preloader.css({
+            'width': '200px',
+            'border-radius': '0px 0px 5px 5px',
+            'padding-top': '3px',
+            'padding-bottom': '5px',
+            'border': 'solid 2px #555',
+            'background-color': '#F8F09D',
+            'text-align': 'center',
+            'position': 'fixed',
+            'top': '-2px',
+            'left': x
+        });
+
+        $('body').append( preloader );
+    };
+
+    that.clear_preloader = function() {
+        $('#preloader').remove();
+    };
+
+
     // get sum of array elements
     that.get_sum = function ( data ) {
 

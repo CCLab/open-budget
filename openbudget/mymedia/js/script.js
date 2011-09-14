@@ -58,6 +58,7 @@
             }
         };
 
+        Tools.create_preloader( "Wczytuję dane..." );
         $.ajax({
             url: 'get_data',
             data: { level: level, idef: parent },
@@ -70,6 +71,7 @@
                 name = data['name'];
 
                 db_callback( p_data, name );
+                Tools.clear_preloader();
             }
         });
     }
