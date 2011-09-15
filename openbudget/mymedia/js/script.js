@@ -77,8 +77,12 @@
     }
 
     // M A K E   B U B B L E S
-    function make_bubbles( canvas, data, key, geometry ) {
-        var raw_data = data;
+    function make_bubbles( canvas, data, key, geometry, sorting ) {
+        var raw_data = !sorting ?
+			    data :
+			    data.sort( function ( a, b ) {
+                    return b['v_nation'] - a['v_nation'];
+			    });
         var data = Tools.normalize_data( raw_data, key );
         var width = geometry[0] || 900;
         var offset = geometry[1] || 0;
@@ -143,6 +147,64 @@
         for( i = 0; i < radii.length; ++i ) {
             offset -= radii[i] * ratio;
         }
+
+        // sort button
+        var sort_button = canvas.set();
+        sort_button.push(
+            canvas
+            .rect( 7, 30, 185, 20, 3 )
+            .attr({
+                fill: "none",
+                stroke: "#d4ecff"
+            }),
+            canvas
+            .text( 10, 38, !sorting ?
+                       'Układ według wartości pozycji' :
+                       'Układ według funkcji budżetu' )
+            .attr({
+                fill: "#5b5b5b",
+                "text-anchor": "start",
+                "font-size": "13px"
+            })
+        );
+
+        canvas
+            .text( 10, 17, !sorting ?
+                   'Układ według funkcji budżetu' :
+                   'Układ według wartości pozycji' )
+            .attr({
+            fill: "#3b3b3b",
+            "text-anchor": "start",
+            "font-size": "13px",
+            "font-weight": "bold"
+             });
+
+        canvas
+            .path("M 7 25 l 193 0")
+            .attr({
+            fill: "none",
+            stroke: ball_color
+            });
+
+        sort_button
+            .mouseover( function ( event ) {
+            this.attr({
+                cursor: "pointer",
+            });
+
+            sort_button[0].attr({
+                fill: "#d4ecff"
+            });
+            })
+            .mouseout( function ( event ) {
+            sort_button[0].attr({
+                fill: "none"
+            });
+            })
+            .click( function ( event ) {
+            redraw( raw_data[0]['parent'], !sorting );
+            });
+
 
 
         // M A I N   V I S U A L I Z A T I O N   L O O P
@@ -437,9 +499,7 @@
         html.push( '<td class="idef">Lp.</td>' );
         html.push( '<td class="type">Typ</td>' );
         html.push( '<td class="name">Nazwa</td>' );
-//        html.push( '<td class="eu value">Środki europejskie</td>' );
-        html.push( '<td style="width: 100px" class="pl value">Środki własne RP</td>' );
-//        html.push( '<td class="total value">Suma</td>' );
+        html.push( '<td style="width: 100px" class="pl value">Suma</td>' );
         html.push( '</tr></thead><tbody></tbody></table>' );
 
         $('#table').append( $( html.join('') ));
@@ -459,14 +519,9 @@
 
             html.push( '<td class="name">', data[i]['name'], '</td>' );
 
-//            html.push( '<td class="eu value">' );
-//            html.push( Tools.money(data[i]['v_eu']) ,'</td>' );
-
             html.push( '<td class="pl value">' );
             html.push( Tools.money(data[i]['v_nation']) ,'</td>' );
 
-//            html.push( '<td class="total value">' );
-//            html.push( Tools.money(data[i]['v_nation']) ,'</td>' );
             html.push( '</tr>' );
         }
 
