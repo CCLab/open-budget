@@ -1,13 +1,22 @@
 from django.db import models
+from ckeditor.fields import RichTextField
 
-class Article( models.Model ):
+
+# Parent model for Page and Article models. Use by Menu model
+class MenuItem( models.Model ):
     title = models.CharField( max_length = 200 )
     slug = models.CharField( max_length = 200, unique = True )
-    summary = models.TextField()
-    body = models.TextField()
-
+    
     def __unicode__( self ):
         return self.title
+
+class Article( MenuItem ):
+    summary = models.TextField()
+    body = RichTextField()
+
+class Page( MenuItem ):
+    summary = models.TextField()
+    groups = models.ManyToManyField( 'Group' )    
 
 class Group( models.Model ):
     title = models.CharField( max_length = 200 )
@@ -17,15 +26,5 @@ class Group( models.Model ):
     def __unicode__( self ):
         return self.title
 
-class Page( models.Model ):
-    title = models.CharField( max_length = 200 )
-    slug = models.CharField( max_length = 200, unique = True )
-    summary = models.TextField()
-    groups = models.ManyToManyField( 'Group' )    
-
-    def __unicode__( self ):
-        return self.title
-
-
-#class Menu( models.Model ):
-#    content = models.ManyToManyField( 'Page', 'Article')
+class Menu( models.Model ):
+    content = models.ManyToManyField( 'MenuItem' )

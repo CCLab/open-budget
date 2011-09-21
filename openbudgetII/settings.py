@@ -72,6 +72,10 @@ STATICFILES_DIRS = (
     # Put strings here, like "/home/html/static" or "C:/www/django/static".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
+    ( "js", "/home/j/CCLab/open-budget/openbudgetII/static/js" ),
+    ( "pictures", "/home/j/CCLab/open-budget/openbudgetII/static/pictures" ),
+    ( "ckeditor", "/home/j/CCLab/open-budget/openbudgetII/static/ckeditor" ),
+    ( "uploads", "/home/j/CCLab/open-budget/openbudgetII/static/uploads" ),
 )
 
 # List of finder classes that know how to find static files in
@@ -120,6 +124,7 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
     'openbudgetII.budget_site',
+    'openbudgetII.ckeditor'
 )
 
 # A sample logging configuration. The only tangible logging
@@ -143,4 +148,22 @@ LOGGING = {
             'propagate': True,
         },
     }
+}
+
+# CKEditor setings
+CKEDITOR_MEDIA_PREFIX = "ckeditor/"
+
+CKEDITOR_UPLOAD_PATH = "uploads"
+
+CKEDITOR_RESTRICT_BY_USER = True
+
+CKEDITOR_CONFIGS = {
+    'awesome_ckeditor': {
+        'toolbar': 'Basic',
+    },
+    'default': {
+        'toolbar': 'Full',
+        'height': 300,
+        'width': 300,
+    },
 }

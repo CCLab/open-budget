@@ -12,10 +12,10 @@ class PageAdmin ( admin.ModelAdmin ):
     prepopulated_fields = { "slug" : ( "title", ) }
     filter_horizontal = ( 'groups', )
 
-#class MenuAdmin ( admin.ModelAdmin ): 
-#    filter_horizontal = ( 'content', )   
+class MenuAdmin ( admin.ModelAdmin ): 
+    filter_horizontal = ( 'content', )   
 
 admin.site.register( Article, ArticleAdmin )
 admin.site.register( Group, GroupAdmin )
 admin.site.register( Page, PageAdmin )
-#admin.site.register( Menu, MenuAdmin )
+admin.site.register( Menu, MenuAdmin )
