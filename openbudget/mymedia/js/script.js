@@ -7,23 +7,26 @@
     var bread_crumb = [];
     var rows = [];
     var level = 'a';
+    var collection = '1';
+    var year = '2011';
+
 
     // get init data for the level 'a'
     (function () {
         // loca callback for the ajax request
         var db_callback = function ( name ) {
             create_table();
-            make_bubbles( paper, rows, 'v_nation', [ width, 30, height ] );
+            make_bubbles( paper, rows, 'v_nation', [ width, 30, height ], false );
             update_bread_crumb({
                 name: name.replace(' - Podzadanie', ''),
                 idef: '',
                 type: ''
-            });
+            }, false );
         };
 
         $.ajax({
             url: 'get_data',
-            data: { level: 'a' },
+            data: { level: 'a', collection: collection, year: year },
             datatype: 'json',
             success: function ( received ) {
                 data = JSON.parse( received );
@@ -37,34 +40,33 @@
 
 
     // R E D R A W
-    function redraw( parent ) {
+    function redraw( parent, sorting ) {
         var geometry = [ width, 30, height ];
         var db_callback = function ( p_data ) {
             paper.clear();
-            make_bubbles( paper, rows, 'v_nation', geometry );
+            make_bubbles( paper, rows, 'v_nation', geometry, sorting );
             if( p_data !== null ) {
                 update_bread_crumb({
                     name: p_data['name'],
                     idef: p_data['idef'],
                     type: p_data['type']
-                });
+                }, sorting );
             }
             else {
                 update_bread_crumb({
                     name: name.replace(' - Podzadanie', ''),
                     idef: '',
                     type: ''
-                });
+                }, sorting );
             }
         };
 
         Tools.create_preloader( "Wczytuję dane..." );
         $.ajax({
             url: 'get_data',
-            data: { level: level, idef: parent },
+            data: { level: level, idef: parent, collection: collection, year: year },
             datatype: 'json',
             success: function ( received ) {
-                console.log( received );
                 var data = JSON.parse( received );
                 rows = data['rows'];
                 p_data = data['parent'];
@@ -78,11 +80,13 @@
 
     // M A K E   B U B B L E S
     function make_bubbles( canvas, data, key, geometry, sorting ) {
+        console.log( "MAKE BUBBLES: " + sorting );
+        var tmp_data = data.slice();
         var raw_data = !sorting ?
-			    data :
-			    data.sort( function ( a, b ) {
-                    return b['v_nation'] - a['v_nation'];
-			    });
+			    tmp_data :
+			    tmp_data.sort( function ( a, b ) {
+                        return b['v_nation'] - a['v_nation'];
+			        });
         var data = Tools.normalize_data( raw_data, key );
         var width = geometry[0] || 900;
         var offset = geometry[1] || 0;
@@ -188,21 +192,23 @@
 
         sort_button
             .mouseover( function ( event ) {
-            this.attr({
-                cursor: "pointer",
-            });
+                this.attr({
+                    cursor: "pointer",
+                });
 
-            sort_button[0].attr({
-                fill: "#d4ecff"
-            });
+                sort_button[0].attr({
+                    fill: "#d4ecff"
+                });
             })
             .mouseout( function ( event ) {
-            sort_button[0].attr({
-                fill: "none"
-            });
+                sort_button[0].attr({
+                    fill: "none"
+                });
             })
             .click( function ( event ) {
-            redraw( raw_data[0]['parent'], !sorting );
+                var geometry = [ width, 30, height ];
+                make_bubbles( paper, rows, 'v_nation', geometry , !sorting );
+                draw_bread_crumb( bread_crumb, !sorting );
             });
 
 
@@ -397,7 +403,7 @@
                     .click( function (event) {
                         if( vis_object['leaf'] !== true ) {
                             level = Tools.next_letter( level );
-                            redraw( vis_object['idef'] );
+                            redraw( vis_object['idef'], sorting );
                         }
                     });
 
@@ -412,10 +418,11 @@
     }
 
 
-    function update_bread_crumb( new_crumb ) {
+    function update_bread_crumb( new_crumb, sorting ) {
         var i;
         var found = false;
 
+        console.log( "BREAD UPDATE: " + sorting );
         // remove useless crumbs
         for( i = 0; i < bread_crumb.length; ++i ) {
             if( bread_crumb[i]['idef'] === new_crumb['idef'] ) {
@@ -431,11 +438,11 @@
         }
 
         // finally draw the bread-crumb
-        draw_bread_crumb( bread_crumb );
+        draw_bread_crumb( bread_crumb, sorting );
     }
 
 
-    function draw_bread_crumb( bread_crumb ) {
+    function draw_bread_crumb( bread_crumb, sorting ) {
         var html = [];
         var i;
 
@@ -479,15 +486,16 @@
         // event listener redrawing the visualization
         $('#bread-crumb > div').click( function() {
             idef = $(this).attr('id');
+            console.log( sorting );
 
             if( idef === '' ) {
                 level = 'a';
-                redraw( idef );
+                redraw( idef ,sorting );
             }
             else {
                 // 97 is 'a' in ASCII
                 level = String.fromCharCode( 97 + idef.split('-').length );
-                redraw( idef );
+                redraw( idef, sorting );
             }
         });
     }
