@@ -9,6 +9,7 @@
     var level = 'a';
     var collection = '1';
     var year = '2011';
+    var global_sorting = false;
 
 
     // get init data for the level 'a'
@@ -41,6 +42,7 @@
 
     // R E D R A W
     function redraw( parent, sorting ) {
+        var sorting = sorting || global_sorting;
         var geometry = [ width, 30, height ];
         var db_callback = function ( p_data ) {
             paper.clear();
@@ -152,6 +154,7 @@
             offset -= radii[i] * ratio;
         }
 
+
         // sort button
         var sort_button = canvas.set();
         sort_button.push(
@@ -164,7 +167,7 @@
             canvas
             .text( 10, 38, !sorting ?
                        'Układ według wartości pozycji' :
-                       'Układ według funkcji budżetu' )
+                       'Układ według pozycji' )
             .attr({
                 fill: "#5b5b5b",
                 "text-anchor": "start",
@@ -174,7 +177,7 @@
 
         canvas
             .text( 10, 17, !sorting ?
-                   'Układ według funkcji budżetu' :
+                   'Układ według pozycji' :
                    'Układ według wartości pozycji' )
             .attr({
             fill: "#3b3b3b",
@@ -207,12 +210,137 @@
             })
             .click( function ( event ) {
                 var geometry = [ width, 30, height ];
+                global_sorting = !sorting;
                 make_bubbles( paper, rows, 'v_nation', geometry , !sorting );
                 draw_bread_crumb( bread_crumb, !sorting );
             });
 
 
+////////////////////////////////////////////////////////////////////////////////////////////////////
+        // year button
+        var year_button = canvas.set();
+        year_button.push(
+            canvas
+            .rect( width*0.87, 30, 100, 20, 3 )
+            .attr({
+                fill: "none",
+                stroke: "#d4ecff"
+            }),
+            canvas
+            .text( width*0.87+7, 39, year === '2011' ?
+                       'Rocznik 2012' :
+                       'Rocznik 2011' )
+            .attr({
+                fill: "#5b5b5b",
+                "text-anchor": "start",
+                "font-size": "13px"
+            })
+        );
 
+        canvas
+            .text( width*0.87+7, 17, year === '2011' ?
+                       'Rocznik 2011' :
+                       'Rocznik 2012' )
+            .attr({
+            fill: "#3b3b3b",
+            "text-anchor": "start",
+            "font-size": "13px",
+            "font-weight": "bold"
+             });
+
+        canvas
+            .path("M 7 25 l 193 0")
+            .attr({
+            fill: "none",
+            stroke: ball_color
+            });
+
+        year_button
+            .mouseover( function ( event ) {
+                this.attr({
+                    cursor: "pointer",
+                });
+
+                year_button[0].attr({
+                    fill: "#d4ecff"
+                });
+            })
+            .mouseout( function ( event ) {
+                year_button[0].attr({
+                    fill: "none"
+                });
+            })
+            .click( function ( event ) {
+                level = 'a';
+                year = year === '2011' ? '2012' : '2011';
+                bread_crumb = [];
+                redraw();
+            });
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+        // collection button
+        var collection_button = canvas.set();
+        collection_button.push(
+            canvas
+            .rect( width*0.7, 30, 152, 20, 3 )
+            .attr({
+                fill: "none",
+                stroke: "#d4ecff"
+            }),
+            canvas
+            .text( width*0.7+7, 39, collection === '1' ?
+                       'Budżet instytucjonalny' :
+                       'Budżet zadaniowy' )
+            .attr({
+                fill: "#5b5b5b",
+                "text-anchor": "start",
+                "font-size": "13px"
+            })
+        );
+
+        canvas
+            .text( width*0.7+7, 17, collection === '1' ?
+                       'Budżet zadaniowy' :
+                       'Budżet instytucjonalny' )
+            .attr({
+            fill: "#3b3b3b",
+            "text-anchor": "start",
+            "font-size": "13px",
+            "font-weight": "bold"
+             });
+
+        canvas
+            .path("M 7 25 l 193 0")
+            .attr({
+            fill: "none",
+            stroke: ball_color
+            });
+
+        collection_button
+            .mouseover( function ( event ) {
+                this.attr({
+                    cursor: "pointer",
+                });
+
+                collection_button[0].attr({
+                    fill: "#d4ecff"
+                });
+            })
+            .mouseout( function ( event ) {
+                collection_button[0].attr({
+                    fill: "none"
+                });
+            })
+            .click( function ( event ) {
+                level = 'a';
+                collection = collection === '1' ? '2' : '1';
+                bread_crumb = [];
+                redraw();
+            });
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
         // M A I N   V I S U A L I Z A T I O N   L O O P
         for( i = 0; i < data.length; ++i ) {
             // ball geometry
@@ -283,7 +411,7 @@
                 var counter = 0;
 
                 for( i = 0; i < words.length; ++i ) {
-                    if( counter > 80 ) {
+                    if( counter > 60 ) {
                         counter = 0;
                         tmp_name += '\n';
                     }
