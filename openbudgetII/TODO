@@ -1,3 +1,5 @@
 - add filter for many-to-many field in Group, and Page
 - change article slug when article is adding to page or group?
-- 
+- set toolbar options for CKEditor in settings.py (http://docs.cksource.com/CKEditor_3.x/Developers_Guide/Toolbar)
+- diferent toolbars for multiple ckeditors  on one page (? http://docs.cksource.com/CKEditor_3.x/Developers_Guide/Setting_Configurations, http://nightly.ckeditor.com/7291/_samples/skins.html) 
+https://github.com/dwaiter/django-ckeditor

@@ -1,5 +1,4 @@
 from django.db import models
-from ckeditor.fields import RichTextField
 
 
 # Parent model for Page and Article models. Use by Menu model
@@ -12,7 +11,7 @@ class MenuItem( models.Model ):
 
 class Article( MenuItem ):
     summary = models.TextField()
-    body = RichTextField()
+    body = models.TextField()
 
 class Page( MenuItem ):
     summary = models.TextField()

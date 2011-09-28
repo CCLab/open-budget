@@ -151,19 +151,37 @@ LOGGING = {
 }
 
 # CKEditor setings
-CKEDITOR_MEDIA_PREFIX = "ckeditor/"
+CKEDITOR_MEDIA_PREFIX = 'ckeditor/'
 
-CKEDITOR_UPLOAD_PATH = "uploads"
+CKEDITOR_UPLOAD_PATH = 'uploads/'
 
 CKEDITOR_RESTRICT_BY_USER = True
 
+# CKEditor configuration 
 CKEDITOR_CONFIGS = {
-    'awesome_ckeditor': {
-        'toolbar': 'Basic',
+    'summary': {
+        'defaultLanguage' : 'en',
+        'skin' : 'kama',
+        'toolbar': [
+            [      'Undo', 'Redo',
+              '-', 'Bold', 'Italic', 'Underline',
+            ],
+        ],
     },
-    'default': {
-        'toolbar': 'Full',
-        'height': 300,
-        'width': 300,
+    'body': {
+        'defaultLanguage' : 'pl',
+#        'toolbar' : 'Basic',
+        'toolbar': [
+            [      'Undo', 'Redo',
+              '-', 'Bold', 'Italic', 'Underline',
+              '-', 'Link', 'Unlink', 'Anchor',
+              '-', 'Format',
+              '-', 'SpellChecker', 'Scayt',
+              '-', 'Maximize',
+            ],
+        ],
+        'skin' : 'v2',
+        'height': 400,
+        'width': 900,
     },
 }
